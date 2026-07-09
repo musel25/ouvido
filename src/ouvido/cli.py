@@ -41,6 +41,48 @@ def write_jsonl(path: str, rows: list[dict]) -> None:
             fh.write(json.dumps(row, ensure_ascii=False) + "\n")
 
 
+def _handle_filter_candidates(args: argparse.Namespace) -> int:
+    from ouvido.candidates import Candidate, filter_candidates
+    from ouvido.corpus import load_subtlex
+
+    freqs = load_subtlex(args.freqs_path)
+
+    filenames = sorted(f for f in os.listdir(args.in_path) if f.endswith(".json"))
+    all_cands: list[Candidate] = []
+    for fname in filenames:
+        rows = read_json(os.path.join(args.in_path, fname))
+        for row in rows:
+            all_cands.append(Candidate(
+                item=row["item"],
+                es=row["es"],
+                stratum=row["stratum"],
+                rules=row["rules"],
+                subtlex_rank=row.get("subtlex_rank"),
+            ))
+
+    kept, rejected = filter_candidates(all_cands, freqs)
+
+    write_json(args.out_path, [
+        {
+            "item": c.item,
+            "es": c.es,
+            "stratum": c.stratum,
+            "rules": c.rules,
+            "subtlex_rank": c.subtlex_rank,
+        }
+        for c in kept
+    ])
+    write_jsonl(args.log_path, rejected)
+
+    print(f"kept {len(kept)}, rejected {len(rejected)} (from {len(filenames)} files)")
+    return 0
+
+
+_HANDLERS = {
+    "filter-candidates": _handle_filter_candidates,
+}
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="ouvido")
     subs = parser.add_subparsers(dest="command")
@@ -63,7 +105,10 @@ def main(argv: list[str] | None = None) -> int:
     if not args.command:
         print("no subcommand given; try --help")
         return 2
-    raise SystemExit(f"handler for {args.command!r} is implemented in a later task")
+    handler = _HANDLERS.get(args.command)
+    if handler is None:
+        raise SystemExit(f"handler for {args.command!r} is implemented in a later task")
+    return handler(args)
 
 
 if __name__ == "__main__":  # `python -m ouvido.cli <subcommand>`

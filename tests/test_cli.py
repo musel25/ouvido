@@ -55,3 +55,86 @@ def test_module_entrypoint_prints_help(tmp_path):
     assert r.returncode == 0
     assert "filter-candidates" in r.stdout
     assert "push-notes" in r.stdout
+
+
+def _write_freqs_tsv(path):
+    path.write_text(
+        "Word\tFREQcount\n"
+        "bagunça\t400\n"
+        "esquisito\t300\n"
+        "hospital\t900\n"
+        "inventado\t1\n",
+        encoding="utf-8",
+    )
+
+
+def test_filter_candidates_handler_kept_and_log(tmp_path, capsys):
+    in_dir = tmp_path / "candidates"
+    in_dir.mkdir()
+    (in_dir / "01_lexico.json").write_text(json.dumps([
+        {"item": "hospital", "es": "hospital", "stratum": "lexico", "rules": ["R1"], "subtlex_rank": 12},
+        {"item": "bagunça", "es": "desorden", "stratum": "lexico", "rules": ["R1"], "subtlex_rank": 700},
+    ]), encoding="utf-8")
+    (in_dir / "02_falso-amigo.json").write_text(json.dumps([
+        {"item": "esquisito", "es": "exquisito", "stratum": "falso-amigo", "rules": ["R2"], "subtlex_rank": 300},
+        {"item": "inventado", "es": "palabra rara", "stratum": "lexico", "rules": ["R1"], "subtlex_rank": None},
+    ]), encoding="utf-8")
+
+    freqs_path = tmp_path / "subtlex.tsv"
+    _write_freqs_tsv(freqs_path)
+
+    out_path = tmp_path / "kept.json"
+    log_path = tmp_path / "logs" / "rejected.jsonl"
+
+    rc = main([
+        "filter-candidates",
+        "--in", str(in_dir),
+        "--freqs", str(freqs_path),
+        "--out", str(out_path),
+        "--log", str(log_path),
+    ])
+
+    assert rc == 0
+    assert out_path.exists()
+    assert log_path.exists()
+
+    kept = json.loads(out_path.read_text(encoding="utf-8"))
+    rejected_lines = log_path.read_text(encoding="utf-8").strip().split("\n")
+    rejected = [json.loads(line) for line in rejected_lines]
+
+    assert {c["item"] for c in kept} == {"bagunça", "esquisito"}
+    assert {r["item"] for r in rejected} == {"hospital", "inventado"}
+    assert all("reason" in r for r in rejected)
+    assert len(kept) + len(rejected) == 4
+
+    captured = capsys.readouterr()
+    assert captured.out.strip() == "kept 2, rejected 2 (from 2 files)"
+
+
+def test_filter_candidates_handler_creates_empty_log_when_nothing_rejected(tmp_path):
+    in_dir = tmp_path / "candidates"
+    in_dir.mkdir()
+    (in_dir / "01_lexico.json").write_text(json.dumps([
+        {"item": "bagunça", "es": "desorden", "stratum": "lexico", "rules": ["R1"], "subtlex_rank": 700},
+        {"item": "esquisito", "es": "exquisito", "stratum": "falso-amigo", "rules": ["R2"], "subtlex_rank": 300},
+    ]), encoding="utf-8")
+
+    freqs_path = tmp_path / "subtlex.tsv"
+    _write_freqs_tsv(freqs_path)
+
+    out_path = tmp_path / "kept.json"
+    log_path = tmp_path / "logs" / "rejected.jsonl"
+
+    rc = main([
+        "filter-candidates",
+        "--in", str(in_dir),
+        "--freqs", str(freqs_path),
+        "--out", str(out_path),
+        "--log", str(log_path),
+    ])
+
+    assert rc == 0
+    kept = json.loads(out_path.read_text(encoding="utf-8"))
+    assert len(kept) == 2
+    assert log_path.exists()
+    assert log_path.read_text(encoding="utf-8") == ""
