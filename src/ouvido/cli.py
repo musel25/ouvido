@@ -78,8 +78,46 @@ def _handle_filter_candidates(args: argparse.Namespace) -> int:
     return 0
 
 
+def _handle_validate_notes(args) -> int:
+    """Validate every authored note batch. Nothing invalid reaches Anki.
+
+    Per-note failures and cross-deck duplicate items are both logged; the log
+    file is written even when empty, so "no failures" is an artifact rather
+    than an absence.
+    """
+    import os
+
+    from ouvido.schema import ValidationError, note_from_dict, validate_deck, validate_note
+
+    failures: list[dict] = []
+    notes = []
+    filenames = sorted(f for f in os.listdir(args.in_path) if f.endswith(".json"))
+    for fn in filenames:
+        for row in read_json(os.path.join(args.in_path, fn)):
+            try:
+                note = note_from_dict(row)
+                validate_note(note)
+            except (ValidationError, TypeError) as e:
+                failures.append({"item": row.get("item", "<no item>"), "file": fn, "error": str(e)})
+                continue
+            notes.append(note)
+
+    try:
+        validate_deck(notes)
+    except ValidationError as e:
+        failures.append({"item": "<deck>", "file": "*", "error": str(e)})
+
+    write_jsonl(args.log_path, failures)
+    if failures:
+        print(f"FAIL: {len(failures)} invalid, {len(notes)} valid (from {len(filenames)} files)")
+        return 1
+    print(f"OK: {len(notes)} notes valid (from {len(filenames)} files)")
+    return 0
+
+
 _HANDLERS = {
     "filter-candidates": _handle_filter_candidates,
+    "validate-notes": _handle_validate_notes,
 }
 
 

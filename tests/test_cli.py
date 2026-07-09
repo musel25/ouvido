@@ -149,3 +149,43 @@ def test_registered_but_unimplemented_subcommand_raises():
     import pytest
     with pytest.raises(SystemExit, match="implemented in a later task"):
         main(["validate-notes"])
+
+
+def _note(**over):
+    base = dict(item="a fim de", item_full="", gloss="up for",
+                sent1="Cê tá a fim de sair?", sent1_en="You up for going out?",
+                sent2="Eu tava a fim de pizza.", sent2_en="I was up for pizza.",
+                sent2_span="a fim de", notes="", cuidado="", ear="",
+                stratum="chunk", rules=["R5"])
+    base.update(over)
+    return base
+
+
+def test_validate_notes_accepts_good_batch(tmp_path, capsys):
+    d = tmp_path / "notes"; d.mkdir()
+    write_json(str(d / "batch_00.json"), [_note()])
+    log = tmp_path / "logs" / "schema_failures.jsonl"
+    assert main(["validate-notes", "--in", str(d), "--log", str(log)]) == 0
+    assert log.exists() and log.read_text() == ""
+    assert "1 notes valid" in capsys.readouterr().out
+
+
+def test_validate_notes_logs_failures_and_returns_nonzero(tmp_path):
+    d = tmp_path / "notes"; d.mkdir()
+    bad = _note(item="x", sent2_span="not present in sent2")
+    write_json(str(d / "batch_00.json"), [_note(), bad])
+    log = tmp_path / "logs" / "schema_failures.jsonl"
+    assert main(["validate-notes", "--in", str(d), "--log", str(log)]) == 1
+    rows = [json.loads(l) for l in log.read_text().strip().split("\n")]
+    assert len(rows) == 1
+    assert rows[0]["item"] == "x"
+    assert "span not found" in rows[0]["error"]
+
+
+def test_validate_notes_catches_duplicate_items_across_batches(tmp_path):
+    d = tmp_path / "notes"; d.mkdir()
+    write_json(str(d / "batch_00.json"), [_note()])
+    write_json(str(d / "batch_01.json"), [_note()])   # same Item -> Anki dup key
+    log = tmp_path / "logs" / "f.jsonl"
+    assert main(["validate-notes", "--in", str(d), "--log", str(log)]) == 1
+    assert "duplicate item" in log.read_text()
