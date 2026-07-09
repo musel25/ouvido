@@ -140,15 +140,12 @@ def test_filter_candidates_handler_creates_empty_log_when_nothing_rejected(tmp_p
     assert log_path.read_text(encoding="utf-8") == ""
 
 
-def test_registered_but_unimplemented_subcommand_raises():
-    """A VALID subcommand with no handler yet must raise, not silently no-op.
-
-    Distinct from test_unknown_subcommand_exits_nonzero, which only exercises
-    argparse rejecting an invalid choice and never reaches handler dispatch.
-    """
-    import pytest
-    with pytest.raises(SystemExit, match="implemented in a later task"):
-        main(["attest"])   # still a stub; validate-notes now has a handler
+def test_every_subcommand_now_has_a_handler():
+    """Once all handlers land, no subcommand may silently fall through to the stub."""
+    from ouvido.cli import _HANDLERS
+    parser = build_parser()
+    sub = next(a for a in parser._actions if a.dest == "command")
+    assert set(sub.choices) == set(_HANDLERS), set(sub.choices) ^ set(_HANDLERS)
 
 
 def _note(**over):
@@ -241,3 +238,44 @@ def test_apply_verdicts_conserves_every_note(tmp_path):
     shipped = len(read_json(str(out)))
     rejected = len([l for l in log.read_text().split("\n") if l.strip()])
     assert shipped + rejected == 2
+
+
+def _freqs_file(tmp_path):
+    p = tmp_path / "f.tsv"
+    p.write_text("Word\tFREQcount\tCDcount\tSpellcheck\n"
+                 "dar\t900\t9\tTRUE\num\t800\t9\tTRUE\njeito\t700\t9\tTRUE\n"
+                 "bagunça\t400\t9\tTRUE\n", encoding="utf-8")
+    return str(p)
+
+
+def test_attest_passes_chunk_whose_every_token_is_attested(tmp_path):
+    d = tmp_path / "n"; d.mkdir()
+    write_json(str(d / "b.json"), [_note(item="dar um jeito", sent2_span="dar um jeito",
+                                         sent2="Ele vai dar um jeito nisso.")])
+    log = tmp_path / "unattested.jsonl"
+    assert main(["attest", "--notes", str(d), "--freqs", _freqs_file(tmp_path),
+                 "--log", str(log)]) == 0
+    assert log.read_text() == ""
+
+
+def test_attest_flags_chunk_with_an_unattested_token(tmp_path):
+    d = tmp_path / "n"; d.mkdir()
+    write_json(str(d / "b.json"), [_note(item="dar um chabu", sent2_span="dar um chabu",
+                                         sent2="Vai dar um chabu isso.")])
+    log = tmp_path / "unattested.jsonl"
+    main(["attest", "--notes", str(d), "--freqs", _freqs_file(tmp_path), "--log", str(log)])
+    rows = [json.loads(l) for l in log.read_text().strip().split("\n")]
+    assert rows[0]["item"] == "dar um chabu"
+    assert "chabu" in rows[0]["unattested_tokens"]
+
+
+def test_attest_never_flags_spoken_only_forms(tmp_path):
+    """R3/R4 items are spoken-only; a subtitle corpus cannot contain them."""
+    d = tmp_path / "n"; d.mkdir()
+    write_json(str(d / "b.json"), [_note(item="falano", rules=["R3"], stratum="reducao",
+                                         sent1="Cê tá falano o quê?", sent1_en="What are you saying?",
+                                         sent2="Ele tá falano bobagem.", sent2_en="He's talking nonsense.",
+                                         sent2_span="falano")])
+    log = tmp_path / "u.jsonl"
+    main(["attest", "--notes", str(d), "--freqs", _freqs_file(tmp_path), "--log", str(log)])
+    assert log.read_text() == ""
