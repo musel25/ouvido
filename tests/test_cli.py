@@ -138,3 +138,14 @@ def test_filter_candidates_handler_creates_empty_log_when_nothing_rejected(tmp_p
     assert len(kept) == 2
     assert log_path.exists()
     assert log_path.read_text(encoding="utf-8") == ""
+
+
+def test_registered_but_unimplemented_subcommand_raises():
+    """A VALID subcommand with no handler yet must raise, not silently no-op.
+
+    Distinct from test_unknown_subcommand_exits_nonzero, which only exercises
+    argparse rejecting an invalid choice and never reaches handler dispatch.
+    """
+    import pytest
+    with pytest.raises(SystemExit, match="implemented in a later task"):
+        main(["validate-notes"])
