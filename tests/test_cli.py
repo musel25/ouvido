@@ -40,3 +40,18 @@ def test_json_roundtrip_is_utf8_not_escaped(tmp_path):
     write_json(str(p), [{"item": "cadê"}])
     assert "cadê" in p.read_text(encoding="utf-8")
     assert read_json(str(p)) == [{"item": "cadê"}]
+
+
+def test_module_entrypoint_prints_help(tmp_path):
+    """`python -m ouvido.cli --help` must actually print usage.
+
+    Without an `if __name__ == "__main__"` guard, running cli.py as a module
+    defines functions and exits silently — every pipeline command in the plan
+    would no-op while appearing to succeed.
+    """
+    import subprocess, sys
+    r = subprocess.run([sys.executable, "-m", "ouvido.cli", "--help"],
+                       capture_output=True, text=True)
+    assert r.returncode == 0
+    assert "filter-candidates" in r.stdout
+    assert "push-notes" in r.stdout

@@ -64,3 +64,7 @@ def main(argv: list[str] | None = None) -> int:
         print("no subcommand given; try --help")
         return 2
     raise SystemExit(f"handler for {args.command!r} is implemented in a later task")
+
+
+if __name__ == "__main__":  # `python -m ouvido.cli <subcommand>`
+    raise SystemExit(main())
