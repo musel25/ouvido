@@ -1,6 +1,7 @@
 """Note model and the validation rules that gate every pipeline stage."""
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass
 
 RULES = frozenset({"R1", "R2", "R3", "R4", "R5", "R6", "R7"})
@@ -55,6 +56,18 @@ def locate_span(haystack: str, needle: str) -> tuple[int, int]:
     return start, start + len(needle)
 
 
+# An inflected span may absorb a couple of interposed tokens ("deixar na mão"
+# surfaces as "deixa a gente na mão"), but blanking six words for a one-word
+# item makes the cloze unanswerable.
+MAX_EXTRA_SPAN_WORDS = 2
+
+_PAREN = re.compile(r"\s*\([^)]*\)")
+
+
+def _word_count(text: str) -> int:
+    return len(_PAREN.sub("", text).split())
+
+
 def validate_note(note: Note) -> None:
     if not note.item.strip():
         raise ValidationError("item is empty")
@@ -71,6 +84,14 @@ def validate_note(note: Note) -> None:
         raise ValidationError("Sent1 == Sent2")
 
     locate_span(note.sent2, note.sent2_span)
+
+    allowed = _word_count(note.item) + MAX_EXTRA_SPAN_WORDS
+    span_words = _word_count(note.sent2_span)
+    if span_words > allowed:
+        raise ValidationError(
+            f"span too long: {span_words} words blanked for a "
+            f"{_word_count(note.item)}-word item (max {allowed}): {note.sent2_span!r}"
+        )
 
 
 def validate_deck(notes: list[Note]) -> None:

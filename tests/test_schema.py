@@ -54,3 +54,28 @@ def test_duplicate_items_rejected_across_deck():
 def test_distinct_items_accepted_across_deck():
     validate_deck([good(), good(item="dar um jeito", sent2_span="dar um jeito",
                                sent2="Ele vai dar um jeito nisso.")])
+
+
+def test_span_may_not_blank_far_more_than_the_item():
+    """The cloze answer must be recoverable. Blanking six words when the item is
+    one turns Card 3 into a guessing game."""
+    with pytest.raises(ValidationError, match="span too long"):
+        validate_note(good(item="pegar", gloss="to grab",
+                           sent2="Vou pegar o ônibus das sete hoje.",
+                           sent2_span="pegar o ônibus das sete"))
+
+
+def test_span_may_absorb_interposed_words():
+    """`deixar na mão` really surfaces as `deixa a gente na mão` -- two extra
+    tokens for an interposed object is legitimate, not sloppy."""
+    validate_note(good(item="deixar na mão", gloss="to let someone down",
+                       sent1="Ele deixou na mão.",
+                       sent2="Não deixa a gente na mão agora.",
+                       sent2_span="deixa a gente na mão"))
+
+
+def test_parenthetical_disambiguator_does_not_count_toward_item_length():
+    validate_note(good(item="ficar (tornar-se)", gloss="to become",
+                       sent1="Ela ficou brava.",
+                       sent2="A conta ficou cara demais.",
+                       sent2_span="ficou cara"))
