@@ -148,7 +148,7 @@ def test_registered_but_unimplemented_subcommand_raises():
     """
     import pytest
     with pytest.raises(SystemExit, match="implemented in a later task"):
-        main(["validate-notes"])
+        main(["attest"])   # still a stub; validate-notes now has a handler
 
 
 def _note(**over):
