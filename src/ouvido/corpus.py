@@ -6,18 +6,14 @@ import csv
 
 
 def load_subtlex(path: str) -> dict[str, int]:
+    """Tab-separated; `Word` collides after lowercasing ("A"/"a"), so sum."""
     freqs: dict[str, int] = {}
-    with open(path, encoding="utf-8") as fh:
-        # Detect delimiter: tab for SUBTLEX, comma for test fixtures
-        first_line = fh.readline()
-        delimiter = "\t" if "\t" in first_line else ","
-        fh.seek(0)
-
-        for row in csv.DictReader(fh, delimiter=delimiter):
-            word = row["Word"].strip().lower()
-            freq = int(row["FREQcount"])
-            # Sum counts in case of case-collision (both 'A' and 'a' in input)
-            freqs[word] = freqs.get(word, 0) + freq
+    with open(path, encoding="utf-8", errors="replace") as fh:
+        for row in csv.DictReader(fh, delimiter="\t"):
+            word = (row["Word"] or "").strip().lower()
+            if not word:
+                continue
+            freqs[word] = freqs.get(word, 0) + int(row["FREQcount"])
     return freqs
 
 
