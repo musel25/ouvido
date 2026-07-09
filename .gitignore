@@ -22,3 +22,4 @@ wheels/
 *.pyc
 py.typed
 .pytest_cache/
+data/subtlex/
