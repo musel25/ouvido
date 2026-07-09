@@ -40,3 +40,15 @@ def test_phonological_trap_never_excluded_despite_similarity():
 
 def test_opaque_word_kept():
     assert not should_exclude("bagunça", "desorden", rules=["R1"])
+
+
+def test_reduced_form_survives_transparency():
+    """R3 reduced forms are exempt: their difficulty is phonological, not lexical.
+
+    `pra` is orthographically ~identical to Spanish `para`, so the similarity
+    filter would delete it -- yet recognising `pra`/`pro` in fast speech is
+    exactly what the deck exists to teach.
+    """
+    assert is_transparent("pra", "para")
+    assert not should_exclude("pra", "para", rules=["R3"])
+    assert not should_exclude("vamo", "vamos", rules=["R3"])

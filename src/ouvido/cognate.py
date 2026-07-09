@@ -9,7 +9,12 @@ from __future__ import annotations
 import unicodedata
 from difflib import SequenceMatcher
 
-OVERRIDE_RULES = frozenset({"R2", "R7"})
+# Rules whose items are exempt from the transparency filter, because for them
+# similarity to Spanish IS the danger rather than a reason to skip the card:
+#   R2 false friend      — looks Spanish, means something else
+#   R3 reduced form      — `pra` looks like `para`; the difficulty is phonological
+#   R7 phonological trap — `presidente` is a perfect cognate that sounds alien
+OVERRIDE_RULES = frozenset({"R2", "R3", "R7"})
 
 
 def strip_accents(s: str) -> str:

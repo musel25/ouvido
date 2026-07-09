@@ -23,3 +23,6 @@ wheels/
 py.typed
 .pytest_cache/
 data/subtlex/
+data/candidates/
+data/candidates_kept.json
+data/logs/

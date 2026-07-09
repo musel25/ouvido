@@ -1,653 +1,839 @@
 [
-  {
-    "item": "acordar",
-    "es": "despertar(se)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "ainda",
-    "es": "todavía, aún",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "anedota",
-    "es": "chiste",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "apelido",
-    "es": "apodo, sobrenombre",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "apenas",
-    "es": "sólo, solamente",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "aula",
-    "es": "clase, lección",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "açougue",
-    "es": "carnicería",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "balcão",
-    "es": "mostrador, barra",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "banana",
-    "es": "plátano, banana",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "barata",
-    "es": "cucaracha",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "bater",
-    "es": "golpear, pegar",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "bilhão",
-    "es": "mil millones (10⁹)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "borracha",
-    "es": "goma, caucho",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "borracharia",
-    "es": "taller de neumáticos",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "borracheiro",
-    "es": "gomero",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "botar",
-    "es": "poner, colocar",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "brincar",
-    "es": "jugar, bromear",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "cachorro",
-    "es": "perro",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "camareiro",
-    "es": "mucamo, camarero de hotel",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "catarro",
-    "es": "moco, flema",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "cena",
-    "es": "escena",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "cigarro",
-    "es": "cigarrillo",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "criança",
-    "es": "niño, niña",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "doce",
-    "es": "dulce",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "embaraçado",
-    "es": "avergonzado, confundido",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "escova",
-    "es": "cepillo",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "escritório",
-    "es": "oficina, despacho",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "esquisito",
-    "es": "raro, extraño",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "fechar",
-    "es": "cerrar",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "filhote",
-    "es": "cría, cachorro",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "galho",
-    "es": "rama",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "garçom",
-    "es": "camarero, mesero",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "jornal",
-    "es": "periódico, diario",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "ladrilho",
-    "es": "azulejo, baldosa",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "largo",
-    "es": "ancho",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "mala",
-    "es": "maleta, equipaje",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "ninguém",
-    "es": "nadie",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "ninho",
-    "es": "nido",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "novela",
-    "es": "telenovela",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "oficina",
-    "es": "taller",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "padre",
-    "es": "cura, sacerdote",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "palco",
-    "es": "escenario, tablado",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "paquete",
-    "es": "(vulgar) la regla, menstruación",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "pegar",
-    "es": "agarrar, tomar, coger",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "pelo",
-    "es": "pelo, vello (de animal)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "película",
-    "es": "film fino, membrana",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "podre",
-    "es": "podrido",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "polvo",
-    "es": "pulpo",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "porra",
-    "es": "(vulgar) semen; ¡joder!",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "pronto",
-    "es": "listo, preparado",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "punheta",
-    "es": "(vulgar) masturbación",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "pó",
-    "es": "polvo",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "rato",
-    "es": "ratón, rata",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "reparar",
-    "es": "notar, darse cuenta",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "ressaca",
-    "es": "resaca (de borrachera)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "romance",
-    "es": "novela (libro)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "saco",
-    "es": "bolsa",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "salsa",
-    "es": "perejil",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "saltar",
-    "es": "saltar; bajarse",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "sobremesa",
-    "es": "postre",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "sobrenome",
-    "es": "apellido",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "sótão",
-    "es": "desván, altillo",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "taco",
-    "es": "taco de billar; tapón",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "talher",
-    "es": "cubierto",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "taça",
-    "es": "copa",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "tijolo",
-    "es": "ladrillo",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "tirar",
-    "es": "quitar, sacar",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "trilhão",
-    "es": "billón (10¹²)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "turma",
-    "es": "grupo, clase (de alumnos)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "vaso",
-    "es": "jarrón; inodoro",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "vassoura",
-    "es": "escoba",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "venta",
-    "es": "fosa nasal",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "xingar",
-    "es": "insultar, decir groserías",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "todavia",
-    "es": "sin embargo, no obstante",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "assistir",
-    "es": "asistir a algo (con el matiz de ver/mirar, no de estar presente/apoyar)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "acreditar",
-    "es": "creer",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "puxar",
-    "es": "tirar (jalar hacia sí)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "ligar",
-    "es": "llamar por teléfono / encender (un aparato)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "procurar",
-    "es": "buscar",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "propina",
-    "es": "soborno, coima",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "roxo",
-    "es": "morado, violeta",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "sino",
-    "es": "campana",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "presunto",
-    "es": "jamón",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "latido",
-    "es": "ladrido (de un perro)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "molho",
-    "es": "salsa",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "copo",
-    "es": "vaso (para beber)",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "cadeira",
-    "es": "silla",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "pasta",
-    "es": "carpeta / maletín",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "surdo",
-    "es": "sordo",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "esperto",
-    "es": "listo, astuto, avispado",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "trair",
-    "es": "traicionar",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "férias",
-    "es": "vacaciones",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  },
-  {
-    "item": "comprido",
-    "es": "largo",
-    "stratum": "falso-amigo",
-    "rules": ["R2"],
-    "subtlex_rank": null
-  }
+ {
+  "item": "acordar",
+  "es": "despertar(se)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1675
+ },
+ {
+  "item": "ainda",
+  "es": "todavía, aún",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 114
+ },
+ {
+  "item": "anedota",
+  "es": "chiste",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 19285
+ },
+ {
+  "item": "apelido",
+  "es": "apodo, sobrenombre",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5506
+ },
+ {
+  "item": "apenas",
+  "es": "sólo, solamente",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 154
+ },
+ {
+  "item": "aula",
+  "es": "clase, lección",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1397
+ },
+ {
+  "item": "açougue",
+  "es": "carnicería",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 14171
+ },
+ {
+  "item": "balcão",
+  "es": "mostrador, barra",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5777
+ },
+ {
+  "item": "constipado",
+  "es": "resfriado, acatarrado (NÃO 'estreñido')",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 31184
+ },
+ {
+  "item": "barata",
+  "es": "cucaracha",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4526
+ },
+ {
+  "item": "bater",
+  "es": "golpear, pegar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1043
+ },
+ {
+  "item": "bilhão",
+  "es": "mil millones (10⁹)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7614
+ },
+ {
+  "item": "borracha",
+  "es": "goma, caucho",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5578
+ },
+ {
+  "item": "borracharia",
+  "es": "taller de neumáticos",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 46579
+ },
+ {
+  "item": "borracheiro",
+  "es": "gomero",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 59735
+ },
+ {
+  "item": "botar",
+  "es": "poner, colocar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4292
+ },
+ {
+  "item": "brincar",
+  "es": "jugar, bromear",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1170
+ },
+ {
+  "item": "cachorro",
+  "es": "perro",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 966
+ },
+ {
+  "item": "camareiro",
+  "es": "mucamo, camarero de hotel",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 17694
+ },
+ {
+  "item": "catarro",
+  "es": "moco, flema",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 26681
+ },
+ {
+  "item": "cena",
+  "es": "escena",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1186
+ },
+ {
+  "item": "cigarro",
+  "es": "cigarrillo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1752
+ },
+ {
+  "item": "criança",
+  "es": "niño, niña",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 514
+ },
+ {
+  "item": "doce",
+  "es": "dulce",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 982
+ },
+ {
+  "item": "embaraçado",
+  "es": "avergonzado, confundido",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 19191
+ },
+ {
+  "item": "escova",
+  "es": "cepillo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 6669
+ },
+ {
+  "item": "escritório",
+  "es": "oficina, despacho",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 786
+ },
+ {
+  "item": "esquisito",
+  "es": "raro, extraño",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2867
+ },
+ {
+  "item": "fechar",
+  "es": "cerrar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1550
+ },
+ {
+  "item": "filhote",
+  "es": "cría, cachorro",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 6611
+ },
+ {
+  "item": "galho",
+  "es": "rama",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 8571
+ },
+ {
+  "item": "garçom",
+  "es": "camarero, mesero",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4336
+ },
+ {
+  "item": "jornal",
+  "es": "periódico, diario",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1347
+ },
+ {
+  "item": "ladrilho",
+  "es": "azulejo, baldosa",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 45798
+ },
+ {
+  "item": "largo",
+  "es": "ancho",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7299
+ },
+ {
+  "item": "mala",
+  "es": "maleta, equipaje",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1865
+ },
+ {
+  "item": "ninguém",
+  "es": "nadie",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 159
+ },
+ {
+  "item": "ninho",
+  "es": "nido",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4671
+ },
+ {
+  "item": "novela",
+  "es": "telenovela",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7184
+ },
+ {
+  "item": "oficina",
+  "es": "taller",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4597
+ },
+ {
+  "item": "padre",
+  "es": "cura, sacerdote",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 822
+ },
+ {
+  "item": "palco",
+  "es": "escenario, tablado",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2123
+ },
+ {
+  "item": "paquete",
+  "es": "(vulgar) la regla, menstruación",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 49187
+ },
+ {
+  "item": "pegar",
+  "es": "agarrar, tomar, coger",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 302
+ },
+ {
+  "item": "pelo",
+  "es": "pelo, vello (de animal)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 146
+ },
+ {
+  "item": "película",
+  "es": "film fino, membrana",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 23495
+ },
+ {
+  "item": "podre",
+  "es": "podrido",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4924
+ },
+ {
+  "item": "polvo",
+  "es": "pulpo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 13148
+ },
+ {
+  "item": "porra",
+  "es": "(vulgar) semen; ¡joder!",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 453
+ },
+ {
+  "item": "pronto",
+  "es": "listo, preparado",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 354
+ },
+ {
+  "item": "punheta",
+  "es": "(vulgar) masturbación",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 12011
+ },
+ {
+  "item": "pó",
+  "es": "polvo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2636
+ },
+ {
+  "item": "rato",
+  "es": "ratón, rata",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2021
+ },
+ {
+  "item": "reparar",
+  "es": "notar, darse cuenta",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7218
+ },
+ {
+  "item": "ressaca",
+  "es": "resaca (de borrachera)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7737
+ },
+ {
+  "item": "romance",
+  "es": "novela (libro)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2744
+ },
+ {
+  "item": "saco",
+  "es": "bolsa",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1126
+ },
+ {
+  "item": "salsa",
+  "es": "perejil",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 11666
+ },
+ {
+  "item": "saltar",
+  "es": "saltar; bajarse",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3387
+ },
+ {
+  "item": "sobremesa",
+  "es": "postre",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4560
+ },
+ {
+  "item": "sobrenome",
+  "es": "apellido",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4654
+ },
+ {
+  "item": "sótão",
+  "es": "desván, altillo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 6020
+ },
+ {
+  "item": "taco",
+  "es": "taco de billar; tapón",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4888
+ },
+ {
+  "item": "talher",
+  "es": "cubierto",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 47819
+ },
+ {
+  "item": "taça",
+  "es": "copa",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4265
+ },
+ {
+  "item": "tijolo",
+  "es": "ladrillo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 9046
+ },
+ {
+  "item": "tirar",
+  "es": "quitar, sacar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 505
+ },
+ {
+  "item": "trilhão",
+  "es": "billón (10¹²)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 22750
+ },
+ {
+  "item": "turma",
+  "es": "grupo, clase (de alumnos)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3301
+ },
+ {
+  "item": "vaso",
+  "es": "jarrón; inodoro",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5168
+ },
+ {
+  "item": "vassoura",
+  "es": "escoba",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 9109
+ },
+ {
+  "item": "venta",
+  "es": "fosa nasal",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 31557
+ },
+ {
+  "item": "xingar",
+  "es": "insultar, decir groserías",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 15542
+ },
+ {
+  "item": "todavia",
+  "es": "sin embargo, no obstante",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 8368
+ },
+ {
+  "item": "assistir",
+  "es": "asistir a algo (con el matiz de ver/mirar, no de estar presente/apoyar)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1938
+ },
+ {
+  "item": "acreditar",
+  "es": "creer",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 571
+ },
+ {
+  "item": "puxar",
+  "es": "tirar (jalar hacia sí)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3536
+ },
+ {
+  "item": "ligar",
+  "es": "llamar por teléfono / encender (un aparato)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 700
+ },
+ {
+  "item": "procurar",
+  "es": "buscar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 889
+ },
+ {
+  "item": "propina",
+  "es": "soborno, coima",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 20293
+ },
+ {
+  "item": "roxo",
+  "es": "morado, violeta",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7479
+ },
+ {
+  "item": "sino",
+  "es": "campana",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4929
+ },
+ {
+  "item": "presunto",
+  "es": "jamón",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 6368
+ },
+ {
+  "item": "latido",
+  "es": "ladrido (de un perro)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 23949
+ },
+ {
+  "item": "molho",
+  "es": "salsa",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3189
+ },
+ {
+  "item": "copo",
+  "es": "vaso (para beber)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1700
+ },
+ {
+  "item": "cadeira",
+  "es": "silla",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1598
+ },
+ {
+  "item": "pasta",
+  "es": "carpeta / maletín",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3637
+ },
+ {
+  "item": "bolso",
+  "es": "bolsillo (NÃO 'bolso/cartera')",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2162
+ },
+ {
+  "item": "esperto",
+  "es": "listo, astuto, avispado",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1552
+ },
+ {
+  "item": "trair",
+  "es": "traicionar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5250
+ },
+ {
+  "item": "férias",
+  "es": "vacaciones",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1399
+ },
+ {
+  "item": "comprido",
+  "es": "largo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7927
+ }
 ]

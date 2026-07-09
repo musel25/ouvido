@@ -46,3 +46,32 @@ def test_nothing_is_dropped_silently():
              Candidate("inventado", "palabra rara", "lexico", ["R1"], None)]
     kept, rejected = filter_candidates(cands, FREQS)
     assert len(kept) + len(rejected) == len(cands)
+
+
+def test_spoken_only_forms_skip_attestation():
+    """A written corpus cannot attest a spoken-only spelling.
+
+    `falano` (falando) and `tavam` (estavam) are how Brazilians SAY these words;
+    subtitles spell them the standard way, so SUBTLEX will never contain them.
+    Gating them on attestation would delete the reductions stratum outright.
+    """
+    kept, rejected = filter_candidates(
+        [Candidate("falano", "hablando", "reducao", ["R3"], None),
+         Candidate("putz", "uf, vaya", "marcador", ["R4"], None)], FREQS)
+    assert {c.item for c in kept} == {"falano", "putz"}
+    assert rejected == []
+
+
+def test_hyphenated_item_skips_attestation():
+    """`puxa-saco` is a real word; SUBTLEX tokenises the hyphen and never lists it."""
+    kept, rejected = filter_candidates(
+        [Candidate("puxa-saco", "pelota, lameculos", "lexico", ["R1"], None)], FREQS)
+    assert [c.item for c in kept] == ["puxa-saco"]
+
+
+def test_lexico_single_word_still_gated_on_attestation():
+    """The exemptions must not disable attestation where we actually claim it."""
+    kept, rejected = filter_candidates(
+        [Candidate("inventado", "palabra rara", "lexico", ["R1"], None)], FREQS)
+    assert kept == []
+    assert "unattested" in rejected[0]["reason"]
