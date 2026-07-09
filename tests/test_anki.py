@@ -32,6 +32,7 @@ def server():
     t.start()
     yield f"http://127.0.0.1:{srv.server_port}"
     srv.shutdown()
+    srv.server_close()
 
 
 def test_invoke_sends_version_6_envelope(server):
