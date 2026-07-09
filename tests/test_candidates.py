@@ -75,3 +75,34 @@ def test_lexico_single_word_still_gated_on_attestation():
         [Candidate("inventado", "palabra rara", "lexico", ["R1"], None)], FREQS)
     assert kept == []
     assert "unattested" in rejected[0]["reason"]
+
+
+def test_duplicate_items_are_merged_not_dropped():
+    """The same item can be proposed by two strata (`pelo` is a contraction AND
+    a false friend). Anki keys on Item, so only one note may survive -- but the
+    rules must be UNIONED, or `pelo` loses its R2 protection."""
+    kept, rejected = filter_candidates([
+        Candidate("pelo", "por el; ojo: ES pelo = cabelo", "falso-amigo", ["R2"], None),
+        Candidate("pelo", "por el (contracción por+o)", "reducao", ["R3"], None),
+    ], FREQS)
+    assert len(kept) == 1
+    assert sorted(kept[0].rules) == ["R2", "R3"]
+    assert len(rejected) == 1
+    assert "duplicate" in rejected[0]["reason"]
+
+
+def test_dedupe_keeps_the_most_informative_occurrence():
+    kept, _ = filter_candidates([
+        Candidate("tá ligado", "¿sabes?", "estrutura", ["R1"], None),
+        Candidate("tá ligado", "¿sabes?", "marcador", ["R1", "R3", "R4"], None),
+    ], FREQS)
+    assert len(kept) == 1
+    assert kept[0].stratum == "marcador"      # cited more rules
+    assert sorted(kept[0].rules) == ["R1", "R3", "R4"]
+
+
+def test_dedupe_is_case_insensitive_and_accounted_for():
+    cands = [Candidate("Né", "¿no?", "marcador", ["R4"], None),
+             Candidate("né", "¿no?", "reducao", ["R3"], None)]
+    kept, rejected = filter_candidates(cands, FREQS)
+    assert len(kept) + len(rejected) == len(cands)   # nothing vanishes silently
