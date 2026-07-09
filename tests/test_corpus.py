@@ -23,6 +23,14 @@ def test_load_subtlex(tmp_path):
     assert len(freqs) == 6
 
 
+def test_load_subtlex_sums_case_duplicates(tmp_path):
+    p = tmp_path / "dup.tsv"
+    p.write_text("Word\tFREQcount\tCDcount\tSpellcheck\nA\t10\t1\tTRUE\na\t5\t1\tTRUE\n",
+                 encoding="utf-8")
+    # the real file contains both "A" and "a"; overwriting would lose 10 counts
+    assert load_subtlex(str(p))["a"] == 15
+
+
 def test_ranks_are_frequency_ordered(tmp_path):
     r = ranks(load_subtlex(write_csv(tmp_path)))
     assert r["que"] == 1
