@@ -189,3 +189,55 @@ def test_validate_notes_catches_duplicate_items_across_batches(tmp_path):
     log = tmp_path / "logs" / "f.jsonl"
     assert main(["validate-notes", "--in", str(d), "--log", str(log)]) == 1
     assert "duplicate item" in log.read_text()
+
+
+def _verdicts(item, nat=True, sem=True, mech=True):
+    return [{"lens": "naturalness", "passed": nat, "reason": ""},
+            {"lens": "semantics", "passed": sem, "reason": "bad spanish claim" if not sem else ""},
+            {"lens": "mechanics", "passed": mech, "reason": ""}]
+
+
+def test_apply_verdicts_ships_passing_notes_and_logs_the_rest(tmp_path):
+    d = tmp_path / "notes"; d.mkdir()
+    write_json(str(d / "batch_00.json"), [_note(item="ok"), _note(item="vetoed"), _note(item="weak")])
+    vpath = tmp_path / "verdicts.json"
+    write_json(str(vpath), {
+        "ok": _verdicts("ok"),
+        "vetoed": _verdicts("vetoed", sem=False),          # semantics veto
+        "weak": _verdicts("weak", nat=False, mech=False),  # only 1 of 3
+    })
+    out = tmp_path / "final.json"
+    log = tmp_path / "logs" / "rejected_notes.jsonl"
+    rc = main(["apply-verdicts", "--notes", str(d), "--verdicts", str(vpath),
+               "--out", str(out), "--log", str(log)])
+    assert rc == 0
+    shipped = [n["item"] for n in read_json(str(out))]
+    assert shipped == ["ok"]
+    rows = [json.loads(l) for l in log.read_text().strip().split("\n")]
+    assert {r["item"] for r in rows} == {"vetoed", "weak"}
+    assert any("bad spanish claim" in r["reason"] for r in rows)
+
+
+def test_apply_verdicts_rejects_note_with_no_verdicts(tmp_path):
+    """An unjudged note must never ship. Silence is not approval."""
+    d = tmp_path / "notes"; d.mkdir()
+    write_json(str(d / "b.json"), [_note(item="unjudged")])
+    vpath = tmp_path / "v.json"; write_json(str(vpath), {})
+    out = tmp_path / "o.json"; log = tmp_path / "l.jsonl"
+    assert main(["apply-verdicts", "--notes", str(d), "--verdicts", str(vpath),
+                 "--out", str(out), "--log", str(log)]) == 0
+    assert read_json(str(out)) == []
+    assert "no verdicts" in log.read_text()
+
+
+def test_apply_verdicts_conserves_every_note(tmp_path):
+    d = tmp_path / "notes"; d.mkdir()
+    write_json(str(d / "b.json"), [_note(item="a"), _note(item="b")])
+    vpath = tmp_path / "v.json"
+    write_json(str(vpath), {"a": _verdicts("a"), "b": _verdicts("b", sem=False)})
+    out = tmp_path / "o.json"; log = tmp_path / "l.jsonl"
+    main(["apply-verdicts", "--notes", str(d), "--verdicts", str(vpath),
+          "--out", str(out), "--log", str(log)])
+    shipped = len(read_json(str(out)))
+    rejected = len([l for l in log.read_text().split("\n") if l.strip()])
+    assert shipped + rejected == 2

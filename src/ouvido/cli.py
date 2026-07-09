@@ -115,9 +115,47 @@ def _handle_validate_notes(args) -> int:
     return 0
 
 
+
+def _handle_apply_verdicts(args) -> int:
+    """Keep only notes that survive the three-lens adversarial review.
+
+    An unjudged note never ships: silence is not approval.
+    """
+    import os
+
+    from ouvido.verify import Verdict, ships
+
+    verdicts_by_item = read_json(args.verdicts_path)
+
+    notes: list[dict] = []
+    for fn in sorted(f for f in os.listdir(args.notes_path) if f.endswith(".json")):
+        notes.extend(read_json(os.path.join(args.notes_path, fn)))
+
+    shipped: list[dict] = []
+    rejected: list[dict] = []
+    for note in notes:
+        raw = verdicts_by_item.get(note["item"])
+        if not raw:
+            rejected.append({"item": note["item"], "reason": "no verdicts recorded"})
+            continue
+        verdicts = [Verdict(lens=v["lens"], passed=bool(v["passed"]), reason=v.get("reason", ""))
+                    for v in raw]
+        if ships(verdicts):
+            shipped.append(note)
+        else:
+            failed = "; ".join(f"{v.lens}: {v.reason or 'refuted'}" for v in verdicts if not v.passed)
+            rejected.append({"item": note["item"], "reason": failed or "insufficient passing lenses"})
+
+    write_json(args.out_path, shipped)
+    write_jsonl(args.log_path, rejected)
+    print(f"shipping {len(shipped)}, rejected {len(rejected)} (of {len(notes)} notes)")
+    return 0
+
+
 _HANDLERS = {
     "filter-candidates": _handle_filter_candidates,
     "validate-notes": _handle_validate_notes,
+    "apply-verdicts": _handle_apply_verdicts,
 }
 
 

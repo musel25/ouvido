@@ -26,3 +26,4 @@ data/subtlex/
 data/candidates/
 data/candidates_kept.json
 data/logs/
+data/slices/
