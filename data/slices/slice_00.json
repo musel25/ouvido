@@ -1,0 +1,188 @@
+[
+ {
+  "item": "dar um jeito",
+  "es": "buscar la manera, apañárselas",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar mole",
+  "es": "descuidarse, dar pie a que pase algo malo",
+  "stratum": "chunk",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar uma sumida",
+  "es": "desaparecerse una temporada",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar certo",
+  "es": "salir bien, funcionar",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar errado",
+  "es": "salir mal",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dá pra...",
+  "es": "se puede..., hay manera de...",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar bola (para)",
+  "es": "hacer caso a alguien, mostrar interés (romántico)",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar o fora",
+  "es": "largarse, irse de repente",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar uma força",
+  "es": "echar una mano",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar trabalho",
+  "es": "dar guerra, costar mucho trabajo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar zebra",
+  "es": "salir mal, resultar en un fracaso inesperado",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar ruim",
+  "es": "salir mal, terminar fatal",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar uma de (bobo)",
+  "es": "hacerse el (tonto)",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar as caras",
+  "es": "dar la cara, aparecer",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar no pé",
+  "es": "salir corriendo, largarse",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um rolê",
+  "es": "dar una vuelta, salir a pasear",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar a real",
+  "es": "decir la verdad, ser sincero",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar conta (de algo)",
+  "es": "poder con algo, arreglárselas con algo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar na telha",
+  "es": "antojarse, dar la ventolera",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um perdido em alguém",
+  "es": "ignorar a alguien, hacerle un feo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ }
+]

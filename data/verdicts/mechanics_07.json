@@ -1,0 +1,22 @@
+{
+  "aula": {"passed": true, "reason": ""},
+  "açougue": {"passed": true, "reason": ""},
+  "balcão": {"passed": true, "reason": ""},
+  "constipado": {"passed": false, "reason": "sent2_span is 'tá constipado', which appends the copula 'tá' beyond the item's own surface form ('constipado'). Rule 4 requires the span to be the item's inflected surface form, not a longer phrase; the extra verb widens the tested unit past what 'item' specifies."},
+  "barata": {"passed": true, "reason": ""},
+  "bater": {"passed": false, "reason": "sent2_span is 'bateu o carro', which bundles the object 'o carro' onto the inflected verb — a longer phrase than the item's surface form (rule 4). Removing the whole span also strips the object needed to recover the 'crash' sense: 'Ele ___ na esquina ontem à noite' could as easily be 'parou'/'virou'/etc., so the blank is weakly recoverable (rule 5)."},
+  "bilhão": {"passed": true, "reason": ""},
+  "borracha": {"passed": true, "reason": ""},
+  "borracharia": {"passed": true, "reason": ""},
+  "borracheiro": {"passed": true, "reason": ""},
+  "botar": {"passed": false, "reason": "sent2_span is 'botou a chave', pairing the inflected verb with its object noun — longer than the item's own surface form (rule 4). With the object folded into the blank, 'Ela ___ dentro da bolsa e esqueceu' no longer clearly signals 'put' over other placement/loss verbs, weakening recoverability (rule 5)."},
+  "brincar": {"passed": true, "reason": ""},
+  "cachorro": {"passed": true, "reason": ""},
+  "camareiro": {"passed": true, "reason": ""},
+  "catarro": {"passed": true, "reason": ""},
+  "cena": {"passed": true, "reason": ""},
+  "cigarro": {"passed": true, "reason": ""},
+  "criança": {"passed": true, "reason": ""},
+  "doce": {"passed": false, "reason": "sent2_span is 'doce de leite', a specific 3-word compound (dulce de leche) rather than the item's own surface form 'doce' — violates rule 4 (longer phrase, different/narrower sense than the plain word being taught)."},
+  "embaraçado": {"passed": true, "reason": ""}
+}

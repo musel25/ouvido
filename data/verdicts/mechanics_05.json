@@ -1,0 +1,22 @@
+{
+  "enquanto puder": {"passed": true, "reason": ""},
+  "se quiser": {"passed": true, "reason": ""},
+  "quando der": {"passed": true, "reason": ""},
+  "se precisar": {"passed": true, "reason": ""},
+  "o que você quiser": {"passed": true, "reason": ""},
+  "se Deus quiser": {"passed": true, "reason": ""},
+  "quando ela vier": {"passed": true, "reason": ""},
+  "se der certo": {"passed": true, "reason": ""},
+  "para nós fazermos": {"passed": true, "reason": ""},
+  "é importante vocês virem": {"passed": true, "reason": ""},
+  "antes de eles chegarem": {"passed": true, "reason": ""},
+  "ao sairmos": {"passed": true, "reason": ""},
+  "sem eles saberem": {"passed": true, "reason": ""},
+  "depois de comermos": {"passed": true, "reason": ""},
+  "ficar (permanecer)": {"passed": false, "reason": "sent2_span 'vai ficar' is longer than the item's own surface form: the item is the single verb 'ficar', but the span bundles in 'vai' (a conjugated form of the separate verb 'ir', used for the periphrastic future), which is not part of the item at all. Violates rule 4 (span must be the item's inflected form, not a longer phrase). Compare to the correctly-scoped spans for the sibling 'ficar' senses ('fica', 'ficou bom') and for 'estar com X' items where the extra word ('tava'/'tá') is legitimately part of the multi-word item itself."},
+  "ficar (localizar-se)": {"passed": true, "reason": ""},
+  "ficar bom (de saúde)": {"passed": true, "reason": ""},
+  "estar com fome": {"passed": true, "reason": ""},
+  "estar com sede": {"passed": true, "reason": ""},
+  "estar com sono": {"passed": true, "reason": ""}
+}

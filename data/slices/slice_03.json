@@ -1,0 +1,192 @@
+[
+ {
+  "item": "passar o rodo",
+  "es": "arrasar, ganar por goleada",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixa pra lá",
+  "es": "déjalo, no importa",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixar na mão",
+  "es": "dejar plantado, fallarle a alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixar rolar",
+  "es": "dejar que fluya, dejarlo correr",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixa comigo",
+  "es": "déjamelo a mí",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixar a desejar",
+  "es": "dejar que desear",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ir fundo",
+  "es": "ir a fondo, meterse de lleno",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ir com tudo",
+  "es": "ir con todo, a por todas",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ir na fé",
+  "es": "fiarse, ir de buena fe",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ir embora",
+  "es": "irse, marcharse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "não ir com a cara de alguém",
+  "es": "no caerle bien alguien (a primera vista)",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar um fora",
+  "es": "que le den calabazas, ser rechazado",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar na esportiva",
+  "es": "tomárselo deportivamente",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar a sério",
+  "es": "tomarse en serio",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar na cabeça",
+  "es": "salir perdiendo, cargar con las consecuencias",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar fé (em)",
+  "es": "fiarse de, confiar en",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "botar pra quebrar",
+  "es": "darlo todo, triunfar a lo grande",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "botar a boca no trombone",
+  "es": "denunciar públicamente, contarlo todo",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "botar minhoca na cabeça",
+  "es": "meterse ideas raras en la cabeza",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "botar a mão no fogo (por alguém)",
+  "es": "poner la mano en el fuego por alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ }
+]

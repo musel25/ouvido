@@ -1,0 +1,22 @@
+{
+  "jogar fora": {"passed": true, "reason": ""},
+  "jogar conversa fora": {"passed": false, "reason": "sent2 'Vamos jogar conversa fora enquanto espera o ônibus?' mismatches subject: 'vamos' is 1st person plural but 'espera' is 3rd person singular with no subject established (should be 'esperamos' or 'a gente espera') — a real speaker wouldn't switch person mid-sentence like this."},
+  "jogar verde para colher maduro": {"passed": false, "reason": "The full idiom 'jogar verde para colher maduro' is a written/proverbial expression, not something Brazilians actually say out loud in casual conversation — spoken usage almost always shortens to just 'jogar verde'. Both example sentences plug the full bookish idiom into otherwise casual speech ('tá', 'pra'), which reads as textbook-stitched rather than authentic."},
+  "tomar conta (de)": {"passed": true, "reason": ""},
+  "tomar um susto": {"passed": true, "reason": ""},
+  "tomar uma": {"passed": true, "reason": ""},
+  "tomar jeito": {"passed": true, "reason": ""},
+  "a gente vai": {"passed": true, "reason": ""},
+  "a gente tá cansado": {"passed": true, "reason": ""},
+  "vamo embora / bora": {"passed": true, "reason": ""},
+  "tá ligado": {"passed": true, "reason": ""},
+  "a gente (pronome geral)": {"passed": true, "reason": ""},
+  "tem muita gente aqui": {"passed": true, "reason": ""},
+  "não tem ninguém": {"passed": true, "reason": ""},
+  "tem alguém aí?": {"passed": true, "reason": ""},
+  "não tem jeito": {"passed": true, "reason": ""},
+  "cabô / acabou (em fala)": {"passed": true, "reason": ""},
+  "quando eu for": {"passed": true, "reason": ""},
+  "se eu tiver tempo": {"passed": true, "reason": ""},
+  "assim que ele chegar": {"passed": true, "reason": ""}
+}

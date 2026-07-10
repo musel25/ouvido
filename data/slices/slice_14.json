@@ -1,0 +1,193 @@
+[
+ {
+  "item": "dar bola",
+  "es": "hacer caso, prestar atención (interés romántico)",
+  "stratum": "lexico",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar (ficar com alguém)",
+  "es": "enrollarse con alguien, liarse",
+  "stratum": "lexico",
+  "rules": [
+   "R2",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "rolar",
+  "es": "pasar, ocurrir (algo) (no solo 'rodar')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5896
+ },
+ {
+  "item": "embromar",
+  "es": "dar largas, engañar, entretener con excusas",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 54782
+ },
+ {
+  "item": "enrolar",
+  "es": "enredar, dar largas, liar a alguien con palabras",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7718
+ },
+ {
+  "item": "malandro",
+  "es": "pícaro, vivo, astuto",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 7590
+ },
+ {
+  "item": "né",
+  "es": "¿no?, ¿verdad? (muletilla de confirmación al final de la frase)",
+  "stratum": "marcador",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": 1035
+ },
+ {
+  "item": "aí",
+  "es": "entonces, y bueno, pues (conector de relleno/continuación, no locativo)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 139
+ },
+ {
+  "item": "então",
+  "es": "bueno, pues (muletilla de arranque/cierre de turno, no solo 'entonces' causal)",
+  "stratum": "marcador",
+  "rules": [
+   "R4",
+   "R7"
+  ],
+  "subtlex_rank": 52
+ },
+ {
+  "item": "tipo",
+  "es": "como que, o sea, tipo (muletilla de vaguedad/ejemplo)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 230
+ },
+ {
+  "item": "assim",
+  "es": "o sea, este... (muletilla de relleno, no 'así' comparativo)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 85
+ },
+ {
+  "item": "sabe",
+  "es": "¿sabes?, ¿entiendes? (muletilla de chequeo de comprensión)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 66
+ },
+ {
+  "item": "pois é",
+  "es": "pues sí, ya ves (confirmación resignada/comentario de cierre)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ó",
+  "es": "mira, oye (llamada de atención brevísima)",
+  "stratum": "marcador",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": 2295
+ },
+ {
+  "item": "olha",
+  "es": "mira, oye (llamada de atención/introductor de comentario)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 253
+ },
+ {
+  "item": "cara",
+  "es": "tío, tía, colega; ¡vaya! (vocativo informal o interjección de énfasis)",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 119
+ },
+ {
+  "item": "sei lá",
+  "es": "yo qué sé, ni idea (encogimiento de hombros verbal)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pô",
+  "es": "¡joder!, ¡hombre! (interjección de fastidio o énfasis)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": 8285
+ },
+ {
+  "item": "poxa",
+  "es": "¡vaya!, ¡jo! (interjección de decepción o sorpresa leve)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": 10540
+ },
+ {
+  "item": "nossa",
+  "es": "¡madre mía!, ¡vaya! (interjección de sorpresa, NO 'nuestra')",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 184
+ }
+]

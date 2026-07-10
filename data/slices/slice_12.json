@@ -1,0 +1,187 @@
+[
+ {
+  "item": "garoto",
+  "es": "chico, muchacho",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 370
+ },
+ {
+  "item": "cadê",
+  "es": "¿dónde está?",
+  "stratum": "reducao",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "subtlex_rank": 1383
+ },
+ {
+  "item": "embora (ir embora)",
+  "es": "irse, marcharse",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "jeito",
+  "es": "modo, manera, maña",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 343
+ },
+ {
+  "item": "jeitinho",
+  "es": "maña, arreglo informal ('el jeitinho brasileño')",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": 19470
+ },
+ {
+  "item": "esquentar",
+  "es": "calentar; (fig.) preocuparse ('não esquenta')",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 7245
+ },
+ {
+  "item": "atrapalhar",
+  "es": "estorbar, complicar, entorpecer",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 6014
+ },
+ {
+  "item": "bagunçar",
+  "es": "desordenar",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 21087
+ },
+ {
+  "item": "fofoca",
+  "es": "chisme, cotilleo",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 10870
+ },
+ {
+  "item": "saudade",
+  "es": "añoranza, nostalgia (sin equivalente exacto)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 3820
+ },
+ {
+  "item": "teimoso",
+  "es": "terco, testarudo",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 5472
+ },
+ {
+  "item": "puxa-saco",
+  "es": "pelota, adulador, lameculos",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "encher o saco",
+  "es": "fastidiar, tocar las narices/los cojones",
+  "stratum": "lexico",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "mala (pessoa mala)",
+  "es": "pesado/a, pelmazo (persona molesta)",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "zoar",
+  "es": "burlarse, cachondearse, quedarse con alguien",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 19768
+ },
+ {
+  "item": "curtir",
+  "es": "disfrutar, pasarlo bien; dar like (no 'curtir' cuero/piel, que en español es otro sentido)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 6917
+ },
+ {
+  "item": "topar",
+  "es": "aceptar, estar dispuesto a algo (no 'toparse con')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 17968
+ },
+ {
+  "item": "sacar",
+  "es": "entender, pillar (una idea) (no 'sacar/retirar')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 9504
+ },
+ {
+  "item": "ferrar (estar ferrado)",
+  "es": "joder, fastidiar; estar jodido",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "bater papo",
+  "es": "charlar, platicar",
+  "stratum": "lexico",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ }
+]

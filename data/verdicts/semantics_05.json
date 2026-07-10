@@ -1,0 +1,22 @@
+{
+  "enquanto puder": {"passed": true, "reason": ""},
+  "se quiser": {"passed": true, "reason": ""},
+  "quando der": {"passed": true, "reason": ""},
+  "se precisar": {"passed": true, "reason": ""},
+  "o que você quiser": {"passed": true, "reason": ""},
+  "se Deus quiser": {"passed": true, "reason": ""},
+  "quando ela vier": {"passed": true, "reason": ""},
+  "se der certo": {"passed": true, "reason": ""},
+  "para nós fazermos": {"passed": true, "reason": ""},
+  "é importante vocês virem": {"passed": true, "reason": ""},
+  "antes de eles chegarem": {"passed": true, "reason": ""},
+  "ao sairmos": {"passed": true, "reason": ""},
+  "sem eles saberem": {"passed": true, "reason": ""},
+  "depois de comermos": {"passed": true, "reason": ""},
+  "ficar (permanecer)": {"passed": true, "reason": ""},
+  "ficar (localizar-se)": {"passed": true, "reason": ""},
+  "ficar bom (de saúde)": {"passed": false, "reason": "cuidado claim is incoherent: '⚠️ No es \"ponerse bien\" en sentido moral' misattributes a 'moral sense' ambiguity to the Spanish phrase 'ponerse bien', which in Spanish is itself the standard way to say 'to get better/recover (health)' and carries no moral connotation. The real ambiguity (recover health vs. become a good person) belongs to Portuguese 'ficar bom', not to the Spanish equivalent, so the cuidado misrepresents what Spanish 'ponerse bien' means."},
+  "estar com fome": {"passed": true, "reason": ""},
+  "estar com sede": {"passed": true, "reason": ""},
+  "estar com sono": {"passed": true, "reason": ""}
+}

@@ -1,0 +1,183 @@
+[
+ {
+  "item": "tijolo",
+  "es": "ladrillo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 9046
+ },
+ {
+  "item": "tirar",
+  "es": "quitar, sacar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 505
+ },
+ {
+  "item": "trilhão",
+  "es": "billón (10¹²)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 22750
+ },
+ {
+  "item": "turma",
+  "es": "grupo, clase (de alumnos)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3301
+ },
+ {
+  "item": "vaso",
+  "es": "jarrón; inodoro",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5168
+ },
+ {
+  "item": "vassoura",
+  "es": "escoba",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 9109
+ },
+ {
+  "item": "venta",
+  "es": "fosa nasal",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 31557
+ },
+ {
+  "item": "xingar",
+  "es": "insultar, decir groserías",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 15542
+ },
+ {
+  "item": "todavia",
+  "es": "sin embargo, no obstante",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 8368
+ },
+ {
+  "item": "assistir",
+  "es": "asistir a algo (con el matiz de ver/mirar, no de estar presente/apoyar)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1938
+ },
+ {
+  "item": "acreditar",
+  "es": "creer",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 571
+ },
+ {
+  "item": "puxar",
+  "es": "tirar (jalar hacia sí)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3536
+ },
+ {
+  "item": "ligar",
+  "es": "llamar por teléfono / encender (un aparato)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 700
+ },
+ {
+  "item": "procurar",
+  "es": "buscar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 889
+ },
+ {
+  "item": "propina",
+  "es": "soborno, coima",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 20293
+ },
+ {
+  "item": "roxo",
+  "es": "morado, violeta",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7479
+ },
+ {
+  "item": "sino",
+  "es": "campana",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4929
+ },
+ {
+  "item": "presunto",
+  "es": "jamón",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 6368
+ },
+ {
+  "item": "latido",
+  "es": "ladrido (de un perro)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 23949
+ },
+ {
+  "item": "molho",
+  "es": "salsa",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3189
+ }
+]

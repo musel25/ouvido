@@ -1,0 +1,192 @@
+[
+ {
+  "item": "papo",
+  "es": "charla, plática (nada que ver con 'papo' de papada/buche en español)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 2880
+ },
+ {
+  "item": "trampo",
+  "es": "curro, chamba, trabajo",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "subtlex_rank": 28240
+ },
+ {
+  "item": "rango",
+  "es": "comida, manduca (nada que ver con 'rango'/jerarquía en español)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 21177
+ },
+ {
+  "item": "birita",
+  "es": "trago, chela, bebida alcohólica",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 26957
+ },
+ {
+  "item": "resenha",
+  "es": "reunión informal para charlar/beber (no solo 'reseña' de libro)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 41315
+ },
+ {
+  "item": "chute (dar um chute)",
+  "es": "adivinar a lo loco, tirar un palo (no 'chute' de droga/tiro en español)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "mexer (mexer com alguém)",
+  "es": "meterse con alguien, molestar",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "cutucar",
+  "es": "pinchar, dar un toque (con el dedo o el codo)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 22428
+ },
+ {
+  "item": "derrubar",
+  "es": "derribar, tumbar",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 3934
+ },
+ {
+  "item": "largar",
+  "es": "dejar, soltar (largar o emprego/namorado = dejar el trabajo/a la pareja; uso más amplio que el 'largar' coloquial rioplatense)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 3552
+ },
+ {
+  "item": "jogar (jogar fora)",
+  "es": "tirar, deshacerse de algo (no solo 'jugar')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "arrumar",
+  "es": "arreglar, ordenar; conseguir (arrumar namorado)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 1641
+ },
+ {
+  "item": "consertar",
+  "es": "reparar, arreglar",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2367
+ },
+ {
+  "item": "beleza",
+  "es": "genial, guay, vale ('tudo beleza?' = ¿todo bien?; nada que ver con 'belleza' física en español)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2",
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": 922
+ },
+ {
+  "item": "bicho (pessoa)",
+  "es": "tío, tipo (además de 'animal/bicho')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "cara (pessoa)",
+  "es": "tío, tipo (no 'cara' de la casa)",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "molecagem",
+  "es": "trastada, travesura",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 47410
+ },
+ {
+  "item": "sacanagem",
+  "es": "guarrada, jugada sucia, faena",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 6772
+ },
+ {
+  "item": "sacana",
+  "es": "cabrón, sinvergüenza",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 4463
+ },
+ {
+  "item": "vacilar",
+  "es": "meter la pata, fallarle a alguien, portarse mal (no 'dudar/bromear')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 26911
+ }
+]

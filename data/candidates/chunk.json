@@ -1,0 +1,841 @@
+[
+ {
+  "item": "dar um jeito",
+  "es": "buscar la manera, apañárselas",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar mole",
+  "es": "descuidarse, dar pie a que pase algo malo",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar uma sumida",
+  "es": "desaparecerse una temporada",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar certo",
+  "es": "salir bien, funcionar",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar errado",
+  "es": "salir mal",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dá pra...",
+  "es": "se puede..., hay manera de...",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar em nada",
+  "es": "quedar en nada",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar bola (para)",
+  "es": "hacer caso a alguien, mostrar interés (romántico)",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar o fora",
+  "es": "largarse, irse de repente",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar uma força",
+  "es": "echar una mano",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar trabalho",
+  "es": "dar guerra, costar mucho trabajo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar zebra",
+  "es": "salir mal, resultar en un fracaso inesperado",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar ruim",
+  "es": "salir mal, terminar fatal",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar uma de (bobo)",
+  "es": "hacerse el (tonto)",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar as caras",
+  "es": "dar la cara, aparecer",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar no pé",
+  "es": "salir corriendo, largarse",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um rolê",
+  "es": "dar una vuelta, salir a pasear",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar a real",
+  "es": "decir la verdad, ser sincero",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar conta (de algo)",
+  "es": "poder con algo, arreglárselas con algo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar na telha",
+  "es": "antojarse, dar la ventolera",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um perdido em alguém",
+  "es": "ignorar a alguien, hacerle un feo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um migué",
+  "es": "poner una excusa, escaquearse",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar uma mancada",
+  "es": "meter la pata",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um tempo",
+  "es": "tomarse un respiro, hacer una pausa (en la relación)",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um show",
+  "es": "lucirse, montar un espectáculo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar pra trás",
+  "es": "echarse atrás, rajarse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar a fim de",
+  "es": "tener ganas de, estar por",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de boa",
+  "es": "quedarse tranquilo, estar relajado",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar por isso mesmo",
+  "es": "quedar en nada, sin consecuencias",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar com (alguém)",
+  "es": "enrollarse con alguien, liarse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar sabendo",
+  "es": "enterarse de algo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar na sua",
+  "es": "no meterse, quedarse en lo suyo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de olho",
+  "es": "estar pendiente, vigilar",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de cara",
+  "es": "quedarse pasmado o enfadado",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar bolado",
+  "es": "molestarse, mosquearse",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de fora",
+  "es": "quedarse fuera, no participar",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar por conta (de)",
+  "es": "quedar a cargo de, encargarse de",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar em cima do muro",
+  "es": "quedarse indeciso, no mojarse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de bem (com)",
+  "es": "hacer las paces con",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de mal (com)",
+  "es": "enfadarse con, dejar de hablarse con",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar quieto",
+  "es": "quedarse callado, no meterse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar (tornar-se)",
+  "es": "ponerse, quedarse (cambio de estado)",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar no pé",
+  "es": "fastidiar, dar la lata",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar leve",
+  "es": "tomárselo con calma, ir suave",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar mal",
+  "es": "quedar mal, sentar mal",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar fogo",
+  "es": "incendiarse; (fig) ponerse muy agitado o candente",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar carona",
+  "es": "pedir aventón, ir de gorra en un coche",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar o jeito",
+  "es": "agarrarle el truco a algo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar no sono",
+  "es": "quedarse profundamente dormido",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar pesado",
+  "es": "pasarse, ser muy duro con alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar alguém de surpresa",
+  "es": "agarrar a alguien desprevenido",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar uma cola",
+  "es": "copiar en un examen",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar a visão",
+  "es": "captar la idea, entender de qué va",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar mal",
+  "es": "sentirse mal, indisponerse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar dos limites",
+  "es": "pasarse de la raya",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar batido",
+  "es": "pasar desapercibido",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar a perna em",
+  "es": "engañar, timar a alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar pano (para)",
+  "es": "encubrir, hacer la vista gorda",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar a mão na cabeça (de)",
+  "es": "consentir, no castigar a alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar vergonha",
+  "es": "pasar vergüenza, hacer el ridículo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar a limpo",
+  "es": "poner en limpio, aclarar",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar o rodo",
+  "es": "arrasar, ganar por goleada",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixa pra lá",
+  "es": "déjalo, no importa",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixar na mão",
+  "es": "dejar plantado, fallarle a alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixar rolar",
+  "es": "dejar que fluya, dejarlo correr",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixa comigo",
+  "es": "déjamelo a mí",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixar a desejar",
+  "es": "dejar que desear",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixar de lado",
+  "es": "dejar de lado",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "deixar claro",
+  "es": "dejar claro",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ir fundo",
+  "es": "ir a fondo, meterse de lleno",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ir com tudo",
+  "es": "ir con todo, a por todas",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ir na fé",
+  "es": "fiarse, ir de buena fe",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ir embora",
+  "es": "irse, marcharse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "não ir com a cara de alguém",
+  "es": "no caerle bien alguien (a primera vista)",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar um fora",
+  "es": "que le den calabazas, ser rechazado",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar na esportiva",
+  "es": "tomárselo deportivamente",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar a sério",
+  "es": "tomarse en serio",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar na cabeça",
+  "es": "salir perdiendo, cargar con las consecuencias",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "levar fé (em)",
+  "es": "fiarse de, confiar en",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "botar pra quebrar",
+  "es": "darlo todo, triunfar a lo grande",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "botar a boca no trombone",
+  "es": "denunciar públicamente, contarlo todo",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "botar minhoca na cabeça",
+  "es": "meterse ideas raras en la cabeza",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "botar a mão no fogo (por alguém)",
+  "es": "poner la mano en el fuego por alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "jogar fora",
+  "es": "tirar a la basura",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "jogar conversa fora",
+  "es": "charlar sin más, de cháchara",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "jogar verde para colher maduro",
+  "es": "tantear para sacar información",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tomar conta (de)",
+  "es": "cuidar de, hacerse cargo de",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tomar um susto",
+  "es": "llevarse un susto",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tomar uma",
+  "es": "tomarse una copa",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tomar jeito",
+  "es": "enmendarse, sentar la cabeza",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ }
+]

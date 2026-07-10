@@ -1,0 +1,22 @@
+{
+  "aula": {"passed": true, "reason": ""},
+  "açougue": {"passed": true, "reason": ""},
+  "balcão": {"passed": false, "reason": "sent2 'Pergunta pro balcão se já chegou minha encomenda' personifies the counter as if it were a person you address directly ('pro balcão' = 'to the counter'); a Brazilian would say 'pergunta lá no balcão' or 'pergunta pro pessoal do balcão' — 'balcão' isn't a job title like 'caixa' that doubles as a person, so addressing it directly with 'pro' sounds off."},
+  "constipado": {"passed": true, "reason": ""},
+  "barata": {"passed": true, "reason": ""},
+  "bater": {"passed": true, "reason": ""},
+  "bilhão": {"passed": true, "reason": ""},
+  "borracha": {"passed": true, "reason": ""},
+  "borracharia": {"passed": true, "reason": ""},
+  "borracheiro": {"passed": true, "reason": ""},
+  "botar": {"passed": true, "reason": ""},
+  "brincar": {"passed": true, "reason": ""},
+  "cachorro": {"passed": true, "reason": ""},
+  "camareiro": {"passed": true, "reason": ""},
+  "catarro": {"passed": true, "reason": ""},
+  "cena": {"passed": true, "reason": ""},
+  "cigarro": {"passed": true, "reason": ""},
+  "criança": {"passed": true, "reason": ""},
+  "doce": {"passed": true, "reason": ""},
+  "embaraçado": {"passed": false, "reason": "sent1 'Fiquei todo embaraçado quando ela elogiou na frente de todo mundo' drops the direct object of 'elogiar' — a transitive verb needing a complement. No Brazilian would say bare 'ela elogiou' meaning 'she complimented (me)'; it needs 'ela me elogiou'. As written it reads as an unfinished/ungrammatical sentence, not natural spoken Portuguese."}
+}

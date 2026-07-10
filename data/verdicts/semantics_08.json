@@ -1,0 +1,22 @@
+{
+  "escova": {"passed": true, "reason": ""},
+  "escritório": {"passed": true, "reason": ""},
+  "esquisito": {"passed": true, "reason": ""},
+  "fechar": {"passed": false, "reason": "cuidado wrongly implies Spanish 'fechar' isn't used for 'poner fecha' (dating a document) and that only 'datar' works. In fact Spanish 'fechar' is a standard verb meaning 'to date/put a date on' (e.g. 'fechar una carta'), so the parenthetical '(eso es datar)' misstates Spanish vocabulary even though the core PT/ES semantic gap (cerrar vs fechar-fecha) is real."},
+  "filhote": {"passed": true, "reason": ""},
+  "galho": {"passed": true, "reason": ""},
+  "garçom": {"passed": true, "reason": ""},
+  "jornal": {"passed": true, "reason": ""},
+  "ladrilho": {"passed": true, "reason": ""},
+  "largo": {"passed": true, "reason": ""},
+  "mala": {"passed": true, "reason": ""},
+  "ninguém": {"passed": true, "reason": ""},
+  "ninho": {"passed": true, "reason": ""},
+  "novela": {"passed": true, "reason": ""},
+  "oficina": {"passed": true, "reason": ""},
+  "padre": {"passed": true, "reason": ""},
+  "palco": {"passed": true, "reason": ""},
+  "paquete": {"passed": false, "reason": "Unable to verify 'paquete' as genuine Brazilian slang for menstruation; known BR-PT euphemisms are 'chico'/'tio Chico chegou', 'regra', 'está naqueles dias', etc. Not 'paquete'. The item, gloss, and both example sentences all hinge on this unverified/likely-fabricated slang sense, and the vulgar/rare hedge in notes reads as cover for an invented entry — defaulting to fail per uncertainty rule since a wrong vocabulary item here is high-risk."},
+  "pegar": {"passed": true, "reason": ""},
+  "pelo": {"passed": true, "reason": ""}
+}

@@ -1,0 +1,22 @@
+{
+  "dar um jeito": {"passed": true, "reason": ""},
+  "dar mole": {"passed": true, "reason": ""},
+  "dar uma sumida": {"passed": true, "reason": ""},
+  "dar certo": {"passed": true, "reason": ""},
+  "dar errado": {"passed": true, "reason": ""},
+  "dá pra...": {"passed": true, "reason": ""},
+  "dar bola (para)": {"passed": true, "reason": ""},
+  "dar o fora": {"passed": true, "reason": ""},
+  "dar uma força": {"passed": true, "reason": ""},
+  "dar trabalho": {"passed": false, "reason": "sent2_span 'dá bastante trabalho' is not the item's surface form: it includes the extra intensifier 'bastante' inserted between 'dá' and 'trabalho', making the span a longer phrase than the item 'dar trabalho' (rule 4 violation). sent1 has the analogous issue ('dando muito trabalho' with 'muito' inserted), so the item never actually appears as a clean contiguous chunk in either sentence."},
+  "dar zebra": {"passed": true, "reason": ""},
+  "dar ruim": {"passed": true, "reason": ""},
+  "dar uma de (bobo)": {"passed": true, "reason": ""},
+  "dar as caras": {"passed": true, "reason": ""},
+  "dar no pé": {"passed": true, "reason": ""},
+  "dar um rolê": {"passed": true, "reason": ""},
+  "dar a real": {"passed": true, "reason": ""},
+  "dar conta (de algo)": {"passed": true, "reason": ""},
+  "dar na telha": {"passed": true, "reason": ""},
+  "dar um perdido em alguém": {"passed": true, "reason": ""}
+}

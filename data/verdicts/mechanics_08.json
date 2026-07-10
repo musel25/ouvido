@@ -1,0 +1,22 @@
+{
+  "escova": {"passed": true, "reason": ""},
+  "escritório": {"passed": true, "reason": ""},
+  "esquisito": {"passed": true, "reason": ""},
+  "fechar": {"passed": true, "reason": ""},
+  "filhote": {"passed": true, "reason": ""},
+  "galho": {"passed": false, "reason": "sent2_span is 'dois galhos grossos' — a full noun phrase (numeral + noun + adjective), not the item's inflected surface form. Rule 4 requires the span to be just the inflected item, not a longer phrase."},
+  "garçom": {"passed": true, "reason": ""},
+  "jornal": {"passed": true, "reason": ""},
+  "ladrilho": {"passed": true, "reason": ""},
+  "largo": {"passed": true, "reason": ""},
+  "mala": {"passed": true, "reason": ""},
+  "ninguém": {"passed": false, "reason": "sent2_span is 'e ninguém atendeu' — includes the conjunction 'e' and the verb 'atendeu' around the item, not just the inflected surface form of 'ninguém'. Rule 4 violation; also weakens recoverability since the verb that would normally cue the answer is blanked out too."},
+  "ninho": {"passed": true, "reason": ""},
+  "novela": {"passed": true, "reason": ""},
+  "oficina": {"passed": true, "reason": ""},
+  "padre": {"passed": true, "reason": ""},
+  "palco": {"passed": true, "reason": ""},
+  "paquete": {"passed": true, "reason": ""},
+  "pegar": {"passed": true, "reason": ""},
+  "pelo": {"passed": true, "reason": ""}
+}

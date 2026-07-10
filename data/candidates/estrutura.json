@@ -1,0 +1,463 @@
+[
+ {
+  "item": "a gente vai",
+  "es": "nosotros vamos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "a gente tá cansado",
+  "es": "nosotros estamos cansados",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "vamo embora / bora",
+  "es": "vámonos, vamos",
+  "stratum": "estrutura",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tá ligado",
+  "es": "¿entiendes?, ¿sabes?",
+  "stratum": "estrutura",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "a gente (pronome geral)",
+  "es": "nosotros / uno (impersonal)",
+  "stratum": "estrutura",
+  "rules": [
+   "R1",
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tem muita gente aqui",
+  "es": "hay mucha gente aquí",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "não tem ninguém",
+  "es": "no hay nadie",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tem alguém aí?",
+  "es": "¿hay alguien ahí?",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "não tem jeito",
+  "es": "no hay manera, no tiene remedio",
+  "stratum": "estrutura",
+  "rules": [
+   "R6",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "cabô / acabou (em fala)",
+  "es": "se acabó",
+  "stratum": "estrutura",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "quando eu for",
+  "es": "cuando yo vaya",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se eu tiver tempo",
+  "es": "si tengo tiempo",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "assim que ele chegar",
+  "es": "en cuanto él llegue",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "enquanto puder",
+  "es": "mientras pueda",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se quiser",
+  "es": "si quieres",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "quando der",
+  "es": "cuando se pueda, cuando dé tiempo",
+  "stratum": "estrutura",
+  "rules": [
+   "R6",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se precisar",
+  "es": "si necesitas",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "o que você quiser",
+  "es": "lo que quieras",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se Deus quiser",
+  "es": "si Dios quiere",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "quando ela vier",
+  "es": "cuando ella venga",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se der certo",
+  "es": "si sale bien, si resulta",
+  "stratum": "estrutura",
+  "rules": [
+   "R6",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "para nós fazermos",
+  "es": "para que nosotros hagamos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "é importante vocês virem",
+  "es": "es importante que ustedes vengan",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "antes de eles chegarem",
+  "es": "antes de que ellos lleguen",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ao sairmos",
+  "es": "al salir nosotros, cuando salimos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "sem eles saberem",
+  "es": "sin que ellos sepan/supieran",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "depois de comermos",
+  "es": "después de que comamos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar (tornar-se)",
+  "es": "ponerse, quedarse (volverse)",
+  "stratum": "estrutura",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar (permanecer)",
+  "es": "quedarse (permanecer en un lugar)",
+  "stratum": "estrutura",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar (localizar-se)",
+  "es": "quedar, estar ubicado",
+  "stratum": "estrutura",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar bom (de saúde)",
+  "es": "curarse, mejorarse",
+  "stratum": "estrutura",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de olho",
+  "es": "estar pendiente, vigilar",
+  "stratum": "estrutura",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com fome",
+  "es": "tener hambre",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com sede",
+  "es": "tener sed",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com sono",
+  "es": "tener sueño",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com medo",
+  "es": "tener miedo",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com pressa",
+  "es": "tener prisa",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com razão",
+  "es": "tener razón",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com raiva",
+  "es": "estar enojado, tener rabia",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com saudade(s)",
+  "es": "extrañar, echar de menos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com calor/frio",
+  "es": "tener calor/frío",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me dá",
+  "es": "dame",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me diz",
+  "es": "dime",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me ajuda",
+  "es": "ayúdame",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me liga",
+  "es": "llámame",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me deixa",
+  "es": "déjame",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tá (como resposta sozinha)",
+  "es": "vale, ok",
+  "stratum": "estrutura",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "né (pergunta de confirmação)",
+  "es": "¿no?, ¿verdad?",
+  "stratum": "estrutura",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "vai que",
+  "es": "por si acaso, imagínate que",
+  "stratum": "estrutura",
+  "rules": [
+   "R5",
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "sei lá se",
+  "es": "no sé si...",
+  "stratum": "estrutura",
+  "rules": [
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ }
+]

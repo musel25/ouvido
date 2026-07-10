@@ -1,0 +1,22 @@
+{
+  "enquanto puder": {"passed": true, "reason": ""},
+  "se quiser": {"passed": true, "reason": ""},
+  "quando der": {"passed": true, "reason": ""},
+  "se precisar": {"passed": true, "reason": ""},
+  "o que você quiser": {"passed": true, "reason": ""},
+  "se Deus quiser": {"passed": true, "reason": ""},
+  "quando ela vier": {"passed": true, "reason": ""},
+  "se der certo": {"passed": true, "reason": ""},
+  "para nós fazermos": {"passed": true, "reason": ""},
+  "é importante vocês virem": {"passed": true, "reason": ""},
+  "antes de eles chegarem": {"passed": true, "reason": ""},
+  "ao sairmos": {"passed": false, "reason": "'Ao + infinitivo pessoal' ('Ao sairmos do cinema...', 'Ao sairmos de casa...') is written/literary register. A Brazilian narrating this out loud says 'Quando a gente saiu do cinema' / 'Na hora que saímos de casa', not 'ao sairmos'. Textbook-correct but not something spoken casually."},
+  "sem eles saberem": {"passed": true, "reason": ""},
+  "depois de comermos": {"passed": true, "reason": ""},
+  "ficar (permanecer)": {"passed": true, "reason": ""},
+  "ficar (localizar-se)": {"passed": true, "reason": ""},
+  "ficar bom (de saúde)": {"passed": true, "reason": ""},
+  "estar com fome": {"passed": true, "reason": ""},
+  "estar com sede": {"passed": true, "reason": ""},
+  "estar com sono": {"passed": true, "reason": ""}
+}

@@ -1,0 +1,22 @@
+{
+  "jogar fora": {"passed": true, "reason": ""},
+  "jogar conversa fora": {"passed": true, "reason": ""},
+  "jogar verde para colher maduro": {"passed": false, "reason": "sent2 minus sent2_span leaves only 'Fica esperto, ela tá .' — a dangling auxiliary with no predicate; the entire informative content of the sentence is inside the blank, giving no recoverable cue for the idiom."},
+  "tomar conta (de)": {"passed": false, "reason": "Removing sent2_span ('tomar conta das crianças') leaves 'Quem vai hoje à noite?', a fully complete, natural standalone question — nothing signals a verb phrase is missing, so the blank is not recoverable from context."},
+  "tomar um susto": {"passed": false, "reason": "sent2_span 'tomou um susto enorme' is longer than the item (adds 'enorme'), and removing it leaves the ungrammatical fragment 'Ela com o barulho da porta.' (no verb at all) — unrecoverable."},
+  "tomar uma": {"passed": false, "reason": "Removing sent2_span leaves 'Ele foi com os amigos no bar.', a complete natural sentence (he went to the bar with friends) with no signal that a drink-related verb was elided."},
+  "tomar jeito": {"passed": true, "reason": ""},
+  "a gente vai": {"passed": true, "reason": ""},
+  "a gente tá cansado": {"passed": false, "reason": "sent2_span 'a gente tá cansado demais' is longer than the item (adds 'demais'), and removing it leaves the broken fragment 'Depois do jogo pra sair.' — no subject, no verb, unrecoverable."},
+  "vamo embora / bora": {"passed": true, "reason": ""},
+  "tá ligado": {"passed": true, "reason": ""},
+  "a gente (pronome geral)": {"passed": false, "reason": "Removing 'a gente' leaves 'No trabalho tem que chegar cedo sempre.', a fully grammatical, complete impersonal sentence on its own — nothing cues that 'a gente' belongs there."},
+  "tem muita gente aqui": {"passed": false, "reason": "sent2_span 'tem muita gente aqui na fila' is longer than the item (adds 'na fila'), and removing it leaves only 'Não vou entrar,' with a dangling comma and no specific content cue."},
+  "não tem ninguém": {"passed": false, "reason": "sent2_span 'não tem ninguém na sala' is longer than the item 'não tem ninguém' — 'na sala' is not part of the item and shouldn't be included in the blanked span."},
+  "tem alguém aí?": {"passed": true, "reason": ""},
+  "não tem jeito": {"passed": true, "reason": ""},
+  "cabô / acabou (em fala)": {"passed": true, "reason": ""},
+  "quando eu for": {"passed": false, "reason": "sent2_span 'quando eu for embora' adds 'embora' beyond the item 'quando eu for', and removing it leaves 'Te aviso daqui.', a complete standalone sentence with a shifted meaning and no cue a temporal clause was elided."},
+  "se eu tiver tempo": {"passed": false, "reason": "sent2_span 'se eu tiver tempo à noite' is longer than the item (adds 'à noite'), and removing it leaves 'A gente vai no cinema.', a fully complete sentence with zero indication a conditional clause was there."},
+  "assim que ele chegar": {"passed": false, "reason": "sent2_span 'assim que ele chegar em casa' is longer than the item (adds 'em casa'), and removing it leaves just 'Me liga.' — the degenerate no-cue case the rules define as an automatic failure."}
+}

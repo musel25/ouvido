@@ -1,0 +1,22 @@
+{
+  "estar com medo": {"passed": true, "reason": ""},
+  "estar com pressa": {"passed": true, "reason": ""},
+  "estar com razão": {"passed": true, "reason": ""},
+  "estar com raiva": {"passed": true, "reason": ""},
+  "estar com saudade(s)": {"passed": true, "reason": ""},
+  "estar com calor/frio": {"passed": true, "reason": ""},
+  "me dá": {"passed": true, "reason": ""},
+  "me diz": {"passed": true, "reason": ""},
+  "me ajuda": {"passed": true, "reason": ""},
+  "me liga": {"passed": true, "reason": ""},
+  "me deixa": {"passed": true, "reason": ""},
+  "tá (como resposta sozinha)": {"passed": false, "reason": "item_full gives 'está bem' as the standard form, but this contradicts the note's own 'ear' field, which says 'tá' is simply the reduction of 'está' (dropping the first syllable). 'tá' phonetically reduces 'está', not the two-word phrase 'está bem'; using 'está bem' as item_full conflates the pragmatic meaning of the reply ('it's fine') with the standard form of the reduced word."},
+  "né (pergunta de confirmação)": {"passed": true, "reason": ""},
+  "vai que": {"passed": true, "reason": ""},
+  "sei lá se": {"passed": true, "reason": ""},
+  "acordar": {"passed": true, "reason": ""},
+  "ainda": {"passed": true, "reason": ""},
+  "anedota": {"passed": true, "reason": ""},
+  "apelido": {"passed": true, "reason": ""},
+  "apenas": {"passed": true, "reason": ""}
+}

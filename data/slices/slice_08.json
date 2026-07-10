@@ -1,0 +1,183 @@
+[
+ {
+  "item": "escova",
+  "es": "cepillo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 6669
+ },
+ {
+  "item": "escritório",
+  "es": "oficina, despacho",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 786
+ },
+ {
+  "item": "esquisito",
+  "es": "raro, extraño",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2867
+ },
+ {
+  "item": "fechar",
+  "es": "cerrar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1550
+ },
+ {
+  "item": "filhote",
+  "es": "cría, cachorro",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 6611
+ },
+ {
+  "item": "galho",
+  "es": "rama",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 8571
+ },
+ {
+  "item": "garçom",
+  "es": "camarero, mesero",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4336
+ },
+ {
+  "item": "jornal",
+  "es": "periódico, diario",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1347
+ },
+ {
+  "item": "ladrilho",
+  "es": "azulejo, baldosa",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 45798
+ },
+ {
+  "item": "largo",
+  "es": "ancho",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7299
+ },
+ {
+  "item": "mala",
+  "es": "maleta, equipaje",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1865
+ },
+ {
+  "item": "ninguém",
+  "es": "nadie",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 159
+ },
+ {
+  "item": "ninho",
+  "es": "nido",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4671
+ },
+ {
+  "item": "novela",
+  "es": "telenovela",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7184
+ },
+ {
+  "item": "oficina",
+  "es": "taller",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4597
+ },
+ {
+  "item": "padre",
+  "es": "cura, sacerdote",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 822
+ },
+ {
+  "item": "palco",
+  "es": "escenario, tablado",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2123
+ },
+ {
+  "item": "paquete",
+  "es": "(vulgar) la regla, menstruación",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 49187
+ },
+ {
+  "item": "pegar",
+  "es": "agarrar, tomar, coger",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 302
+ },
+ {
+  "item": "pelo",
+  "es": "por el (contracción de 'por' + 'o'; ojo, idéntico a 'pelo' = cabello en español, significado totalmente distinto)",
+  "stratum": "reducao",
+  "rules": [
+   "R2",
+   "R3"
+  ],
+  "subtlex_rank": 146
+ }
+]

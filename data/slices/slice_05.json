@@ -1,0 +1,184 @@
+[
+ {
+  "item": "enquanto puder",
+  "es": "mientras pueda",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se quiser",
+  "es": "si quieres",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "quando der",
+  "es": "cuando se pueda, cuando dé tiempo",
+  "stratum": "estrutura",
+  "rules": [
+   "R6",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se precisar",
+  "es": "si necesitas",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "o que você quiser",
+  "es": "lo que quieras",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se Deus quiser",
+  "es": "si Dios quiere",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "quando ela vier",
+  "es": "cuando ella venga",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "se der certo",
+  "es": "si sale bien, si resulta",
+  "stratum": "estrutura",
+  "rules": [
+   "R6",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "para nós fazermos",
+  "es": "para que nosotros hagamos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "é importante vocês virem",
+  "es": "es importante que ustedes vengan",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "antes de eles chegarem",
+  "es": "antes de que ellos lleguen",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ao sairmos",
+  "es": "al salir nosotros, cuando salimos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "sem eles saberem",
+  "es": "sin que ellos sepan/supieran",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "depois de comermos",
+  "es": "después de que comamos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar (permanecer)",
+  "es": "quedarse (permanecer en un lugar)",
+  "stratum": "estrutura",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar (localizar-se)",
+  "es": "quedar, estar ubicado",
+  "stratum": "estrutura",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar bom (de saúde)",
+  "es": "curarse, mejorarse",
+  "stratum": "estrutura",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com fome",
+  "es": "tener hambre",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com sede",
+  "es": "tener sed",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com sono",
+  "es": "tener sueño",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ }
+]

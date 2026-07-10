@@ -1,0 +1,559 @@
+[
+ {
+  "item": "bagunça",
+  "es": "desorden, lío",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 2775
+ },
+ {
+  "item": "caprichar",
+  "es": "esmerarse, poner cuidado/empeño en algo",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 39694
+ },
+ {
+  "item": "chato",
+  "es": "pesado, molesto, aburrido",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 2247
+ },
+ {
+  "item": "legal",
+  "es": "genial, guay, bueno (nada que ver con 'legal'/lícito)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 379
+ },
+ {
+  "item": "valeu",
+  "es": "gracias, vale (agradecimiento informal)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 2243
+ },
+ {
+  "item": "grana",
+  "es": "plata, dinero",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 1540
+ },
+ {
+  "item": "rolê",
+  "es": "vuelta, salida, plan informal",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 35536
+ },
+ {
+  "item": "bagulho",
+  "es": "cosa, chisme (objeto indefinido; a veces droga)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 8103
+ },
+ {
+  "item": "treta",
+  "es": "lío, bronca, pelea, movida sospechosa",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 10432
+ },
+ {
+  "item": "mano",
+  "es": "tío, hermano (forma de tratamiento entre amigos)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 2163
+ },
+ {
+  "item": "galera",
+  "es": "la gente, la peña, el grupo (nada que ver con la nave/galera)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 4996
+ },
+ {
+  "item": "moleque",
+  "es": "chaval, pillo, niño travieso",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 4643
+ },
+ {
+  "item": "garoto",
+  "es": "chico, muchacho",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 370
+ },
+ {
+  "item": "cadê",
+  "es": "¿dónde está?",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "subtlex_rank": 1383
+ },
+ {
+  "item": "embora (ir embora)",
+  "es": "irse, marcharse",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "jeito",
+  "es": "modo, manera, maña",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 343
+ },
+ {
+  "item": "jeitinho",
+  "es": "maña, arreglo informal ('el jeitinho brasileño')",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": 19470
+ },
+ {
+  "item": "esquentar",
+  "es": "calentar; (fig.) preocuparse ('não esquenta')",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 7245
+ },
+ {
+  "item": "atrapalhar",
+  "es": "estorbar, complicar, entorpecer",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 6014
+ },
+ {
+  "item": "bagunçar",
+  "es": "desordenar",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 21087
+ },
+ {
+  "item": "xingar",
+  "es": "insultar, putear",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 15542
+ },
+ {
+  "item": "fofoca",
+  "es": "chisme, cotilleo",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 10870
+ },
+ {
+  "item": "saudade",
+  "es": "añoranza, nostalgia (sin equivalente exacto)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 3820
+ },
+ {
+  "item": "teimoso",
+  "es": "terco, testarudo",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 5472
+ },
+ {
+  "item": "puxa-saco",
+  "es": "pelota, adulador, lameculos",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "encher o saco",
+  "es": "fastidiar, tocar las narices/los cojones",
+  "stratum": "lexico",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "mala (pessoa mala)",
+  "es": "pesado/a, pelmazo (persona molesta)",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "zoar",
+  "es": "burlarse, cachondearse, quedarse con alguien",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 19768
+ },
+ {
+  "item": "curtir",
+  "es": "disfrutar, pasarlo bien; dar like (no 'curtir' cuero/piel, que en español es otro sentido)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 6917
+ },
+ {
+  "item": "topar",
+  "es": "aceptar, estar dispuesto a algo (no 'toparse con')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 17968
+ },
+ {
+  "item": "sacar",
+  "es": "entender, pillar (una idea) (no 'sacar/retirar')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 9504
+ },
+ {
+  "item": "ferrar (estar ferrado)",
+  "es": "joder, fastidiar; estar jodido",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "bater papo",
+  "es": "charlar, platicar",
+  "stratum": "lexico",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "papo",
+  "es": "charla, plática (nada que ver con 'papo' de papada/buche en español)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 2880
+ },
+ {
+  "item": "trampo",
+  "es": "curro, chamba, trabajo",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "subtlex_rank": 28240
+ },
+ {
+  "item": "rango",
+  "es": "comida, manduca (nada que ver con 'rango'/jerarquía en español)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 21177
+ },
+ {
+  "item": "birita",
+  "es": "trago, chela, bebida alcohólica",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 26957
+ },
+ {
+  "item": "resenha",
+  "es": "reunión informal para charlar/beber (no solo 'reseña' de libro)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 41315
+ },
+ {
+  "item": "chute (dar um chute)",
+  "es": "adivinar a lo loco, tirar un palo (no 'chute' de droga/tiro en español)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "mexer (mexer com alguém)",
+  "es": "meterse con alguien, molestar",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "cutucar",
+  "es": "pinchar, dar un toque (con el dedo o el codo)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 22428
+ },
+ {
+  "item": "derrubar",
+  "es": "derribar, tumbar",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 3934
+ },
+ {
+  "item": "largar",
+  "es": "dejar, soltar (largar o emprego/namorado = dejar el trabajo/a la pareja; uso más amplio que el 'largar' coloquial rioplatense)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2"
+  ],
+  "subtlex_rank": 3552
+ },
+ {
+  "item": "jogar (jogar fora)",
+  "es": "tirar, deshacerse de algo (no solo 'jugar')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "arrumar",
+  "es": "arreglar, ordenar; conseguir (arrumar namorado)",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 1641
+ },
+ {
+  "item": "consertar",
+  "es": "reparar, arreglar",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2367
+ },
+ {
+  "item": "beleza",
+  "es": "genial, guay, vale ('tudo beleza?' = ¿todo bien?; nada que ver con 'belleza' física en español)",
+  "stratum": "lexico",
+  "rules": [
+   "R1",
+   "R2",
+   "R3"
+  ],
+  "subtlex_rank": 922
+ },
+ {
+  "item": "bicho (pessoa)",
+  "es": "tío, tipo (además de 'animal/bicho')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "cara (pessoa)",
+  "es": "tío, tipo (no 'cara' de la casa)",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "molecagem",
+  "es": "trastada, travesura",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 47410
+ },
+ {
+  "item": "sacanagem",
+  "es": "guarrada, jugada sucia, faena",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 6772
+ },
+ {
+  "item": "sacana",
+  "es": "cabrón, sinvergüenza",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 4463
+ },
+ {
+  "item": "vacilar",
+  "es": "meter la pata, fallarle a alguien, portarse mal (no 'dudar/bromear')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 26911
+ },
+ {
+  "item": "dar mole",
+  "es": "dar pie, bajar la guardia, dar motivo",
+  "stratum": "lexico",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar bola",
+  "es": "hacer caso, prestar atención (interés romántico)",
+  "stratum": "lexico",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar (ficar com alguém)",
+  "es": "enrollarse con alguien, liarse",
+  "stratum": "lexico",
+  "rules": [
+   "R2",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "rolar",
+  "es": "pasar, ocurrir (algo) (no solo 'rodar')",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5896
+ },
+ {
+  "item": "embromar",
+  "es": "dar largas, engañar, entretener con excusas",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 54782
+ },
+ {
+  "item": "enrolar",
+  "es": "enredar, dar largas, liar a alguien con palabras",
+  "stratum": "lexico",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7718
+ },
+ {
+  "item": "malandro",
+  "es": "pícaro, vivo, astuto",
+  "stratum": "lexico",
+  "rules": [
+   "R1"
+  ],
+  "subtlex_rank": 7590
+ }
+]

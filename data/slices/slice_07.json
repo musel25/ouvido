@@ -1,0 +1,182 @@
+[
+ {
+  "item": "aula",
+  "es": "clase, lección",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1397
+ },
+ {
+  "item": "açougue",
+  "es": "carnicería",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 14171
+ },
+ {
+  "item": "balcão",
+  "es": "mostrador, barra",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5777
+ },
+ {
+  "item": "constipado",
+  "es": "resfriado, acatarrado (NÃO 'estreñido')",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 31184
+ },
+ {
+  "item": "barata",
+  "es": "cucaracha",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4526
+ },
+ {
+  "item": "bater",
+  "es": "golpear, pegar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1043
+ },
+ {
+  "item": "bilhão",
+  "es": "mil millones (10⁹)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7614
+ },
+ {
+  "item": "borracha",
+  "es": "goma, caucho",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5578
+ },
+ {
+  "item": "borracharia",
+  "es": "taller de neumáticos",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 46579
+ },
+ {
+  "item": "borracheiro",
+  "es": "gomero",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 59735
+ },
+ {
+  "item": "botar",
+  "es": "poner, colocar",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4292
+ },
+ {
+  "item": "brincar",
+  "es": "jugar, bromear",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1170
+ },
+ {
+  "item": "cachorro",
+  "es": "perro",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 966
+ },
+ {
+  "item": "camareiro",
+  "es": "mucamo, camarero de hotel",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 17694
+ },
+ {
+  "item": "catarro",
+  "es": "moco, flema",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 26681
+ },
+ {
+  "item": "cena",
+  "es": "escena",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1186
+ },
+ {
+  "item": "cigarro",
+  "es": "cigarrillo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1752
+ },
+ {
+  "item": "criança",
+  "es": "niño, niña",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 514
+ },
+ {
+  "item": "doce",
+  "es": "dulce",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 982
+ },
+ {
+  "item": "embaraçado",
+  "es": "avergonzado, confundido",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 19191
+ }
+]

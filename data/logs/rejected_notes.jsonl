@@ -1,0 +1,199 @@
+{"item": "jogar verde para colher maduro", "reason": "mechanics: sent2 minus sent2_span leaves only 'Fica esperto, ela tá .' — a dangling auxiliary with no predicate; the entire informative content of the sentence is inside the blank, giving no recoverable cue for the idiom.; naturalness: The full idiom 'jogar verde para colher maduro' is a written/proverbial expression, not something Brazilians actually say out loud in casual conversation — spoken usage almost always shortens to just 'jogar verde'. Both example sentences plug the full bookish idiom into otherwise casual speech ('tá', 'pra'), which reads as textbook-stitched rather than authentic."}
+{"item": "ficar bom (de saúde)", "reason": "semantics: cuidado claim is incoherent: '⚠️ No es \"ponerse bien\" en sentido moral' misattributes a 'moral sense' ambiguity to the Spanish phrase 'ponerse bien', which in Spanish is itself the standard way to say 'to get better/recover (health)' and carries no moral connotation. The real ambiguity (recover health vs. become a good person) belongs to Portuguese 'ficar bom', not to the Spanish equivalent, so the cuidado misrepresents what Spanish 'ponerse bien' means."}
+{"item": "tá (como resposta sozinha)", "reason": "semantics: item_full gives 'está bem' as the standard form, but this contradicts the note's own 'ear' field, which says 'tá' is simply the reduction of 'está' (dropping the first syllable). 'tá' phonetically reduces 'está', not the two-word phrase 'está bem'; using 'está bem' as item_full conflates the pragmatic meaning of the reply ('it's fine') with the standard form of the reduced word."}
+{"item": "fechar", "reason": "semantics: cuidado wrongly implies Spanish 'fechar' isn't used for 'poner fecha' (dating a document) and that only 'datar' works. In fact Spanish 'fechar' is a standard verb meaning 'to date/put a date on' (e.g. 'fechar una carta'), so the parenthetical '(eso es datar)' misstates Spanish vocabulary even though the core PT/ES semantic gap (cerrar vs fechar-fecha) is real."}
+{"item": "paquete", "reason": "naturalness: \"Paquete\" is not a recognizable Brazilian slang term for menstruation (common real ones are 'chico'/'tio Chico', 'baixo-astral', 'período', 'menstruação'); this reads as a fabricated or non-Brazilian term, and both sentences ('tá de paquete', 'veio o paquete') would not actually be understood/said by a Brazilian, which defeats the deck's core listening-comprehension purpose.; semantics: Unable to verify 'paquete' as genuine Brazilian slang for menstruation; known BR-PT euphemisms are 'chico'/'tio Chico chegou', 'regra', 'está naqueles dias', etc. Not 'paquete'. The item, gloss, and both example sentences all hinge on this unverified/likely-fabricated slang sense, and the vulgar/rare hedge in notes reads as cover for an invented entry — defaulting to fail per uncertainty rule since a wrong vocabulary item here is high-risk."}
+{"item": "película", "reason": "naturalness: Both example sentences use unnatural collocations. Brazilians don't say 'película de plástico' for cling wrap over food — the standard term is 'filme plástico' or 'papel filme'; 'película' is used for phone screen protectors, car window tinting, or photographic film, not kitchen wrap. Likewise 'a película do olho fica irritada com o vento' is a constructed-sounding anatomical phrase nobody actually says; a real speaker would just say 'o olho fica irritado com o vento'."}
+{"item": "podre", "reason": "insufficient passing lenses"}
+{"item": "polvo", "reason": "insufficient passing lenses"}
+{"item": "porra", "reason": "insufficient passing lenses"}
+{"item": "pronto", "reason": "insufficient passing lenses"}
+{"item": "punheta", "reason": "insufficient passing lenses"}
+{"item": "pó", "reason": "naturalness: sent2 uses the reversed, non-standard word order 'pó de leite'. The natural Brazilian collocation is 'leite em pó' (powdered milk) — 'pó de leite' sounds backward and is not how a native speaker would say it."}
+{"item": "rato", "reason": "insufficient passing lenses"}
+{"item": "reparar", "reason": "insufficient passing lenses"}
+{"item": "ressaca", "reason": "insufficient passing lenses"}
+{"item": "romance", "reason": "insufficient passing lenses"}
+{"item": "saco", "reason": "insufficient passing lenses"}
+{"item": "salsa", "reason": "insufficient passing lenses"}
+{"item": "saltar", "reason": "naturalness: sent1 teaches 'saltar do ônibus' for 'to get off the bus', but this is European Portuguese usage. In Brazil the verb for disembarking is 'descer' ('descer do ônibus') — 'saltar' in Brazilian speech means only 'to jump' (as correctly shown in sent2), not 'to alight'. The gloss/definition and sent1 import a Portugal-only sense as if it were Brazilian."}
+{"item": "sobremesa", "reason": "insufficient passing lenses"}
+{"item": "sobrenome", "reason": "insufficient passing lenses"}
+{"item": "sótão", "reason": "insufficient passing lenses"}
+{"item": "taco", "reason": "insufficient passing lenses"}
+{"item": "talher", "reason": "insufficient passing lenses"}
+{"item": "taça", "reason": "insufficient passing lenses"}
+{"item": "tijolo", "reason": "no verdicts recorded"}
+{"item": "tirar", "reason": "no verdicts recorded"}
+{"item": "trilhão", "reason": "no verdicts recorded"}
+{"item": "turma", "reason": "no verdicts recorded"}
+{"item": "vaso", "reason": "no verdicts recorded"}
+{"item": "vassoura", "reason": "no verdicts recorded"}
+{"item": "venta", "reason": "no verdicts recorded"}
+{"item": "xingar", "reason": "no verdicts recorded"}
+{"item": "todavia", "reason": "no verdicts recorded"}
+{"item": "assistir", "reason": "no verdicts recorded"}
+{"item": "acreditar", "reason": "no verdicts recorded"}
+{"item": "puxar", "reason": "no verdicts recorded"}
+{"item": "ligar", "reason": "no verdicts recorded"}
+{"item": "procurar", "reason": "no verdicts recorded"}
+{"item": "propina", "reason": "no verdicts recorded"}
+{"item": "roxo", "reason": "no verdicts recorded"}
+{"item": "sino", "reason": "no verdicts recorded"}
+{"item": "presunto", "reason": "no verdicts recorded"}
+{"item": "latido", "reason": "no verdicts recorded"}
+{"item": "molho", "reason": "no verdicts recorded"}
+{"item": "copo", "reason": "no verdicts recorded"}
+{"item": "cadeira", "reason": "no verdicts recorded"}
+{"item": "pasta", "reason": "no verdicts recorded"}
+{"item": "bolso", "reason": "no verdicts recorded"}
+{"item": "esperto", "reason": "no verdicts recorded"}
+{"item": "trair", "reason": "no verdicts recorded"}
+{"item": "férias", "reason": "no verdicts recorded"}
+{"item": "comprido", "reason": "no verdicts recorded"}
+{"item": "bagunça", "reason": "no verdicts recorded"}
+{"item": "caprichar", "reason": "no verdicts recorded"}
+{"item": "chato", "reason": "no verdicts recorded"}
+{"item": "legal", "reason": "no verdicts recorded"}
+{"item": "valeu", "reason": "no verdicts recorded"}
+{"item": "grana", "reason": "no verdicts recorded"}
+{"item": "rolê", "reason": "no verdicts recorded"}
+{"item": "bagulho", "reason": "no verdicts recorded"}
+{"item": "treta", "reason": "no verdicts recorded"}
+{"item": "mano", "reason": "no verdicts recorded"}
+{"item": "galera", "reason": "no verdicts recorded"}
+{"item": "moleque", "reason": "no verdicts recorded"}
+{"item": "garoto", "reason": "no verdicts recorded"}
+{"item": "cadê", "reason": "no verdicts recorded"}
+{"item": "embora (ir embora)", "reason": "no verdicts recorded"}
+{"item": "jeito", "reason": "no verdicts recorded"}
+{"item": "jeitinho", "reason": "no verdicts recorded"}
+{"item": "esquentar", "reason": "no verdicts recorded"}
+{"item": "atrapalhar", "reason": "no verdicts recorded"}
+{"item": "bagunçar", "reason": "no verdicts recorded"}
+{"item": "fofoca", "reason": "no verdicts recorded"}
+{"item": "saudade", "reason": "no verdicts recorded"}
+{"item": "teimoso", "reason": "no verdicts recorded"}
+{"item": "puxa-saco", "reason": "no verdicts recorded"}
+{"item": "encher o saco", "reason": "no verdicts recorded"}
+{"item": "mala (pessoa mala)", "reason": "no verdicts recorded"}
+{"item": "zoar", "reason": "no verdicts recorded"}
+{"item": "curtir", "reason": "no verdicts recorded"}
+{"item": "topar", "reason": "no verdicts recorded"}
+{"item": "sacar", "reason": "no verdicts recorded"}
+{"item": "ferrar (estar ferrado)", "reason": "no verdicts recorded"}
+{"item": "bater papo", "reason": "no verdicts recorded"}
+{"item": "papo", "reason": "no verdicts recorded"}
+{"item": "trampo", "reason": "no verdicts recorded"}
+{"item": "rango", "reason": "no verdicts recorded"}
+{"item": "birita", "reason": "no verdicts recorded"}
+{"item": "resenha", "reason": "no verdicts recorded"}
+{"item": "chute (dar um chute)", "reason": "no verdicts recorded"}
+{"item": "mexer (mexer com alguém)", "reason": "no verdicts recorded"}
+{"item": "cutucar", "reason": "no verdicts recorded"}
+{"item": "derrubar", "reason": "no verdicts recorded"}
+{"item": "largar", "reason": "no verdicts recorded"}
+{"item": "jogar (jogar fora)", "reason": "no verdicts recorded"}
+{"item": "arrumar", "reason": "no verdicts recorded"}
+{"item": "consertar", "reason": "no verdicts recorded"}
+{"item": "beleza", "reason": "no verdicts recorded"}
+{"item": "bicho (pessoa)", "reason": "no verdicts recorded"}
+{"item": "cara (pessoa)", "reason": "no verdicts recorded"}
+{"item": "molecagem", "reason": "no verdicts recorded"}
+{"item": "sacanagem", "reason": "no verdicts recorded"}
+{"item": "sacana", "reason": "no verdicts recorded"}
+{"item": "vacilar", "reason": "no verdicts recorded"}
+{"item": "dar bola", "reason": "no verdicts recorded"}
+{"item": "ficar (ficar com alguém)", "reason": "no verdicts recorded"}
+{"item": "rolar", "reason": "no verdicts recorded"}
+{"item": "embromar", "reason": "no verdicts recorded"}
+{"item": "enrolar", "reason": "no verdicts recorded"}
+{"item": "malandro", "reason": "no verdicts recorded"}
+{"item": "né", "reason": "no verdicts recorded"}
+{"item": "aí", "reason": "no verdicts recorded"}
+{"item": "então", "reason": "no verdicts recorded"}
+{"item": "tipo", "reason": "no verdicts recorded"}
+{"item": "assim", "reason": "no verdicts recorded"}
+{"item": "sabe", "reason": "no verdicts recorded"}
+{"item": "pois é", "reason": "no verdicts recorded"}
+{"item": "ó", "reason": "no verdicts recorded"}
+{"item": "olha", "reason": "no verdicts recorded"}
+{"item": "cara", "reason": "no verdicts recorded"}
+{"item": "sei lá", "reason": "no verdicts recorded"}
+{"item": "pô", "reason": "no verdicts recorded"}
+{"item": "poxa", "reason": "no verdicts recorded"}
+{"item": "nossa", "reason": "no verdicts recorded"}
+{"item": "eita", "reason": "no verdicts recorded"}
+{"item": "uai", "reason": "no verdicts recorded"}
+{"item": "opa", "reason": "no verdicts recorded"}
+{"item": "falou", "reason": "no verdicts recorded"}
+{"item": "sacou", "reason": "no verdicts recorded"}
+{"item": "putz", "reason": "no verdicts recorded"}
+{"item": "ué", "reason": "no verdicts recorded"}
+{"item": "ah tá", "reason": "no verdicts recorded"}
+{"item": "hein", "reason": "no verdicts recorded"}
+{"item": "viu", "reason": "no verdicts recorded"}
+{"item": "tudo bem", "reason": "no verdicts recorded"}
+{"item": "é que", "reason": "no verdicts recorded"}
+{"item": "no caso", "reason": "no verdicts recorded"}
+{"item": "quer dizer", "reason": "no verdicts recorded"}
+{"item": "ou seja", "reason": "no verdicts recorded"}
+{"item": "tipo assim", "reason": "no verdicts recorded"}
+{"item": "e aí", "reason": "no verdicts recorded"}
+{"item": "de boa", "reason": "no verdicts recorded"}
+{"item": "meu Deus", "reason": "no verdicts recorded"}
+{"item": "vixe", "reason": "no verdicts recorded"}
+{"item": "nem vem", "reason": "no verdicts recorded"}
+{"item": "que isso", "reason": "no verdicts recorded"}
+{"item": "imagina", "reason": "no verdicts recorded"}
+{"item": "magina", "reason": "no verdicts recorded"}
+{"item": "fala sério", "reason": "no verdicts recorded"}
+{"item": "cê", "reason": "no verdicts recorded"}
+{"item": "cês", "reason": "no verdicts recorded"}
+{"item": "tá", "reason": "no verdicts recorded"}
+{"item": "tô", "reason": "no verdicts recorded"}
+{"item": "tava", "reason": "no verdicts recorded"}
+{"item": "tavam", "reason": "no verdicts recorded"}
+{"item": "tão", "reason": "no verdicts recorded"}
+{"item": "num", "reason": "no verdicts recorded"}
+{"item": "numa", "reason": "no verdicts recorded"}
+{"item": "pra", "reason": "no verdicts recorded"}
+{"item": "pro", "reason": "no verdicts recorded"}
+{"item": "pra mim", "reason": "no verdicts recorded"}
+{"item": "vamo", "reason": "no verdicts recorded"}
+{"item": "bora", "reason": "no verdicts recorded"}
+{"item": "tá bom", "reason": "no verdicts recorded"}
+{"item": "deixa eu", "reason": "no verdicts recorded"}
+{"item": "falano", "reason": "no verdicts recorded"}
+{"item": "fazeno", "reason": "no verdicts recorded"}
+{"item": "comeno", "reason": "no verdicts recorded"}
+{"item": "indo", "reason": "no verdicts recorded"}
+{"item": "falá", "reason": "no verdicts recorded"}
+{"item": "comê", "reason": "no verdicts recorded"}
+{"item": "dormi", "reason": "no verdicts recorded"}
+{"item": "cê vai", "reason": "no verdicts recorded"}
+{"item": "cê tá", "reason": "no verdicts recorded"}
+{"item": "tô indo", "reason": "no verdicts recorded"}
+{"item": "tá vendo", "reason": "no verdicts recorded"}
+{"item": "no", "reason": "no verdicts recorded"}
+{"item": "na", "reason": "no verdicts recorded"}
+{"item": "nos (contração)", "reason": "no verdicts recorded"}
+{"item": "nas", "reason": "no verdicts recorded"}
+{"item": "do", "reason": "no verdicts recorded"}
+{"item": "da", "reason": "no verdicts recorded"}
+{"item": "pela", "reason": "no verdicts recorded"}
+{"item": "dele", "reason": "no verdicts recorded"}
+{"item": "dela", "reason": "no verdicts recorded"}
+{"item": "nele", "reason": "no verdicts recorded"}
+{"item": "nela", "reason": "no verdicts recorded"}
+{"item": "desse", "reason": "no verdicts recorded"}
+{"item": "nesse", "reason": "no verdicts recorded"}
+{"item": "daquele", "reason": "no verdicts recorded"}
+{"item": "naquele", "reason": "no verdicts recorded"}
+{"item": "disso", "reason": "no verdicts recorded"}
+{"item": "nisso", "reason": "no verdicts recorded"}
+{"item": "vô", "reason": "no verdicts recorded"}
+{"item": "cê quer", "reason": "no verdicts recorded"}
+{"item": "memo", "reason": "no verdicts recorded"}
+{"item": "qui", "reason": "no verdicts recorded"}
+{"item": "cabô", "reason": "no verdicts recorded"}

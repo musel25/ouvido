@@ -1,0 +1,423 @@
+[
+ {
+  "item": "né",
+  "es": "¿no?, ¿verdad? (muletilla de confirmación al final de la frase)",
+  "stratum": "marcador",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": 1035
+ },
+ {
+  "item": "aí",
+  "es": "entonces, y bueno, pues (conector de relleno/continuación, no locativo)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 139
+ },
+ {
+  "item": "então",
+  "es": "bueno, pues (muletilla de arranque/cierre de turno, no solo 'entonces' causal)",
+  "stratum": "marcador",
+  "rules": [
+   "R4",
+   "R7"
+  ],
+  "subtlex_rank": 52
+ },
+ {
+  "item": "tipo",
+  "es": "como que, o sea, tipo (muletilla de vaguedad/ejemplo)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 230
+ },
+ {
+  "item": "assim",
+  "es": "o sea, este... (muletilla de relleno, no 'así' comparativo)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 85
+ },
+ {
+  "item": "sabe",
+  "es": "¿sabes?, ¿entiendes? (muletilla de chequeo de comprensión)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 66
+ },
+ {
+  "item": "pois é",
+  "es": "pues sí, ya ves (confirmación resignada/comentario de cierre)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ó",
+  "es": "mira, oye (llamada de atención brevísima)",
+  "stratum": "marcador",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": 2295
+ },
+ {
+  "item": "olha",
+  "es": "mira, oye (llamada de atención/introductor de comentario)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 253
+ },
+ {
+  "item": "cara",
+  "es": "tío, tía, colega; ¡vaya! (vocativo informal o interjección de énfasis)",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 119
+ },
+ {
+  "item": "mano",
+  "es": "tío, colega (vocativo entre amigos)",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 2163
+ },
+ {
+  "item": "sei lá",
+  "es": "yo qué sé, ni idea (encogimiento de hombros verbal)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pô",
+  "es": "¡joder!, ¡hombre! (interjección de fastidio o énfasis)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": 8285
+ },
+ {
+  "item": "poxa",
+  "es": "¡vaya!, ¡jo! (interjección de decepción o sorpresa leve)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": 10540
+ },
+ {
+  "item": "nossa",
+  "es": "¡madre mía!, ¡vaya! (interjección de sorpresa, NO 'nuestra')",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 184
+ },
+ {
+  "item": "eita",
+  "es": "¡uy!, ¡ups! (interjección de sorpresa o metedura de pata)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": 18373
+ },
+ {
+  "item": "uai",
+  "es": "¡anda!, ¡vaya! (interjección regional mineira de sorpresa/obviedad)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": 41440
+ },
+ {
+  "item": "opa",
+  "es": "¡epa!, ¡uy! (interjección de sorpresa o saludo brusco)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 5156
+ },
+ {
+  "item": "valeu",
+  "es": "gracias; vale, guay (agradecimiento o cierre de conversación informal)",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 2243
+ },
+ {
+  "item": "falou",
+  "es": "vale, hecho, hasta luego (cierre de conversación/acuerdo, no 'habló')",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 619
+ },
+ {
+  "item": "beleza",
+  "es": "vale, guay, ¿todo bien? (confirmación/saludo, NO 'belleza' estética)",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 922
+ },
+ {
+  "item": "tá ligado",
+  "es": "¿sabes?, ¿te enteras? (chequeo de comprensión, jerga)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "sacou",
+  "es": "¿pillaste?, ¿entendiste? (chequeo de comprensión, jerga)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": 6537
+ },
+ {
+  "item": "putz",
+  "es": "¡jo!, ¡mierda! (eufemismo de fastidio o decepción)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ué",
+  "es": "¿eh?, ¿cómo? (interjección de extrañeza/sorpresa)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": 12823
+ },
+ {
+  "item": "ah tá",
+  "es": "ah, vale, ah ya (reconocimiento/comprensión repentina)",
+  "stratum": "marcador",
+  "rules": [
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "hein",
+  "es": "¿eh?, ¿qué? (pedir repetición o buscar confirmación)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": 798
+ },
+ {
+  "item": "viu",
+  "es": "¿vale?, ¿eh? (coletilla final de énfasis/confirmación, no '(tú) viste')",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 245
+ },
+ {
+  "item": "tudo bem",
+  "es": "vale, de acuerdo; ¿qué tal? (saludo/aceptación, no solo 'todo bien')",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "é que",
+  "es": "es que, lo que pasa es que (introductor de justificación)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "no caso",
+  "es": "en ese caso, o sea, concretamente (matizador, no 'en el caso de')",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "quer dizer",
+  "es": "o sea, es decir (reformulador)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ou seja",
+  "es": "o sea, es decir (reformulador)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tipo assim",
+  "es": "como que, o sea así (muletilla de vaguedad reforzada)",
+  "stratum": "marcador",
+  "rules": [
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "e aí",
+  "es": "¿qué tal?, ¿qué pasa? (saludo, no 'y allí')",
+  "stratum": "marcador",
+  "rules": [
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "de boa",
+  "es": "tranqui, sin problema (respuesta informal de conformidad)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "meu Deus",
+  "es": "¡Dios mío!, ¡madre mía! (interjección de sorpresa/exasperación)",
+  "stratum": "marcador",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "vixe",
+  "es": "¡uy!, ¡madre mía! (interjección nordestina de sorpresa/alarma)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "nem vem",
+  "es": "ni se te ocurra, no me vengas con esas (rechazo tajante)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "que isso",
+  "es": "¡qué va!, no hace falta (rechazo cortés de agradecimiento/disculpa)",
+  "stratum": "marcador",
+  "rules": [
+   "R1",
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "imagina",
+  "es": "¡qué va!, no hay de qué (rechazo cortés, no 'imagínate' literal)",
+  "stratum": "marcador",
+  "rules": [
+   "R2",
+   "R4"
+  ],
+  "subtlex_rank": 2277
+ },
+ {
+  "item": "magina",
+  "es": "¡qué va!, no hay de qué (forma hablada reducida de 'imagina')",
+  "stratum": "marcador",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "fala sério",
+  "es": "¡en serio!, ¡no me digas! (incredulidad/énfasis, no imperativo literal 'habla en serio')",
+  "stratum": "marcador",
+  "rules": [
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ }
+]

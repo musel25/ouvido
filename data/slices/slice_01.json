@@ -1,0 +1,186 @@
+[
+ {
+  "item": "dar um migué",
+  "es": "poner una excusa, escaquearse",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar uma mancada",
+  "es": "meter la pata",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um tempo",
+  "es": "tomarse un respiro, hacer una pausa (en la relación)",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar um show",
+  "es": "lucirse, montar un espectáculo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "dar pra trás",
+  "es": "echarse atrás, rajarse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar a fim de",
+  "es": "tener ganas de, estar por",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de boa",
+  "es": "quedarse tranquilo, estar relajado",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar por isso mesmo",
+  "es": "quedar en nada, sin consecuencias",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar com (alguém)",
+  "es": "enrollarse con alguien, liarse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar sabendo",
+  "es": "enterarse de algo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar na sua",
+  "es": "no meterse, quedarse en lo suyo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de olho",
+  "es": "estar pendiente, vigilar",
+  "stratum": "estrutura",
+  "rules": [
+   "R1",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de cara",
+  "es": "quedarse pasmado o enfadado",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar bolado",
+  "es": "molestarse, mosquearse",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de fora",
+  "es": "quedarse fuera, no participar",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar por conta (de)",
+  "es": "quedar a cargo de, encargarse de",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar em cima do muro",
+  "es": "quedarse indeciso, no mojarse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de bem (com)",
+  "es": "hacer las paces con",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar de mal (com)",
+  "es": "enfadarse con, dejar de hablarse con",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "ficar quieto",
+  "es": "quedarse callado, no meterse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ }
+]

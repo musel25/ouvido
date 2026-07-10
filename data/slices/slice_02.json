@@ -1,0 +1,190 @@
+[
+ {
+  "item": "ficar (tornar-se)",
+  "es": "ponerse, quedarse (cambio de estado)",
+  "stratum": "chunk",
+  "rules": [
+   "R1",
+   "R5",
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar no pé",
+  "es": "fastidiar, dar la lata",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar leve",
+  "es": "tomárselo con calma, ir suave",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar mal",
+  "es": "quedar mal, sentar mal",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar fogo",
+  "es": "incendiarse; (fig) ponerse muy agitado o candente",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar carona",
+  "es": "pedir aventón, ir de gorra en un coche",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar o jeito",
+  "es": "agarrarle el truco a algo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar no sono",
+  "es": "quedarse profundamente dormido",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar pesado",
+  "es": "pasarse, ser muy duro con alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar alguém de surpresa",
+  "es": "agarrar a alguien desprevenido",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar uma cola",
+  "es": "copiar en un examen",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "pegar a visão",
+  "es": "captar la idea, entender de qué va",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar mal",
+  "es": "sentirse mal, indisponerse",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar dos limites",
+  "es": "pasarse de la raya",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar batido",
+  "es": "pasar desapercibido",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar a perna em",
+  "es": "engañar, timar a alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar pano (para)",
+  "es": "encubrir, hacer la vista gorda",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar a mão na cabeça (de)",
+  "es": "consentir, no castigar a alguien",
+  "stratum": "chunk",
+  "rules": [
+   "R5",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar vergonha",
+  "es": "pasar vergüenza, hacer el ridículo",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "passar a limpo",
+  "es": "poner en limpio, aclarar",
+  "stratum": "chunk",
+  "rules": [
+   "R5"
+  ],
+  "subtlex_rank": null
+ }
+]

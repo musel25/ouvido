@@ -1,0 +1,22 @@
+{
+  "passar o rodo": {"passed": true, "reason": ""},
+  "deixa pra lá": {"passed": true, "reason": ""},
+  "deixar na mão": {"passed": true, "reason": ""},
+  "deixar rolar": {"passed": true, "reason": ""},
+  "deixa comigo": {"passed": true, "reason": ""},
+  "deixar a desejar": {"passed": false, "reason": "sent2 minus the blank is just 'A qualidade do produto ____.' — the entire predicate carrying the idiom's meaning is inside the span, leaving zero contextual cue to recover it from (matches the explicit 'sentence whose whole meaning was inside the blank' failure case)."},
+  "ir fundo": {"passed": true, "reason": ""},
+  "ir com tudo": {"passed": true, "reason": ""},
+  "ir na fé": {"passed": true, "reason": ""},
+  "ir embora": {"passed": true, "reason": ""},
+  "não ir com a cara de alguém": {"passed": true, "reason": ""},
+  "levar um fora": {"passed": true, "reason": ""},
+  "levar na esportiva": {"passed": true, "reason": ""},
+  "levar a sério": {"passed": true, "reason": ""},
+  "levar na cabeça": {"passed": true, "reason": ""},
+  "levar fé (em)": {"passed": true, "reason": ""},
+  "botar pra quebrar": {"passed": true, "reason": ""},
+  "botar a boca no trombone": {"passed": true, "reason": ""},
+  "botar minhoca na cabeça": {"passed": true, "reason": ""},
+  "botar a mão no fogo (por alguém)": {"passed": true, "reason": ""}
+}

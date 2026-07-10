@@ -23,10 +23,6 @@ wheels/
 py.typed
 .pytest_cache/
 data/subtlex/
-data/candidates/
-data/candidates_kept.json
-data/logs/
-data/slices/
-data/notes/
-data/verdicts/
 out/
+
+# generated audio + whisper models stay out; deck CONTENT is committed for resumability

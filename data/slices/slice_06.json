@@ -1,0 +1,186 @@
+[
+ {
+  "item": "estar com medo",
+  "es": "tener miedo",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com pressa",
+  "es": "tener prisa",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com razão",
+  "es": "tener razón",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com raiva",
+  "es": "estar enojado, tener rabia",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com saudade(s)",
+  "es": "extrañar, echar de menos",
+  "stratum": "estrutura",
+  "rules": [
+   "R6",
+   "R1"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "estar com calor/frio",
+  "es": "tener calor/frío",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me dá",
+  "es": "dame",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me diz",
+  "es": "dime",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me ajuda",
+  "es": "ayúdame",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me liga",
+  "es": "llámame",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "me deixa",
+  "es": "déjame",
+  "stratum": "estrutura",
+  "rules": [
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tá (como resposta sozinha)",
+  "es": "vale, ok",
+  "stratum": "estrutura",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "né (pergunta de confirmação)",
+  "es": "¿no?, ¿verdad?",
+  "stratum": "estrutura",
+  "rules": [
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "vai que",
+  "es": "por si acaso, imagínate que",
+  "stratum": "estrutura",
+  "rules": [
+   "R5",
+   "R6"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "sei lá se",
+  "es": "no sé si...",
+  "stratum": "estrutura",
+  "rules": [
+   "R4",
+   "R5"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "acordar",
+  "es": "despertar(se)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1675
+ },
+ {
+  "item": "ainda",
+  "es": "todavía, aún",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 114
+ },
+ {
+  "item": "anedota",
+  "es": "chiste",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 19285
+ },
+ {
+  "item": "apelido",
+  "es": "apodo, sobrenombre",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 5506
+ },
+ {
+  "item": "apenas",
+  "es": "sólo, solamente",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 154
+ }
+]

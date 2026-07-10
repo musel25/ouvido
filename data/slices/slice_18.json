@@ -1,0 +1,129 @@
+[
+ {
+  "item": "dela",
+  "es": "de ella, suyo (contracción de 'de' + 'ela')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 222
+ },
+ {
+  "item": "nele",
+  "es": "en él (contracción de 'em' + 'ele')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 608
+ },
+ {
+  "item": "nela",
+  "es": "en ella (contracción de 'em' + 'ela')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 1033
+ },
+ {
+  "item": "desse",
+  "es": "de ese (contracción de 'de' + 'esse')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 520
+ },
+ {
+  "item": "nesse",
+  "es": "en ese (contracción de 'em' + 'esse')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 614
+ },
+ {
+  "item": "daquele",
+  "es": "de aquel (contracción de 'de' + 'aquele')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 1280
+ },
+ {
+  "item": "naquele",
+  "es": "en aquel (contracción de 'em' + 'aquele')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 1014
+ },
+ {
+  "item": "disso",
+  "es": "de eso (contracción de 'de' + 'isso')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 178
+ },
+ {
+  "item": "nisso",
+  "es": "en eso (contracción de 'em' + 'isso')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 397
+ },
+ {
+  "item": "vô",
+  "es": "voy (forma reducida coloquial de 'vou')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 11751
+ },
+ {
+  "item": "cê quer",
+  "es": "¿tú quieres? (forma hablada de 'você quer')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "memo",
+  "es": "mismo (forma hablada de 'mesmo', usado como intensificador: 'é isso memo')",
+  "stratum": "reducao",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "qui",
+  "es": "que (pronunciación relajada de la conjunción 'que' en habla rápida)",
+  "stratum": "reducao",
+  "rules": [
+   "R7"
+  ],
+  "subtlex_rank": 16612
+ },
+ {
+  "item": "cabô",
+  "es": "se acabó (forma reducida de 'acabou')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ }
+]

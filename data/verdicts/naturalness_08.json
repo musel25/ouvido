@@ -1,0 +1,22 @@
+{
+  "escova": {"passed": true, "reason": ""},
+  "escritório": {"passed": true, "reason": ""},
+  "esquisito": {"passed": true, "reason": ""},
+  "fechar": {"passed": true, "reason": ""},
+  "filhote": {"passed": true, "reason": ""},
+  "galho": {"passed": true, "reason": ""},
+  "garçom": {"passed": true, "reason": ""},
+  "jornal": {"passed": true, "reason": ""},
+  "ladrilho": {"passed": true, "reason": ""},
+  "largo": {"passed": true, "reason": ""},
+  "mala": {"passed": true, "reason": ""},
+  "ninguém": {"passed": true, "reason": ""},
+  "ninho": {"passed": true, "reason": ""},
+  "novela": {"passed": true, "reason": ""},
+  "oficina": {"passed": true, "reason": ""},
+  "padre": {"passed": true, "reason": ""},
+  "palco": {"passed": true, "reason": ""},
+  "paquete": {"passed": false, "reason": "\"Paquete\" is not a recognizable Brazilian slang term for menstruation (common real ones are 'chico'/'tio Chico', 'baixo-astral', 'período', 'menstruação'); this reads as a fabricated or non-Brazilian term, and both sentences ('tá de paquete', 'veio o paquete') would not actually be understood/said by a Brazilian, which defeats the deck's core listening-comprehension purpose."},
+  "pegar": {"passed": true, "reason": ""},
+  "pelo": {"passed": true, "reason": ""}
+}

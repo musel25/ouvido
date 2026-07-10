@@ -1,0 +1,17 @@
+{"item": "dar mole", "reason": "duplicate of 'dar mole' kept in stratum 'chunk'; rules merged to ['R1', 'R5']"}
+{"item": "ficar de olho", "reason": "duplicate of 'ficar de olho' kept in stratum 'estrutura'; rules merged to ['R1', 'R5']"}
+{"item": "ficar (tornar-se)", "reason": "duplicate of 'ficar (tornar-se)' kept in stratum 'chunk'; rules merged to ['R1', 'R5', 'R6']"}
+{"item": "a gente vai", "reason": "duplicate of 'a gente vai' kept in stratum 'reducao'; rules merged to ['R6']"}
+{"item": "tá ligado", "reason": "duplicate of 'tá ligado' kept in stratum 'marcador'; rules merged to ['R1', 'R3', 'R4', 'R5']"}
+{"item": "tá ligado", "reason": "duplicate of 'tá ligado' kept in stratum 'marcador'; rules merged to ['R1', 'R3', 'R4', 'R5']"}
+{"item": "pelo", "reason": "duplicate of 'pelo' kept in stratum 'reducao'; rules merged to ['R2', 'R3']"}
+{"item": "xingar", "reason": "duplicate of 'xingar' kept in stratum 'falso-amigo'; rules merged to ['R1', 'R2']"}
+{"item": "valeu", "reason": "duplicate of 'valeu' kept in stratum 'marcador'; rules merged to ['R1', 'R2', 'R4']"}
+{"item": "mano", "reason": "duplicate of 'mano' kept in stratum 'marcador'; rules merged to ['R1', 'R2', 'R4']"}
+{"item": "cadê", "reason": "duplicate of 'cadê' kept in stratum 'reducao'; rules merged to ['R1', 'R3']"}
+{"item": "beleza", "reason": "duplicate of 'beleza' kept in stratum 'lexico'; rules merged to ['R1', 'R2', 'R3', 'R4']"}
+{"item": "né", "reason": "duplicate of 'né' kept in stratum 'marcador'; rules merged to ['R3', 'R4']"}
+{"item": "pô", "reason": "duplicate of 'pô' kept in stratum 'marcador'; rules merged to ['R1', 'R3', 'R4']"}
+{"item": "dar em nada", "reason": "transparent cognate; Spanish gives it free"}
+{"item": "deixar de lado", "reason": "transparent cognate; Spanish gives it free"}
+{"item": "deixar claro", "reason": "transparent cognate; Spanish gives it free"}

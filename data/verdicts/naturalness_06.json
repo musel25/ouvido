@@ -1,0 +1,22 @@
+{
+  "estar com medo": {"passed": true, "reason": ""},
+  "estar com pressa": {"passed": true, "reason": ""},
+  "estar com razão": {"passed": true, "reason": ""},
+  "estar com raiva": {"passed": true, "reason": ""},
+  "estar com saudade(s)": {"passed": true, "reason": ""},
+  "estar com calor/frio": {"passed": true, "reason": ""},
+  "me dá": {"passed": true, "reason": ""},
+  "me diz": {"passed": true, "reason": ""},
+  "me ajuda": {"passed": true, "reason": ""},
+  "me liga": {"passed": true, "reason": ""},
+  "me deixa": {"passed": true, "reason": ""},
+  "tá (como resposta sozinha)": {"passed": true, "reason": ""},
+  "né (pergunta de confirmação)": {"passed": true, "reason": ""},
+  "vai que": {"passed": true, "reason": ""},
+  "sei lá se": {"passed": true, "reason": ""},
+  "acordar": {"passed": false, "reason": "sent2 'Ela sempre acorda com o despertador tocando três vezes' is stilted — a real Brazilian describing a heavy sleeper needing multiple alarm rings would say something like 'Ela só acorda depois que o despertador toca umas três vezes' or 'Ela demora pra acordar, o despertador toca três vezes até ela levantar'. The 'acorda com X tocando três vezes' phrasing reads as a translated construction, not natural spoken BR."},
+  "ainda": {"passed": true, "reason": ""},
+  "anedota": {"passed": true, "reason": ""},
+  "apelido": {"passed": true, "reason": ""},
+  "apenas": {"passed": true, "reason": ""}
+}

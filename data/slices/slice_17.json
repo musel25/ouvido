@@ -1,0 +1,189 @@
+[
+ {
+  "item": "deixa eu",
+  "es": "déjame (pronunciado 'deixeu/xeu' en habla rápida)",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "falano",
+  "es": "hablando (forma hablada de 'falando')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "fazeno",
+  "es": "haciendo (forma hablada de 'fazendo')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "comeno",
+  "es": "comiendo (forma hablada de 'comendo')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "indo",
+  "es": "yendo (gerundio de 'ir', suele oírse reducido dentro de 'tô indo')",
+  "stratum": "reducao",
+  "rules": [
+   "R7"
+  ],
+  "subtlex_rank": 276
+ },
+ {
+  "item": "falá",
+  "es": "hablar (infinitivo con caída de la -r final en habla popular)",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "comê",
+  "es": "comer (infinitivo con caída de la -r final en habla popular)",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 59964
+ },
+ {
+  "item": "dormi",
+  "es": "dormir (infinitivo con caída de la -r final; se confunde con el pretérito 'dormí')",
+  "stratum": "reducao",
+  "rules": [
+   "R3",
+   "R7"
+  ],
+  "subtlex_rank": 3328
+ },
+ {
+  "item": "cê vai",
+  "es": "tú vas (contracción hablada de 'você vai')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "cê tá",
+  "es": "tú estás (forma hablada de 'você está')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tô indo",
+  "es": "ya voy, estoy yendo",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "tá vendo",
+  "es": "¿ves?, mira (muletilla de confirmación)",
+  "stratum": "reducao",
+  "rules": [
+   "R3",
+   "R4"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "no",
+  "es": "en el (contracción de 'em' + 'o'; ojo, idéntico a 'no' = negación en español, significado totalmente distinto)",
+  "stratum": "reducao",
+  "rules": [
+   "R3",
+   "R2"
+  ],
+  "subtlex_rank": 29
+ },
+ {
+  "item": "na",
+  "es": "en la (contracción de 'em' + 'a'; no confundir con 'na' coloquial español = 'nada')",
+  "stratum": "reducao",
+  "rules": [
+   "R3",
+   "R2"
+  ],
+  "subtlex_rank": 31
+ },
+ {
+  "item": "nos (contração)",
+  "es": "en los (contracción de 'em' + 'os', distinto del pronombre 'nos')",
+  "stratum": "reducao",
+  "rules": [
+   "R3",
+   "R2"
+  ],
+  "subtlex_rank": null
+ },
+ {
+  "item": "nas",
+  "es": "en las (contracción de 'em' + 'as')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 258
+ },
+ {
+  "item": "do",
+  "es": "del (contracción de 'de' + 'o')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 21
+ },
+ {
+  "item": "da",
+  "es": "de la (contracción de 'de' + 'a'; ojo, idéntico a 'da' = 3ª pers. de 'dar' en español, significado totalmente distinto)",
+  "stratum": "reducao",
+  "rules": [
+   "R3",
+   "R2"
+  ],
+  "subtlex_rank": 26
+ },
+ {
+  "item": "pela",
+  "es": "por la (contracción de 'por' + 'a'; ojo, coincide con la forma verbal 'pela' de 'pelar' en español, significado totalmente distinto)",
+  "stratum": "reducao",
+  "rules": [
+   "R3",
+   "R2"
+  ],
+  "subtlex_rank": 183
+ },
+ {
+  "item": "dele",
+  "es": "de él, suyo (contracción de 'de' + 'ele')",
+  "stratum": "reducao",
+  "rules": [
+   "R3"
+  ],
+  "subtlex_rank": 152
+ }
+]

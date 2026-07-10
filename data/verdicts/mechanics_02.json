@@ -1,0 +1,22 @@
+{
+  "ficar (tornar-se)": {"passed": false, "reason": "sent2_span 'ficou muito quieto' is far longer than the item's inflected surface form ('ficou'); it swallows the entire predicate (intensifier + adjective). Removing it leaves 'Depois da notícia, ele ___.' with zero recoverable cue — the resulting state (quiet, angry, sad, happy, anything) cannot be inferred from what remains, so the blank fails the recoverability test as well as the surface-form rule."},
+  "pegar no pé": {"passed": true, "reason": ""},
+  "pegar leve": {"passed": true, "reason": ""},
+  "pegar mal": {"passed": false, "reason": "sent2_span is 'pega muito mal', which inserts 'muito' — a word not part of the item. The span must be the item's own inflected surface form ('pega mal' / 'pegou mal'), not a longer phrase padded with an intensifier."},
+  "pegar fogo": {"passed": true, "reason": ""},
+  "pegar carona": {"passed": true, "reason": ""},
+  "pegar o jeito": {"passed": true, "reason": ""},
+  "pegar no sono": {"passed": true, "reason": ""},
+  "pegar pesado": {"passed": false, "reason": "sent2_span is 'pegou muito pesado', which inserts 'muito' beyond the item's inflected surface form ('pegou pesado'). The span is a longer phrase than the item, violating the exact-surface-form rule."},
+  "pegar alguém de surpresa": {"passed": true, "reason": ""},
+  "pegar uma cola": {"passed": true, "reason": ""},
+  "pegar a visão": {"passed": true, "reason": ""},
+  "passar mal": {"passed": false, "reason": "sent2_span is 'passei muito mal', which inserts 'muito' — not part of the item's surface form ('passei mal'). The span exceeds the item, same defect pattern as 'pegar mal' and 'pegar pesado' in this batch."},
+  "passar dos limites": {"passed": true, "reason": ""},
+  "passar batido": {"passed": true, "reason": ""},
+  "passar a perna em": {"passed": true, "reason": ""},
+  "passar pano (para)": {"passed": true, "reason": ""},
+  "passar a mão na cabeça (de)": {"passed": true, "reason": ""},
+  "passar vergonha": {"passed": true, "reason": ""},
+  "passar a limpo": {"passed": true, "reason": ""}
+}

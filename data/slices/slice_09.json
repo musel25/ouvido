@@ -1,0 +1,182 @@
+[
+ {
+  "item": "película",
+  "es": "film fino, membrana",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 23495
+ },
+ {
+  "item": "podre",
+  "es": "podrido",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4924
+ },
+ {
+  "item": "polvo",
+  "es": "pulpo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 13148
+ },
+ {
+  "item": "porra",
+  "es": "(vulgar) semen; ¡joder!",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 453
+ },
+ {
+  "item": "pronto",
+  "es": "listo, preparado",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 354
+ },
+ {
+  "item": "punheta",
+  "es": "(vulgar) masturbación",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 12011
+ },
+ {
+  "item": "pó",
+  "es": "polvo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2636
+ },
+ {
+  "item": "rato",
+  "es": "ratón, rata",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2021
+ },
+ {
+  "item": "reparar",
+  "es": "notar, darse cuenta",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7218
+ },
+ {
+  "item": "ressaca",
+  "es": "resaca (de borrachera)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 7737
+ },
+ {
+  "item": "romance",
+  "es": "novela (libro)",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 2744
+ },
+ {
+  "item": "saco",
+  "es": "bolsa",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 1126
+ },
+ {
+  "item": "salsa",
+  "es": "perejil",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 11666
+ },
+ {
+  "item": "saltar",
+  "es": "saltar; bajarse",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 3387
+ },
+ {
+  "item": "sobremesa",
+  "es": "postre",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4560
+ },
+ {
+  "item": "sobrenome",
+  "es": "apellido",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4654
+ },
+ {
+  "item": "sótão",
+  "es": "desván, altillo",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 6020
+ },
+ {
+  "item": "taco",
+  "es": "taco de billar; tapón",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4888
+ },
+ {
+  "item": "talher",
+  "es": "cubierto",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 47819
+ },
+ {
+  "item": "taça",
+  "es": "copa",
+  "stratum": "falso-amigo",
+  "rules": [
+   "R2"
+  ],
+  "subtlex_rank": 4265
+ }
+]

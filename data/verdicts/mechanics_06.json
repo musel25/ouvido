@@ -1,0 +1,22 @@
+{
+  "estar com medo": {"passed": false, "reason": "sent2_span 'fica com medo' uses the verb 'ficar' (fica), not an inflected form of 'estar' as the item names it; the item is 'estar com medo' but no form of 'estar' appears anywhere in sent2. The span is a different-lexeme substitution, not the item's own surface form (rule 4)."},
+  "estar com pressa": {"passed": false, "reason": "sent2_span 'fica com pressa' uses 'ficar' (fica), not a surface form of 'estar', which is the verb named in the item 'estar com pressa'. Same estar/ficar mismatch as the other entries in this micro-set (rule 4)."},
+  "estar com razão": {"passed": false, "reason": "sent2_span 'fica com razão' is built on 'ficar', not 'estar' as specified by the item 'estar com razão'; span is not an inflected form of the item's own verb (rule 4)."},
+  "estar com raiva": {"passed": false, "reason": "sent2_span 'fica com raiva' uses 'ficar' rather than any inflection of 'estar', the verb the item names ('estar com raiva'). Rule 4 violation: span is not the item's surface form."},
+  "estar com saudade(s)": {"passed": false, "reason": "sent2_span 'ficou com saudades' is built on 'ficar' (ficou), not 'estar', which the item specifies ('estar com saudade(s)'). Rule 4 violation: span uses a different verb than the item."},
+  "estar com calor/frio": {"passed": false, "reason": "sent2_span 'ficaram com frio' uses 'ficar', not 'estar' as named in the item 'estar com calor/frio'. Rule 4 violation: no form of 'estar' occurs in sent2 at all."},
+  "me dá": {"passed": false, "reason": "sent2_span is 'me dá um desconto', which is longer than the item 'me dá' — it bakes in the object 'um desconto' that is not part of the item. Rule 4 violation: span is a longer phrase than the item, and removing it strips the sentence of its main content, leaving only 'Ah, _____ aí, vai.' as a weak recovery cue."},
+  "me diz": {"passed": false, "reason": "sent2_span 'me diz onde' extends past the item 'me diz' by including 'onde', which is not part of the item. Rule 4 violation: span is longer than the item's surface form."},
+  "me ajuda": {"passed": false, "reason": "sent2_span 'me ajuda aqui' includes 'aqui', which is not part of the item 'me ajuda'. Rule 4 violation: span is a longer phrase than the item."},
+  "me liga": {"passed": true, "reason": ""},
+  "me deixa": {"passed": false, "reason": "sent2_span 'me deixa terminar' includes 'terminar', which is not part of the item 'me deixa'. Rule 4 violation: span is longer than the item's surface form."},
+  "tá (como resposta sozinha)": {"passed": true, "reason": ""},
+  "né (pergunta de confirmação)": {"passed": false, "reason": "sent2_span is 'hoje, né', which bundles in the preceding word 'hoje' even though 'né' alone already occurs exactly once in sent2 and would suffice. Rule 4 violation: span is a longer phrase than the item 'né'."},
+  "vai que": {"passed": true, "reason": ""},
+  "sei lá se": {"passed": true, "reason": ""},
+  "acordar": {"passed": true, "reason": ""},
+  "ainda": {"passed": false, "reason": "sent2_span is 'você ainda mora', three words, while the item is the single word 'ainda'. Rule 4 violation: span wraps in the subject 'você' and verb 'mora', which are not part of the item, and removing all three leaves only 'Nossa, _____ naquele apartamento pequeno?' — too little targeted cue for the single word being tested."},
+  "anedota": {"passed": false, "reason": "sent2_span is 'Essa anedota que', but the item is just 'anedota'. Rule 4 violation: span includes the demonstrative 'Essa' and relative pronoun 'que', which are not part of the item."},
+  "apelido": {"passed": false, "reason": "sent2_span is 'tem um apelido', but the item is just 'apelido'. Rule 4 violation: span includes the verb 'tem' and article 'um', which are not part of the item."},
+  "apenas": {"passed": false, "reason": "sent2_span is 'Faltam apenas dois', but the item is just 'apenas'. Rule 4 violation: span includes 'Faltam' and 'dois', which are not part of the item."}
+}

@@ -1,0 +1,3477 @@
+[
+  {
+    "item": "dar um jeito",
+    "es": "buscar la manera, apañárselas",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar mole",
+    "es": "descuidarse, dar pie a que pase algo malo",
+    "stratum": "chunk",
+    "rules": [
+      "R1",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar uma sumida",
+    "es": "desaparecerse una temporada",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar certo",
+    "es": "salir bien, funcionar",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar errado",
+    "es": "salir mal",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dá pra...",
+    "es": "se puede..., hay manera de...",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar bola (para)",
+    "es": "hacer caso a alguien, mostrar interés (romántico)",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar o fora",
+    "es": "largarse, irse de repente",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar uma força",
+    "es": "echar una mano",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar trabalho",
+    "es": "dar guerra, costar mucho trabajo",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar zebra",
+    "es": "salir mal, resultar en un fracaso inesperado",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar ruim",
+    "es": "salir mal, terminar fatal",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar uma de (bobo)",
+    "es": "hacerse el (tonto)",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar as caras",
+    "es": "dar la cara, aparecer",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar no pé",
+    "es": "salir corriendo, largarse",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar um rolê",
+    "es": "dar una vuelta, salir a pasear",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar a real",
+    "es": "decir la verdad, ser sincero",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar conta (de algo)",
+    "es": "poder con algo, arreglárselas con algo",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar na telha",
+    "es": "antojarse, dar la ventolera",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar um perdido em alguém",
+    "es": "ignorar a alguien, hacerle un feo",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar um migué",
+    "es": "poner una excusa, escaquearse",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar uma mancada",
+    "es": "meter la pata",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar um tempo",
+    "es": "tomarse un respiro, hacer una pausa (en la relación)",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar um show",
+    "es": "lucirse, montar un espectáculo",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "dar pra trás",
+    "es": "echarse atrás, rajarse",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar a fim de",
+    "es": "tener ganas de, estar por",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar de boa",
+    "es": "quedarse tranquilo, estar relajado",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar por isso mesmo",
+    "es": "quedar en nada, sin consecuencias",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar com (alguém)",
+    "es": "enrollarse con alguien, liarse",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar sabendo",
+    "es": "enterarse de algo",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar na sua",
+    "es": "no meterse, quedarse en lo suyo",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar de olho",
+    "es": "estar pendiente, vigilar",
+    "stratum": "estrutura",
+    "rules": [
+      "R1",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar de cara",
+    "es": "quedarse pasmado o enfadado",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar bolado",
+    "es": "molestarse, mosquearse",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar de fora",
+    "es": "quedarse fuera, no participar",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar por conta (de)",
+    "es": "quedar a cargo de, encargarse de",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar em cima do muro",
+    "es": "quedarse indeciso, no mojarse",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar de bem (com)",
+    "es": "hacer las paces con",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar de mal (com)",
+    "es": "enfadarse con, dejar de hablarse con",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar quieto",
+    "es": "quedarse callado, no meterse",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar (tornar-se)",
+    "es": "ponerse, quedarse (cambio de estado)",
+    "stratum": "chunk",
+    "rules": [
+      "R1",
+      "R5",
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar no pé",
+    "es": "fastidiar, dar la lata",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar leve",
+    "es": "tomárselo con calma, ir suave",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar mal",
+    "es": "quedar mal, sentar mal",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar fogo",
+    "es": "incendiarse; (fig) ponerse muy agitado o candente",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar carona",
+    "es": "pedir aventón, ir de gorra en un coche",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar o jeito",
+    "es": "agarrarle el truco a algo",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar no sono",
+    "es": "quedarse profundamente dormido",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar pesado",
+    "es": "pasarse, ser muy duro con alguien",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar alguém de surpresa",
+    "es": "agarrar a alguien desprevenido",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar uma cola",
+    "es": "copiar en un examen",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pegar a visão",
+    "es": "captar la idea, entender de qué va",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar mal",
+    "es": "sentirse mal, indisponerse",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar dos limites",
+    "es": "pasarse de la raya",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar batido",
+    "es": "pasar desapercibido",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar a perna em",
+    "es": "engañar, timar a alguien",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar pano (para)",
+    "es": "encubrir, hacer la vista gorda",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar a mão na cabeça (de)",
+    "es": "consentir, no castigar a alguien",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar vergonha",
+    "es": "pasar vergüenza, hacer el ridículo",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar a limpo",
+    "es": "poner en limpio, aclarar",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "passar o rodo",
+    "es": "arrasar, ganar por goleada",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "deixa pra lá",
+    "es": "déjalo, no importa",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "deixar na mão",
+    "es": "dejar plantado, fallarle a alguien",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "deixar rolar",
+    "es": "dejar que fluya, dejarlo correr",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "deixa comigo",
+    "es": "déjamelo a mí",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "deixar a desejar",
+    "es": "dejar que desear",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ir fundo",
+    "es": "ir a fondo, meterse de lleno",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ir com tudo",
+    "es": "ir con todo, a por todas",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ir na fé",
+    "es": "fiarse, ir de buena fe",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ir embora",
+    "es": "irse, marcharse",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "não ir com a cara de alguém",
+    "es": "no caerle bien alguien (a primera vista)",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "levar um fora",
+    "es": "que le den calabazas, ser rechazado",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "levar na esportiva",
+    "es": "tomárselo deportivamente",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "levar a sério",
+    "es": "tomarse en serio",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "levar na cabeça",
+    "es": "salir perdiendo, cargar con las consecuencias",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "levar fé (em)",
+    "es": "fiarse de, confiar en",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "botar pra quebrar",
+    "es": "darlo todo, triunfar a lo grande",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "botar a boca no trombone",
+    "es": "denunciar públicamente, contarlo todo",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "botar minhoca na cabeça",
+    "es": "meterse ideas raras en la cabeza",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "botar a mão no fogo (por alguém)",
+    "es": "poner la mano en el fuego por alguien",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "jogar fora",
+    "es": "tirar a la basura",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "jogar conversa fora",
+    "es": "charlar sin más, de cháchara",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "jogar verde para colher maduro",
+    "es": "tantear para sacar información",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tomar conta (de)",
+    "es": "cuidar de, hacerse cargo de",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tomar um susto",
+    "es": "llevarse un susto",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tomar uma",
+    "es": "tomarse una copa",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tomar jeito",
+    "es": "enmendarse, sentar la cabeza",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "a gente vai",
+    "es": "nosotros vamos (sujeto colectivo + verbo en 3ª persona singular, no existe en español)",
+    "stratum": "reducao",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "a gente tá cansado",
+    "es": "nosotros estamos cansados",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "vamo embora / bora",
+    "es": "vámonos, vamos",
+    "stratum": "estrutura",
+    "rules": [
+      "R1",
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tá ligado",
+    "es": "¿sabes?, ¿te enteras? (chequeo de comprensión, jerga)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R3",
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "a gente (pronome geral)",
+    "es": "nosotros / uno (impersonal)",
+    "stratum": "estrutura",
+    "rules": [
+      "R1",
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tem muita gente aqui",
+    "es": "hay mucha gente aquí",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "não tem ninguém",
+    "es": "no hay nadie",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tem alguém aí?",
+    "es": "¿hay alguien ahí?",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "não tem jeito",
+    "es": "no hay manera, no tiene remedio",
+    "stratum": "estrutura",
+    "rules": [
+      "R6",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "cabô / acabou (em fala)",
+    "es": "se acabó",
+    "stratum": "estrutura",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "quando eu for",
+    "es": "cuando yo vaya",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "se eu tiver tempo",
+    "es": "si tengo tiempo",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "assim que ele chegar",
+    "es": "en cuanto él llegue",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "enquanto puder",
+    "es": "mientras pueda",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "se quiser",
+    "es": "si quieres",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "quando der",
+    "es": "cuando se pueda, cuando dé tiempo",
+    "stratum": "estrutura",
+    "rules": [
+      "R6",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "se precisar",
+    "es": "si necesitas",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "o que você quiser",
+    "es": "lo que quieras",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "se Deus quiser",
+    "es": "si Dios quiere",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "quando ela vier",
+    "es": "cuando ella venga",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "se der certo",
+    "es": "si sale bien, si resulta",
+    "stratum": "estrutura",
+    "rules": [
+      "R6",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "para nós fazermos",
+    "es": "para que nosotros hagamos",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "é importante vocês virem",
+    "es": "es importante que ustedes vengan",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "antes de eles chegarem",
+    "es": "antes de que ellos lleguen",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ao sairmos",
+    "es": "al salir nosotros, cuando salimos",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "sem eles saberem",
+    "es": "sin que ellos sepan/supieran",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "depois de comermos",
+    "es": "después de que comamos",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar (permanecer)",
+    "es": "quedarse (permanecer en un lugar)",
+    "stratum": "estrutura",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar (localizar-se)",
+    "es": "quedar, estar ubicado",
+    "stratum": "estrutura",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar bom (de saúde)",
+    "es": "curarse, mejorarse",
+    "stratum": "estrutura",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com fome",
+    "es": "tener hambre",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com sede",
+    "es": "tener sed",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com sono",
+    "es": "tener sueño",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com medo",
+    "es": "tener miedo",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com pressa",
+    "es": "tener prisa",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com razão",
+    "es": "tener razón",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com raiva",
+    "es": "estar enojado, tener rabia",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com saudade(s)",
+    "es": "extrañar, echar de menos",
+    "stratum": "estrutura",
+    "rules": [
+      "R6",
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "estar com calor/frio",
+    "es": "tener calor/frío",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "me dá",
+    "es": "dame",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "me diz",
+    "es": "dime",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "me ajuda",
+    "es": "ayúdame",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "me liga",
+    "es": "llámame",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "me deixa",
+    "es": "déjame",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tá (como resposta sozinha)",
+    "es": "vale, ok",
+    "stratum": "estrutura",
+    "rules": [
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "né (pergunta de confirmação)",
+    "es": "¿no?, ¿verdad?",
+    "stratum": "estrutura",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "vai que",
+    "es": "por si acaso, imagínate que",
+    "stratum": "estrutura",
+    "rules": [
+      "R5",
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "sei lá se",
+    "es": "no sé si...",
+    "stratum": "estrutura",
+    "rules": [
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "acordar",
+    "es": "despertar(se)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1675
+  },
+  {
+    "item": "ainda",
+    "es": "todavía, aún",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 114
+  },
+  {
+    "item": "anedota",
+    "es": "chiste",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 19285
+  },
+  {
+    "item": "apelido",
+    "es": "apodo, sobrenombre",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 5506
+  },
+  {
+    "item": "apenas",
+    "es": "sólo, solamente",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 154
+  },
+  {
+    "item": "aula",
+    "es": "clase, lección",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1397
+  },
+  {
+    "item": "açougue",
+    "es": "carnicería",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 14171
+  },
+  {
+    "item": "balcão",
+    "es": "mostrador, barra",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 5777
+  },
+  {
+    "item": "constipado",
+    "es": "resfriado, acatarrado (NÃO 'estreñido')",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 31184
+  },
+  {
+    "item": "barata",
+    "es": "cucaracha",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4526
+  },
+  {
+    "item": "bater",
+    "es": "golpear, pegar",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1043
+  },
+  {
+    "item": "bilhão",
+    "es": "mil millones (10⁹)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 7614
+  },
+  {
+    "item": "borracha",
+    "es": "goma, caucho",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 5578
+  },
+  {
+    "item": "borracharia",
+    "es": "taller de neumáticos",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 46579
+  },
+  {
+    "item": "borracheiro",
+    "es": "gomero",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 59735
+  },
+  {
+    "item": "botar",
+    "es": "poner, colocar",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4292
+  },
+  {
+    "item": "brincar",
+    "es": "jugar, bromear",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1170
+  },
+  {
+    "item": "cachorro",
+    "es": "perro",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 966
+  },
+  {
+    "item": "camareiro",
+    "es": "mucamo, camarero de hotel",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 17694
+  },
+  {
+    "item": "catarro",
+    "es": "moco, flema",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 26681
+  },
+  {
+    "item": "cena",
+    "es": "escena",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1186
+  },
+  {
+    "item": "cigarro",
+    "es": "cigarrillo",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1752
+  },
+  {
+    "item": "criança",
+    "es": "niño, niña",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 514
+  },
+  {
+    "item": "doce",
+    "es": "dulce",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 982
+  },
+  {
+    "item": "embaraçado",
+    "es": "avergonzado, confundido",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 19191
+  },
+  {
+    "item": "escova",
+    "es": "cepillo",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 6669
+  },
+  {
+    "item": "escritório",
+    "es": "oficina, despacho",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 786
+  },
+  {
+    "item": "esquisito",
+    "es": "raro, extraño",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 2867
+  },
+  {
+    "item": "fechar",
+    "es": "cerrar",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1550
+  },
+  {
+    "item": "filhote",
+    "es": "cría, cachorro",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 6611
+  },
+  {
+    "item": "galho",
+    "es": "rama",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 8571
+  },
+  {
+    "item": "garçom",
+    "es": "camarero, mesero",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4336
+  },
+  {
+    "item": "jornal",
+    "es": "periódico, diario",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1347
+  },
+  {
+    "item": "ladrilho",
+    "es": "azulejo, baldosa",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 45798
+  },
+  {
+    "item": "largo",
+    "es": "ancho",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 7299
+  },
+  {
+    "item": "mala",
+    "es": "maleta, equipaje",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1865
+  },
+  {
+    "item": "ninguém",
+    "es": "nadie",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 159
+  },
+  {
+    "item": "ninho",
+    "es": "nido",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4671
+  },
+  {
+    "item": "novela",
+    "es": "telenovela",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 7184
+  },
+  {
+    "item": "oficina",
+    "es": "taller",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4597
+  },
+  {
+    "item": "padre",
+    "es": "cura, sacerdote",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 822
+  },
+  {
+    "item": "palco",
+    "es": "escenario, tablado",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 2123
+  },
+  {
+    "item": "paquete",
+    "es": "(vulgar) la regla, menstruación",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 49187
+  },
+  {
+    "item": "pegar",
+    "es": "agarrar, tomar, coger",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 302
+  },
+  {
+    "item": "pelo",
+    "es": "por el (contracción de 'por' + 'o'; ojo, idéntico a 'pelo' = cabello en español, significado totalmente distinto)",
+    "stratum": "reducao",
+    "rules": [
+      "R2",
+      "R3"
+    ],
+    "subtlex_rank": 146
+  },
+  {
+    "item": "película",
+    "es": "film fino, membrana",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 23495
+  },
+  {
+    "item": "podre",
+    "es": "podrido",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4924
+  },
+  {
+    "item": "polvo",
+    "es": "pulpo",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 13148
+  },
+  {
+    "item": "porra",
+    "es": "(vulgar) semen; ¡joder!",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 453
+  },
+  {
+    "item": "pronto",
+    "es": "listo, preparado",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 354
+  },
+  {
+    "item": "punheta",
+    "es": "(vulgar) masturbación",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 12011
+  },
+  {
+    "item": "pó",
+    "es": "polvo",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 2636
+  },
+  {
+    "item": "rato",
+    "es": "ratón, rata",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 2021
+  },
+  {
+    "item": "reparar",
+    "es": "notar, darse cuenta",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 7218
+  },
+  {
+    "item": "ressaca",
+    "es": "resaca (de borrachera)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 7737
+  },
+  {
+    "item": "romance",
+    "es": "novela (libro)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 2744
+  },
+  {
+    "item": "saco",
+    "es": "bolsa",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1126
+  },
+  {
+    "item": "salsa",
+    "es": "perejil",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 11666
+  },
+  {
+    "item": "saltar",
+    "es": "saltar; bajarse",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 3387
+  },
+  {
+    "item": "sobremesa",
+    "es": "postre",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4560
+  },
+  {
+    "item": "sobrenome",
+    "es": "apellido",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4654
+  },
+  {
+    "item": "sótão",
+    "es": "desván, altillo",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 6020
+  },
+  {
+    "item": "taco",
+    "es": "taco de billar; tapón",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4888
+  },
+  {
+    "item": "talher",
+    "es": "cubierto",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 47819
+  },
+  {
+    "item": "taça",
+    "es": "copa",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4265
+  },
+  {
+    "item": "tijolo",
+    "es": "ladrillo",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 9046
+  },
+  {
+    "item": "tirar",
+    "es": "quitar, sacar",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 505
+  },
+  {
+    "item": "trilhão",
+    "es": "billón (10¹²)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 22750
+  },
+  {
+    "item": "turma",
+    "es": "grupo, clase (de alumnos)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 3301
+  },
+  {
+    "item": "vaso",
+    "es": "jarrón; inodoro",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 5168
+  },
+  {
+    "item": "vassoura",
+    "es": "escoba",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 9109
+  },
+  {
+    "item": "venta",
+    "es": "fosa nasal",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 31557
+  },
+  {
+    "item": "xingar",
+    "es": "insultar, decir groserías",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 15542
+  },
+  {
+    "item": "todavia",
+    "es": "sin embargo, no obstante",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 8368
+  },
+  {
+    "item": "assistir",
+    "es": "asistir a algo (con el matiz de ver/mirar, no de estar presente/apoyar)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1938
+  },
+  {
+    "item": "acreditar",
+    "es": "creer",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 571
+  },
+  {
+    "item": "puxar",
+    "es": "tirar (jalar hacia sí)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 3536
+  },
+  {
+    "item": "ligar",
+    "es": "llamar por teléfono / encender (un aparato)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 700
+  },
+  {
+    "item": "procurar",
+    "es": "buscar",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 889
+  },
+  {
+    "item": "propina",
+    "es": "soborno, coima",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 20293
+  },
+  {
+    "item": "roxo",
+    "es": "morado, violeta",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 7479
+  },
+  {
+    "item": "sino",
+    "es": "campana",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 4929
+  },
+  {
+    "item": "presunto",
+    "es": "jamón",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 6368
+  },
+  {
+    "item": "latido",
+    "es": "ladrido (de un perro)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 23949
+  },
+  {
+    "item": "molho",
+    "es": "salsa",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 3189
+  },
+  {
+    "item": "copo",
+    "es": "vaso (para beber)",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1700
+  },
+  {
+    "item": "cadeira",
+    "es": "silla",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1598
+  },
+  {
+    "item": "pasta",
+    "es": "carpeta / maletín",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 3637
+  },
+  {
+    "item": "bolso",
+    "es": "bolsillo (NÃO 'bolso/cartera')",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 2162
+  },
+  {
+    "item": "esperto",
+    "es": "listo, astuto, avispado",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1552
+  },
+  {
+    "item": "trair",
+    "es": "traicionar",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 5250
+  },
+  {
+    "item": "férias",
+    "es": "vacaciones",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 1399
+  },
+  {
+    "item": "comprido",
+    "es": "largo",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 7927
+  },
+  {
+    "item": "bagunça",
+    "es": "desorden, lío",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 2775
+  },
+  {
+    "item": "caprichar",
+    "es": "esmerarse, poner cuidado/empeño en algo",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 39694
+  },
+  {
+    "item": "chato",
+    "es": "pesado, molesto, aburrido",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 2247
+  },
+  {
+    "item": "legal",
+    "es": "genial, guay, bueno (nada que ver con 'legal'/lícito)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 379
+  },
+  {
+    "item": "valeu",
+    "es": "gracias; vale, guay (agradecimiento o cierre de conversación informal)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R2",
+      "R4"
+    ],
+    "subtlex_rank": 2243
+  },
+  {
+    "item": "grana",
+    "es": "plata, dinero",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 1540
+  },
+  {
+    "item": "rolê",
+    "es": "vuelta, salida, plan informal",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 35536
+  },
+  {
+    "item": "bagulho",
+    "es": "cosa, chisme (objeto indefinido; a veces droga)",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 8103
+  },
+  {
+    "item": "treta",
+    "es": "lío, bronca, pelea, movida sospechosa",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 10432
+  },
+  {
+    "item": "mano",
+    "es": "tío, colega (vocativo entre amigos)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R2",
+      "R4"
+    ],
+    "subtlex_rank": 2163
+  },
+  {
+    "item": "galera",
+    "es": "la gente, la peña, el grupo (nada que ver con la nave/galera)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 4996
+  },
+  {
+    "item": "moleque",
+    "es": "chaval, pillo, niño travieso",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 4643
+  },
+  {
+    "item": "garoto",
+    "es": "chico, muchacho",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 370
+  },
+  {
+    "item": "cadê",
+    "es": "¿dónde está?",
+    "stratum": "reducao",
+    "rules": [
+      "R1",
+      "R3"
+    ],
+    "subtlex_rank": 1383
+  },
+  {
+    "item": "embora (ir embora)",
+    "es": "irse, marcharse",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "jeito",
+    "es": "modo, manera, maña",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 343
+  },
+  {
+    "item": "jeitinho",
+    "es": "maña, arreglo informal ('el jeitinho brasileño')",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R5"
+    ],
+    "subtlex_rank": 19470
+  },
+  {
+    "item": "esquentar",
+    "es": "calentar; (fig.) preocuparse ('não esquenta')",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 7245
+  },
+  {
+    "item": "atrapalhar",
+    "es": "estorbar, complicar, entorpecer",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 6014
+  },
+  {
+    "item": "bagunçar",
+    "es": "desordenar",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 21087
+  },
+  {
+    "item": "fofoca",
+    "es": "chisme, cotilleo",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 10870
+  },
+  {
+    "item": "saudade",
+    "es": "añoranza, nostalgia (sin equivalente exacto)",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 3820
+  },
+  {
+    "item": "teimoso",
+    "es": "terco, testarudo",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 5472
+  },
+  {
+    "item": "puxa-saco",
+    "es": "pelota, adulador, lameculos",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "encher o saco",
+    "es": "fastidiar, tocar las narices/los cojones",
+    "stratum": "lexico",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "mala (pessoa mala)",
+    "es": "pesado/a, pelmazo (persona molesta)",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "zoar",
+    "es": "burlarse, cachondearse, quedarse con alguien",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 19768
+  },
+  {
+    "item": "curtir",
+    "es": "disfrutar, pasarlo bien; dar like (no 'curtir' cuero/piel, que en español es otro sentido)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 6917
+  },
+  {
+    "item": "topar",
+    "es": "aceptar, estar dispuesto a algo (no 'toparse con')",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 17968
+  },
+  {
+    "item": "sacar",
+    "es": "entender, pillar (una idea) (no 'sacar/retirar')",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 9504
+  },
+  {
+    "item": "ferrar (estar ferrado)",
+    "es": "joder, fastidiar; estar jodido",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "bater papo",
+    "es": "charlar, platicar",
+    "stratum": "lexico",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "papo",
+    "es": "charla, plática (nada que ver con 'papo' de papada/buche en español)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 2880
+  },
+  {
+    "item": "trampo",
+    "es": "curro, chamba, trabajo",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R3"
+    ],
+    "subtlex_rank": 28240
+  },
+  {
+    "item": "rango",
+    "es": "comida, manduca (nada que ver con 'rango'/jerarquía en español)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 21177
+  },
+  {
+    "item": "birita",
+    "es": "trago, chela, bebida alcohólica",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 26957
+  },
+  {
+    "item": "resenha",
+    "es": "reunión informal para charlar/beber (no solo 'reseña' de libro)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 41315
+  },
+  {
+    "item": "chute (dar um chute)",
+    "es": "adivinar a lo loco, tirar un palo (no 'chute' de droga/tiro en español)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "mexer (mexer com alguém)",
+    "es": "meterse con alguien, molestar",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "cutucar",
+    "es": "pinchar, dar un toque (con el dedo o el codo)",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 22428
+  },
+  {
+    "item": "derrubar",
+    "es": "derribar, tumbar",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 3934
+  },
+  {
+    "item": "largar",
+    "es": "dejar, soltar (largar o emprego/namorado = dejar el trabajo/a la pareja; uso más amplio que el 'largar' coloquial rioplatense)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2"
+    ],
+    "subtlex_rank": 3552
+  },
+  {
+    "item": "jogar (jogar fora)",
+    "es": "tirar, deshacerse de algo (no solo 'jugar')",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "arrumar",
+    "es": "arreglar, ordenar; conseguir (arrumar namorado)",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 1641
+  },
+  {
+    "item": "consertar",
+    "es": "reparar, arreglar",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 2367
+  },
+  {
+    "item": "beleza",
+    "es": "genial, guay, vale ('tudo beleza?' = ¿todo bien?; nada que ver con 'belleza' física en español)",
+    "stratum": "lexico",
+    "rules": [
+      "R1",
+      "R2",
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": 922
+  },
+  {
+    "item": "bicho (pessoa)",
+    "es": "tío, tipo (además de 'animal/bicho')",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "cara (pessoa)",
+    "es": "tío, tipo (no 'cara' de la casa)",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "molecagem",
+    "es": "trastada, travesura",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 47410
+  },
+  {
+    "item": "sacanagem",
+    "es": "guarrada, jugada sucia, faena",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 6772
+  },
+  {
+    "item": "sacana",
+    "es": "cabrón, sinvergüenza",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 4463
+  },
+  {
+    "item": "vacilar",
+    "es": "meter la pata, fallarle a alguien, portarse mal (no 'dudar/bromear')",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 26911
+  },
+  {
+    "item": "dar bola",
+    "es": "hacer caso, prestar atención (interés romántico)",
+    "stratum": "lexico",
+    "rules": [
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ficar (ficar com alguém)",
+    "es": "enrollarse con alguien, liarse",
+    "stratum": "lexico",
+    "rules": [
+      "R2",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "rolar",
+    "es": "pasar, ocurrir (algo) (no solo 'rodar')",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 5896
+  },
+  {
+    "item": "embromar",
+    "es": "dar largas, engañar, entretener con excusas",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 54782
+  },
+  {
+    "item": "enrolar",
+    "es": "enredar, dar largas, liar a alguien con palabras",
+    "stratum": "lexico",
+    "rules": [
+      "R2"
+    ],
+    "subtlex_rank": 7718
+  },
+  {
+    "item": "malandro",
+    "es": "pícaro, vivo, astuto",
+    "stratum": "lexico",
+    "rules": [
+      "R1"
+    ],
+    "subtlex_rank": 7590
+  },
+  {
+    "item": "né",
+    "es": "¿no?, ¿verdad? (muletilla de confirmación al final de la frase)",
+    "stratum": "marcador",
+    "rules": [
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": 1035
+  },
+  {
+    "item": "aí",
+    "es": "entonces, y bueno, pues (conector de relleno/continuación, no locativo)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": 139
+  },
+  {
+    "item": "então",
+    "es": "bueno, pues (muletilla de arranque/cierre de turno, no solo 'entonces' causal)",
+    "stratum": "marcador",
+    "rules": [
+      "R4",
+      "R7"
+    ],
+    "subtlex_rank": 52
+  },
+  {
+    "item": "tipo",
+    "es": "como que, o sea, tipo (muletilla de vaguedad/ejemplo)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": 230
+  },
+  {
+    "item": "assim",
+    "es": "o sea, este... (muletilla de relleno, no 'así' comparativo)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": 85
+  },
+  {
+    "item": "sabe",
+    "es": "¿sabes?, ¿entiendes? (muletilla de chequeo de comprensión)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": 66
+  },
+  {
+    "item": "pois é",
+    "es": "pues sí, ya ves (confirmación resignada/comentario de cierre)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ó",
+    "es": "mira, oye (llamada de atención brevísima)",
+    "stratum": "marcador",
+    "rules": [
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": 2295
+  },
+  {
+    "item": "olha",
+    "es": "mira, oye (llamada de atención/introductor de comentario)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": 253
+  },
+  {
+    "item": "cara",
+    "es": "tío, tía, colega; ¡vaya! (vocativo informal o interjección de énfasis)",
+    "stratum": "marcador",
+    "rules": [
+      "R2",
+      "R4"
+    ],
+    "subtlex_rank": 119
+  },
+  {
+    "item": "sei lá",
+    "es": "yo qué sé, ni idea (encogimiento de hombros verbal)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "pô",
+    "es": "¡joder!, ¡hombre! (interjección de fastidio o énfasis)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": 8285
+  },
+  {
+    "item": "poxa",
+    "es": "¡vaya!, ¡jo! (interjección de decepción o sorpresa leve)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4"
+    ],
+    "subtlex_rank": 10540
+  },
+  {
+    "item": "nossa",
+    "es": "¡madre mía!, ¡vaya! (interjección de sorpresa, NO 'nuestra')",
+    "stratum": "marcador",
+    "rules": [
+      "R2",
+      "R4"
+    ],
+    "subtlex_rank": 184
+  },
+  {
+    "item": "eita",
+    "es": "¡uy!, ¡ups! (interjección de sorpresa o metedura de pata)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4"
+    ],
+    "subtlex_rank": 18373
+  },
+  {
+    "item": "uai",
+    "es": "¡anda!, ¡vaya! (interjección regional mineira de sorpresa/obviedad)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4"
+    ],
+    "subtlex_rank": 41440
+  },
+  {
+    "item": "opa",
+    "es": "¡epa!, ¡uy! (interjección de sorpresa o saludo brusco)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": 5156
+  },
+  {
+    "item": "falou",
+    "es": "vale, hecho, hasta luego (cierre de conversación/acuerdo, no 'habló')",
+    "stratum": "marcador",
+    "rules": [
+      "R2",
+      "R4"
+    ],
+    "subtlex_rank": 619
+  },
+  {
+    "item": "sacou",
+    "es": "¿pillaste?, ¿entendiste? (chequeo de comprensión, jerga)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4"
+    ],
+    "subtlex_rank": 6537
+  },
+  {
+    "item": "putz",
+    "es": "¡jo!, ¡mierda! (eufemismo de fastidio o decepción)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ué",
+    "es": "¿eh?, ¿cómo? (interjección de extrañeza/sorpresa)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4"
+    ],
+    "subtlex_rank": 12823
+  },
+  {
+    "item": "ah tá",
+    "es": "ah, vale, ah ya (reconocimiento/comprensión repentina)",
+    "stratum": "marcador",
+    "rules": [
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "hein",
+    "es": "¿eh?, ¿qué? (pedir repetición o buscar confirmación)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": 798
+  },
+  {
+    "item": "viu",
+    "es": "¿vale?, ¿eh? (coletilla final de énfasis/confirmación, no '(tú) viste')",
+    "stratum": "marcador",
+    "rules": [
+      "R2",
+      "R4"
+    ],
+    "subtlex_rank": 245
+  },
+  {
+    "item": "tudo bem",
+    "es": "vale, de acuerdo; ¿qué tal? (saludo/aceptación, no solo 'todo bien')",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "é que",
+    "es": "es que, lo que pasa es que (introductor de justificación)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "no caso",
+    "es": "en ese caso, o sea, concretamente (matizador, no 'en el caso de')",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "quer dizer",
+    "es": "o sea, es decir (reformulador)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "ou seja",
+    "es": "o sea, es decir (reformulador)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tipo assim",
+    "es": "como que, o sea así (muletilla de vaguedad reforzada)",
+    "stratum": "marcador",
+    "rules": [
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "e aí",
+    "es": "¿qué tal?, ¿qué pasa? (saludo, no 'y allí')",
+    "stratum": "marcador",
+    "rules": [
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "de boa",
+    "es": "tranqui, sin problema (respuesta informal de conformidad)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "meu Deus",
+    "es": "¡Dios mío!, ¡madre mía! (interjección de sorpresa/exasperación)",
+    "stratum": "marcador",
+    "rules": [
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "vixe",
+    "es": "¡uy!, ¡madre mía! (interjección nordestina de sorpresa/alarma)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "nem vem",
+    "es": "ni se te ocurra, no me vengas con esas (rechazo tajante)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "que isso",
+    "es": "¡qué va!, no hace falta (rechazo cortés de agradecimiento/disculpa)",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "imagina",
+    "es": "¡qué va!, no hay de qué (rechazo cortés, no 'imagínate' literal)",
+    "stratum": "marcador",
+    "rules": [
+      "R2",
+      "R4"
+    ],
+    "subtlex_rank": 2277
+  },
+  {
+    "item": "magina",
+    "es": "¡qué va!, no hay de qué (forma hablada reducida de 'imagina')",
+    "stratum": "marcador",
+    "rules": [
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "fala sério",
+    "es": "¡en serio!, ¡no me digas! (incredulidad/énfasis, no imperativo literal 'habla en serio')",
+    "stratum": "marcador",
+    "rules": [
+      "R4",
+      "R5"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "cê",
+    "es": "tú/usted (forma reducida de 'você')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 11881
+  },
+  {
+    "item": "cês",
+    "es": "ustedes (forma reducida de 'vocês')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 35180
+  },
+  {
+    "item": "tá",
+    "es": "está",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 392
+  },
+  {
+    "item": "tô",
+    "es": "estoy",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 1855
+  },
+  {
+    "item": "tava",
+    "es": "estaba",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 3297
+  },
+  {
+    "item": "tavam",
+    "es": "estaban",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tão",
+    "es": "están (forma reducida de 'estão', no confundir con 'tan')",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R2"
+    ],
+    "subtlex_rank": 101
+  },
+  {
+    "item": "num",
+    "es": "no (forma reducida de 'não' en habla popular, p.ej. 'num sei') / en un (contracción de 'em um')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 294
+  },
+  {
+    "item": "numa",
+    "es": "en una",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 371
+  },
+  {
+    "item": "pra",
+    "es": "para",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 105
+  },
+  {
+    "item": "pro",
+    "es": "para el",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 791
+  },
+  {
+    "item": "pra mim",
+    "es": "para mí (usado también como sujeto informal, 'pra mim é bom' = 'para mí es bueno')",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R6"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "vamo",
+    "es": "vamos",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "bora",
+    "es": "vamos, dale (forma coloquial de 'embora')",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": 10259
+  },
+  {
+    "item": "tá bom",
+    "es": "está bien, vale",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "deixa eu",
+    "es": "déjame (pronunciado 'deixeu/xeu' en habla rápida)",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "falano",
+    "es": "hablando (forma hablada de 'falando')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "fazeno",
+    "es": "haciendo (forma hablada de 'fazendo')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "comeno",
+    "es": "comiendo (forma hablada de 'comendo')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "indo",
+    "es": "yendo (gerundio de 'ir', suele oírse reducido dentro de 'tô indo')",
+    "stratum": "reducao",
+    "rules": [
+      "R7"
+    ],
+    "subtlex_rank": 276
+  },
+  {
+    "item": "falá",
+    "es": "hablar (infinitivo con caída de la -r final en habla popular)",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "comê",
+    "es": "comer (infinitivo con caída de la -r final en habla popular)",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 59964
+  },
+  {
+    "item": "dormi",
+    "es": "dormir (infinitivo con caída de la -r final; se confunde con el pretérito 'dormí')",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R7"
+    ],
+    "subtlex_rank": 3328
+  },
+  {
+    "item": "cê vai",
+    "es": "tú vas (contracción hablada de 'você vai')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "cê tá",
+    "es": "tú estás (forma hablada de 'você está')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tô indo",
+    "es": "ya voy, estoy yendo",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "tá vendo",
+    "es": "¿ves?, mira (muletilla de confirmación)",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "no",
+    "es": "en el (contracción de 'em' + 'o'; ojo, idéntico a 'no' = negación en español, significado totalmente distinto)",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R2"
+    ],
+    "subtlex_rank": 29
+  },
+  {
+    "item": "na",
+    "es": "en la (contracción de 'em' + 'a'; no confundir con 'na' coloquial español = 'nada')",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R2"
+    ],
+    "subtlex_rank": 31
+  },
+  {
+    "item": "nos (contração)",
+    "es": "en los (contracción de 'em' + 'os', distinto del pronombre 'nos')",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R2"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "nas",
+    "es": "en las (contracción de 'em' + 'as')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 258
+  },
+  {
+    "item": "do",
+    "es": "del (contracción de 'de' + 'o')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 21
+  },
+  {
+    "item": "da",
+    "es": "de la (contracción de 'de' + 'a'; ojo, idéntico a 'da' = 3ª pers. de 'dar' en español, significado totalmente distinto)",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R2"
+    ],
+    "subtlex_rank": 26
+  },
+  {
+    "item": "pela",
+    "es": "por la (contracción de 'por' + 'a'; ojo, coincide con la forma verbal 'pela' de 'pelar' en español, significado totalmente distinto)",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R2"
+    ],
+    "subtlex_rank": 183
+  },
+  {
+    "item": "dele",
+    "es": "de él, suyo (contracción de 'de' + 'ele')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 152
+  },
+  {
+    "item": "dela",
+    "es": "de ella, suyo (contracción de 'de' + 'ela')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 222
+  },
+  {
+    "item": "nele",
+    "es": "en él (contracción de 'em' + 'ele')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 608
+  },
+  {
+    "item": "nela",
+    "es": "en ella (contracción de 'em' + 'ela')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 1033
+  },
+  {
+    "item": "desse",
+    "es": "de ese (contracción de 'de' + 'esse')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 520
+  },
+  {
+    "item": "nesse",
+    "es": "en ese (contracción de 'em' + 'esse')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 614
+  },
+  {
+    "item": "daquele",
+    "es": "de aquel (contracción de 'de' + 'aquele')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 1280
+  },
+  {
+    "item": "naquele",
+    "es": "en aquel (contracción de 'em' + 'aquele')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 1014
+  },
+  {
+    "item": "disso",
+    "es": "de eso (contracción de 'de' + 'isso')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 178
+  },
+  {
+    "item": "nisso",
+    "es": "en eso (contracción de 'em' + 'isso')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 397
+  },
+  {
+    "item": "vô",
+    "es": "voy (forma reducida coloquial de 'vou')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": 11751
+  },
+  {
+    "item": "cê quer",
+    "es": "¿tú quieres? (forma hablada de 'você quer')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "memo",
+    "es": "mismo (forma hablada de 'mesmo', usado como intensificador: 'é isso memo')",
+    "stratum": "reducao",
+    "rules": [
+      "R3",
+      "R4"
+    ],
+    "subtlex_rank": null
+  },
+  {
+    "item": "qui",
+    "es": "que (pronunciación relajada de la conjunción 'que' en habla rápida)",
+    "stratum": "reducao",
+    "rules": [
+      "R7"
+    ],
+    "subtlex_rank": 16612
+  },
+  {
+    "item": "cabô",
+    "es": "se acabó (forma reducida de 'acabou')",
+    "stratum": "reducao",
+    "rules": [
+      "R3"
+    ],
+    "subtlex_rank": null
+  }
+]

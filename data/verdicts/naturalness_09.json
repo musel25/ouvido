@@ -1,0 +1,22 @@
+{
+  "película": {"passed": false, "reason": "Both example sentences use unnatural collocations. Brazilians don't say 'película de plástico' for cling wrap over food — the standard term is 'filme plástico' or 'papel filme'; 'película' is used for phone screen protectors, car window tinting, or photographic film, not kitchen wrap. Likewise 'a película do olho fica irritada com o vento' is a constructed-sounding anatomical phrase nobody actually says; a real speaker would just say 'o olho fica irritado com o vento'."},
+  "podre": {"passed": true, "reason": ""},
+  "polvo": {"passed": true, "reason": ""},
+  "porra": {"passed": true, "reason": ""},
+  "pronto": {"passed": true, "reason": ""},
+  "punheta": {"passed": true, "reason": ""},
+  "pó": {"passed": false, "reason": "sent2 uses the reversed, non-standard word order 'pó de leite'. The natural Brazilian collocation is 'leite em pó' (powdered milk) — 'pó de leite' sounds backward and is not how a native speaker would say it."},
+  "rato": {"passed": true, "reason": ""},
+  "reparar": {"passed": true, "reason": ""},
+  "ressaca": {"passed": true, "reason": ""},
+  "romance": {"passed": true, "reason": ""},
+  "saco": {"passed": true, "reason": ""},
+  "salsa": {"passed": true, "reason": ""},
+  "saltar": {"passed": false, "reason": "sent1 teaches 'saltar do ônibus' for 'to get off the bus', but this is European Portuguese usage. In Brazil the verb for disembarking is 'descer' ('descer do ônibus') — 'saltar' in Brazilian speech means only 'to jump' (as correctly shown in sent2), not 'to alight'. The gloss/definition and sent1 import a Portugal-only sense as if it were Brazilian."},
+  "sobremesa": {"passed": true, "reason": ""},
+  "sobrenome": {"passed": true, "reason": ""},
+  "sótão": {"passed": true, "reason": ""},
+  "taco": {"passed": true, "reason": ""},
+  "talher": {"passed": true, "reason": ""},
+  "taça": {"passed": true, "reason": ""}
+}
