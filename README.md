@@ -57,7 +57,7 @@ Requires `uv`, and Anki running with the AnkiConnect add-on (there is no headles
 
 ```bash
 ./scripts/fetch_subtlex.sh
-uv run pytest                                     # 105 tests
+uv run pytest                                     # 108 tests
 
 uv run python -m ouvido.cli filter-candidates --in data/candidates --freqs data/subtlex/subtlex.tsv \
     --out data/candidates_kept.json --log data/logs/rejected_candidates.jsonl
@@ -74,9 +74,13 @@ uv run python -m ouvido.cli push-notes --notes data/notes_verified.json --deck O
     --log data/logs/build.jsonl
 ```
 
-Every stage writes a rejection log, always — an empty log is an artifact, not an absence. `synth` skips
-clips that already exist, so it is resumable; `addNote` uses `allowDuplicate: false`, so re-pushing is
-safe.
+Every stage writes a rejection log, always — an empty log is an artifact, not an absence. The build is
+idempotent end to end: `synth` skips clips that already exist, and `push-notes` skips notes already in
+the collection (AnkiConnect *raises* on a duplicate rather than returning null; `add_note` absorbs
+exactly that error and nothing else).
+
+Shipped: **364 notes / 1,092 cards / 1,092 clips.** 374 were authored; 10 were refuted by the three
+lenses, 7 of them by the semantics veto.
 
 ## What this cannot do
 
