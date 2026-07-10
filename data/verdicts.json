@@ -1,0 +1,3302 @@
+{
+ "dar um jeito": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar mole": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar uma sumida": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar certo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar errado": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dá pra...": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar bola (para)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar o fora": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar uma força": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar trabalho": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'dá bastante trabalho' is not the item's surface form: it includes the extra intensifier 'bastante' inserted between 'dá' and 'trabalho', making the span a longer phrase than the item 'dar trabalho' (rule 4 violation). sent1 has the analogous issue ('dando muito trabalho' with 'muito' inserted), so the item never actually appears as a clean contiguous chunk in either sentence."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar zebra": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar ruim": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar uma de (bobo)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar as caras": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar no pé": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar um rolê": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar a real": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar conta (de algo)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar na telha": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar um perdido em alguém": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar um migué": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar uma mancada": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar um tempo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar um show": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar pra trás": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar a fim de": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar de boa": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar por isso mesmo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar com (alguém)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar sabendo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar na sua": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar de olho": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar de cara": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar bolado": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar de fora": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar por conta (de)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar em cima do muro": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar de bem (com)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar de mal (com)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar quieto": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar (tornar-se)": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'ficou muito quieto' is far longer than the item's inflected surface form ('ficou'); it swallows the entire predicate (intensifier + adjective). Removing it leaves 'Depois da notícia, ele ___.' with zero recoverable cue — the resulting state (quiet, angry, sad, happy, anything) cannot be inferred from what remains, so the blank fails the recoverability test as well as the surface-form rule."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar no pé": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar leve": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar mal": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'pega muito mal', which inserts 'muito' — a word not part of the item. The span must be the item's own inflected surface form ('pega mal' / 'pegou mal'), not a longer phrase padded with an intensifier."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar fogo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar carona": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar o jeito": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar no sono": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar pesado": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'pegou muito pesado', which inserts 'muito' beyond the item's inflected surface form ('pegou pesado'). The span is a longer phrase than the item, violating the exact-surface-form rule."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar alguém de surpresa": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar uma cola": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "The chunk itself is off: Brazilians don't say 'pegar uma cola' to mean 'to cheat with a cheat sheet' — the standard verb is 'colar' (colar na prova = to cheat on the test), with 'cola' as the noun for the cheat sheet used with 'usar'. sent2 'Ela quase pegou uma cola no exame de química' reads as 'she almost obtained/got hold of a cheat sheet', not 'she almost cheated' — a semantic mismatch with the gloss, not a genuine synonym for colar."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pegar a visão": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar mal": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'passei muito mal', which inserts 'muito' — not part of the item's surface form ('passei mal'). The span exceeds the item, same defect pattern as 'pegar mal' and 'pegar pesado' in this batch."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar dos limites": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar batido": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar a perna em": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar pano (para)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar a mão na cabeça (de)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent1 'O juiz não devia passar a mão na cabeça de criminoso' drops the article/number on 'criminoso' — no Brazilian says it this way in speech; natural phrasing would be 'do criminoso' (singular+article) or 'de criminosos' (plural). As written it reads like clipped headline text, not spoken Portuguese."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar vergonha": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar a limpo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "passar o rodo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "deixa pra lá": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "deixar na mão": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "deixar rolar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "deixa comigo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "deixar a desejar": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2 minus the blank is just 'A qualidade do produto ____.' — the entire predicate carrying the idiom's meaning is inside the span, leaving zero contextual cue to recover it from (matches the explicit 'sentence whose whole meaning was inside the blank' failure case)."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ir fundo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ir com tudo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ir na fé": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ir embora": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "não ir com a cara de alguém": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "levar um fora": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "levar na esportiva": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "levar a sério": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "levar na cabeça": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "levar fé (em)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "botar pra quebrar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "botar a boca no trombone": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "botar minhoca na cabeça": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "botar a mão no fogo (por alguém)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "jogar fora": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "jogar conversa fora": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent2 'Vamos jogar conversa fora enquanto espera o ônibus?' mismatches subject: 'vamos' is 1st person plural but 'espera' is 3rd person singular with no subject established (should be 'esperamos' or 'a gente espera') — a real speaker wouldn't switch person mid-sentence like this."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "jogar verde para colher maduro": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2 minus sent2_span leaves only 'Fica esperto, ela tá .' — a dangling auxiliary with no predicate; the entire informative content of the sentence is inside the blank, giving no recoverable cue for the idiom."
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "The full idiom 'jogar verde para colher maduro' is a written/proverbial expression, not something Brazilians actually say out loud in casual conversation — spoken usage almost always shortens to just 'jogar verde'. Both example sentences plug the full bookish idiom into otherwise casual speech ('tá', 'pra'), which reads as textbook-stitched rather than authentic."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tomar conta (de)": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "Removing sent2_span ('tomar conta das crianças') leaves 'Quem vai hoje à noite?', a fully complete, natural standalone question — nothing signals a verb phrase is missing, so the blank is not recoverable from context."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tomar um susto": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'tomou um susto enorme' is longer than the item (adds 'enorme'), and removing it leaves the ungrammatical fragment 'Ela com o barulho da porta.' (no verb at all) — unrecoverable."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tomar uma": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "Removing sent2_span leaves 'Ele foi com os amigos no bar.', a complete natural sentence (he went to the bar with friends) with no signal that a drink-related verb was elided."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tomar jeito": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "a gente vai": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "a gente tá cansado": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'a gente tá cansado demais' is longer than the item (adds 'demais'), and removing it leaves the broken fragment 'Depois do jogo pra sair.' — no subject, no verb, unrecoverable."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "vamo embora / bora": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tá ligado": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "a gente (pronome geral)": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "Removing 'a gente' leaves 'No trabalho tem que chegar cedo sempre.', a fully grammatical, complete impersonal sentence on its own — nothing cues that 'a gente' belongs there."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tem muita gente aqui": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'tem muita gente aqui na fila' is longer than the item (adds 'na fila'), and removing it leaves only 'Não vou entrar,' with a dangling comma and no specific content cue."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "não tem ninguém": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'não tem ninguém na sala' is longer than the item 'não tem ninguém' — 'na sala' is not part of the item and shouldn't be included in the blanked span."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tem alguém aí?": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "não tem jeito": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cabô / acabou (em fala)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "quando eu for": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'quando eu for embora' adds 'embora' beyond the item 'quando eu for', and removing it leaves 'Te aviso daqui.', a complete standalone sentence with a shifted meaning and no cue a temporal clause was elided."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "se eu tiver tempo": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'se eu tiver tempo à noite' is longer than the item (adds 'à noite'), and removing it leaves 'A gente vai no cinema.', a fully complete sentence with zero indication a conditional clause was there."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "assim que ele chegar": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'assim que ele chegar em casa' is longer than the item (adds 'em casa'), and removing it leaves just 'Me liga.' — the degenerate no-cue case the rules define as an automatic failure."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "enquanto puder": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "se quiser": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "quando der": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "se precisar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "o que você quiser": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "se Deus quiser": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "quando ela vier": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "se der certo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "para nós fazermos": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "é importante vocês virem": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "antes de eles chegarem": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ao sairmos": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "'Ao + infinitivo pessoal' ('Ao sairmos do cinema...', 'Ao sairmos de casa...') is written/literary register. A Brazilian narrating this out loud says 'Quando a gente saiu do cinema' / 'Na hora que saímos de casa', not 'ao sairmos'. Textbook-correct but not something spoken casually."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sem eles saberem": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "depois de comermos": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar (permanecer)": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'vai ficar' is longer than the item's own surface form: the item is the single verb 'ficar', but the span bundles in 'vai' (a conjugated form of the separate verb 'ir', used for the periphrastic future), which is not part of the item at all. Violates rule 4 (span must be the item's inflected form, not a longer phrase). Compare to the correctly-scoped spans for the sibling 'ficar' senses ('fica', 'ficou bom') and for 'estar com X' items where the extra word ('tava'/'tá') is legitimately part of the multi-word item itself."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar (localizar-se)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar bom (de saúde)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": false,
+   "reason": "cuidado claim is incoherent: '⚠️ No es \"ponerse bien\" en sentido moral' misattributes a 'moral sense' ambiguity to the Spanish phrase 'ponerse bien', which in Spanish is itself the standard way to say 'to get better/recover (health)' and carries no moral connotation. The real ambiguity (recover health vs. become a good person) belongs to Portuguese 'ficar bom', not to the Spanish equivalent, so the cuidado misrepresents what Spanish 'ponerse bien' means."
+  }
+ ],
+ "estar com fome": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "estar com sede": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "estar com sono": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "estar com medo": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'fica com medo' uses the verb 'ficar' (fica), not an inflected form of 'estar' as the item names it; the item is 'estar com medo' but no form of 'estar' appears anywhere in sent2. The span is a different-lexeme substitution, not the item's own surface form (rule 4)."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "estar com pressa": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'fica com pressa' uses 'ficar' (fica), not a surface form of 'estar', which is the verb named in the item 'estar com pressa'. Same estar/ficar mismatch as the other entries in this micro-set (rule 4)."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "estar com razão": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'fica com razão' is built on 'ficar', not 'estar' as specified by the item 'estar com razão'; span is not an inflected form of the item's own verb (rule 4)."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "estar com raiva": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'fica com raiva' uses 'ficar' rather than any inflection of 'estar', the verb the item names ('estar com raiva'). Rule 4 violation: span is not the item's surface form."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "estar com saudade(s)": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'ficou com saudades' is built on 'ficar' (ficou), not 'estar', which the item specifies ('estar com saudade(s)'). Rule 4 violation: span uses a different verb than the item."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "estar com calor/frio": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'ficaram com frio' uses 'ficar', not 'estar' as named in the item 'estar com calor/frio'. Rule 4 violation: no form of 'estar' occurs in sent2 at all."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "me dá": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'me dá um desconto', which is longer than the item 'me dá' — it bakes in the object 'um desconto' that is not part of the item. Rule 4 violation: span is a longer phrase than the item, and removing it strips the sentence of its main content, leaving only 'Ah, _____ aí, vai.' as a weak recovery cue."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "me diz": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'me diz onde' extends past the item 'me diz' by including 'onde', which is not part of the item. Rule 4 violation: span is longer than the item's surface form."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "me ajuda": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'me ajuda aqui' includes 'aqui', which is not part of the item 'me ajuda'. Rule 4 violation: span is a longer phrase than the item."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "me liga": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "me deixa": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'me deixa terminar' includes 'terminar', which is not part of the item 'me deixa'. Rule 4 violation: span is longer than the item's surface form."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tá (como resposta sozinha)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": false,
+   "reason": "item_full gives 'está bem' as the standard form, but this contradicts the note's own 'ear' field, which says 'tá' is simply the reduction of 'está' (dropping the first syllable). 'tá' phonetically reduces 'está', not the two-word phrase 'está bem'; using 'está bem' as item_full conflates the pragmatic meaning of the reply ('it's fine') with the standard form of the reduced word."
+  }
+ ],
+ "né (pergunta de confirmação)": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'hoje, né', which bundles in the preceding word 'hoje' even though 'né' alone already occurs exactly once in sent2 and would suffice. Rule 4 violation: span is a longer phrase than the item 'né'."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "vai que": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sei lá se": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "acordar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent2 'Ela sempre acorda com o despertador tocando três vezes' is stilted — a real Brazilian describing a heavy sleeper needing multiple alarm rings would say something like 'Ela só acorda depois que o despertador toca umas três vezes' or 'Ela demora pra acordar, o despertador toca três vezes até ela levantar'. The 'acorda com X tocando três vezes' phrasing reads as a translated construction, not natural spoken BR."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ainda": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'você ainda mora', three words, while the item is the single word 'ainda'. Rule 4 violation: span wraps in the subject 'você' and verb 'mora', which are not part of the item, and removing all three leaves only 'Nossa, _____ naquele apartamento pequeno?' — too little targeted cue for the single word being tested."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "anedota": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'Essa anedota que', but the item is just 'anedota'. Rule 4 violation: span includes the demonstrative 'Essa' and relative pronoun 'que', which are not part of the item."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "apelido": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'tem um apelido', but the item is just 'apelido'. Rule 4 violation: span includes the verb 'tem' and article 'um', which are not part of the item."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "apenas": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'Faltam apenas dois', but the item is just 'apenas'. Rule 4 violation: span includes 'Faltam' and 'dois', which are not part of the item."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "aula": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "açougue": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "balcão": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent2 'Pergunta pro balcão se já chegou minha encomenda' personifies the counter as if it were a person you address directly ('pro balcão' = 'to the counter'); a Brazilian would say 'pergunta lá no balcão' or 'pergunta pro pessoal do balcão' — 'balcão' isn't a job title like 'caixa' that doubles as a person, so addressing it directly with 'pro' sounds off."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "constipado": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'tá constipado', which appends the copula 'tá' beyond the item's own surface form ('constipado'). Rule 4 requires the span to be the item's inflected surface form, not a longer phrase; the extra verb widens the tested unit past what 'item' specifies."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "barata": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bater": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'bateu o carro', which bundles the object 'o carro' onto the inflected verb — a longer phrase than the item's surface form (rule 4). Removing the whole span also strips the object needed to recover the 'crash' sense: 'Ele ___ na esquina ontem à noite' could as easily be 'parou'/'virou'/etc., so the blank is weakly recoverable (rule 5)."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bilhão": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "borracha": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "borracharia": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "borracheiro": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "botar": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'botou a chave', pairing the inflected verb with its object noun — longer than the item's own surface form (rule 4). With the object folded into the blank, 'Ela ___ dentro da bolsa e esqueceu' no longer clearly signals 'put' over other placement/loss verbs, weakening recoverability (rule 5)."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "brincar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cachorro": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "camareiro": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "catarro": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cena": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cigarro": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "criança": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "doce": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'doce de leite', a specific 3-word compound (dulce de leche) rather than the item's own surface form 'doce' — violates rule 4 (longer phrase, different/narrower sense than the plain word being taught)."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "embaraçado": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent1 'Fiquei todo embaraçado quando ela elogiou na frente de todo mundo' drops the direct object of 'elogiar' — a transitive verb needing a complement. No Brazilian would say bare 'ela elogiou' meaning 'she complimented (me)'; it needs 'ela me elogiou'. As written it reads as an unfinished/ungrammatical sentence, not natural spoken Portuguese."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "escova": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "escritório": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "esquisito": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "fechar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": false,
+   "reason": "cuidado wrongly implies Spanish 'fechar' isn't used for 'poner fecha' (dating a document) and that only 'datar' works. In fact Spanish 'fechar' is a standard verb meaning 'to date/put a date on' (e.g. 'fechar una carta'), so the parenthetical '(eso es datar)' misstates Spanish vocabulary even though the core PT/ES semantic gap (cerrar vs fechar-fecha) is real."
+  }
+ ],
+ "filhote": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "galho": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'dois galhos grossos' — a full noun phrase (numeral + noun + adjective), not the item's inflected surface form. Rule 4 requires the span to be just the inflected item, not a longer phrase."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "garçom": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "jornal": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ladrilho": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "largo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "mala": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ninguém": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span is 'e ninguém atendeu' — includes the conjunction 'e' and the verb 'atendeu' around the item, not just the inflected surface form of 'ninguém'. Rule 4 violation; also weakens recoverability since the verb that would normally cue the answer is blanked out too."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ninho": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "novela": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "oficina": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "padre": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "palco": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "paquete": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "\"Paquete\" is not a recognizable Brazilian slang term for menstruation (common real ones are 'chico'/'tio Chico', 'baixo-astral', 'período', 'menstruação'); this reads as a fabricated or non-Brazilian term, and both sentences ('tá de paquete', 'veio o paquete') would not actually be understood/said by a Brazilian, which defeats the deck's core listening-comprehension purpose."
+  },
+  {
+   "lens": "semantics",
+   "passed": false,
+   "reason": "Unable to verify 'paquete' as genuine Brazilian slang for menstruation; known BR-PT euphemisms are 'chico'/'tio Chico chegou', 'regra', 'está naqueles dias', etc. Not 'paquete'. The item, gloss, and both example sentences all hinge on this unverified/likely-fabricated slang sense, and the vulgar/rare hedge in notes reads as cover for an invented entry — defaulting to fail per uncertainty rule since a wrong vocabulary item here is high-risk."
+  }
+ ],
+ "pegar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pelo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "película": [
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "Both example sentences use unnatural collocations. Brazilians don't say 'película de plástico' for cling wrap over food — the standard term is 'filme plástico' or 'papel filme'; 'película' is used for phone screen protectors, car window tinting, or photographic film, not kitchen wrap. Likewise 'a película do olho fica irritada com o vento' is a constructed-sounding anatomical phrase nobody actually says; a real speaker would just say 'o olho fica irritado com o vento'."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "podre": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "polvo": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "porra": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pronto": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "punheta": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pó": [
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent2 uses the reversed, non-standard word order 'pó de leite'. The natural Brazilian collocation is 'leite em pó' (powdered milk) — 'pó de leite' sounds backward and is not how a native speaker would say it."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "rato": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "reparar": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ressaca": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "romance": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "saco": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "salsa": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "saltar": [
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent1 teaches 'saltar do ônibus' for 'to get off the bus', but this is European Portuguese usage. In Brazil the verb for disembarking is 'descer' ('descer do ônibus') — 'saltar' in Brazilian speech means only 'to jump' (as correctly shown in sent2), not 'to alight'. The gloss/definition and sent1 import a Portugal-only sense as if it were Brazilian."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sobremesa": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sobrenome": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sótão": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "taco": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "talher": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "taça": [
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ]
+}

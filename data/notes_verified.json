@@ -1,0 +1,3019 @@
+[
+  {
+    "item": "dar um jeito",
+    "item_full": "",
+    "gloss": "to find a way, work something out",
+    "sent1": "Relaxa, eu dou um jeito nisso amanhã.",
+    "sent1_en": "Relax, I'll find a way to sort that out tomorrow.",
+    "sent2": "Ela sempre dá um jeito de resolver os problemas da família.",
+    "sent2_en": "She always finds a way to solve the family's problems.",
+    "sent2_span": "dá um jeito",
+    "notes": "'dar um jeito' = improvise a solution; a very common all-purpose reassurance.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar mole",
+    "item_full": "",
+    "gloss": "to let your guard down, slip up",
+    "sent1": "Não dá mole que ele vai roubar sua carteira.",
+    "sent1_en": "Don't let your guard down, he'll steal your wallet.",
+    "sent2": "Ela deu mole e perdeu a vaga de emprego.",
+    "sent2_en": "She slipped up and lost the job opening.",
+    "sent2_span": "deu mole",
+    "notes": "'dar mole' = to be careless, giving something bad the chance to happen.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R1",
+      "R5"
+    ]
+  },
+  {
+    "item": "dar uma sumida",
+    "item_full": "",
+    "gloss": "to disappear for a while, go MIA",
+    "sent1": "Ele deu uma sumida esses dias, ninguém sabe onde ele tá.",
+    "sent1_en": "He's gone MIA these past few days, nobody knows where he is.",
+    "sent2": "Depois da briga, ela deu uma sumida e não respondeu mais mensagem.",
+    "sent2_en": "After the fight, she disappeared for a while and stopped answering messages.",
+    "sent2_span": "deu uma sumida",
+    "notes": "casual way to say someone vanished or went quiet for a stretch of time.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar certo",
+    "item_full": "",
+    "gloss": "to work out, turn out well",
+    "sent1": "Espero que esse plano dê certo pra gente.",
+    "sent1_en": "I hope this plan works out for us.",
+    "sent2": "No fim, tudo deu certo e ele conseguiu o visto.",
+    "sent2_en": "In the end, everything worked out and he got the visa.",
+    "sent2_span": "deu certo",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar errado",
+    "item_full": "",
+    "gloss": "to go wrong, turn out badly",
+    "sent1": "A viagem deu errado desde o começo.",
+    "sent1_en": "The trip went wrong from the start.",
+    "sent2": "Se der errado, a gente tenta de novo semana que vem.",
+    "sent2_en": "If it goes wrong, we'll try again next week.",
+    "sent2_span": "der errado",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dá pra...",
+    "item_full": "dá para...",
+    "gloss": "is it possible to..., there's a way to...",
+    "sent1": "Dá pra você me buscar mais tarde?",
+    "sent1_en": "Can you pick me up later?",
+    "sent2": "Não dá pra chegar lá a tempo hoje.",
+    "sent2_en": "There's no way to get there in time today.",
+    "sent2_span": "dá pra",
+    "notes": "extremely frequent chunk for asking or stating whether something's possible.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R3"
+    ]
+  },
+  {
+    "item": "dar bola (para)",
+    "item_full": "",
+    "gloss": "to pay attention to, show (romantic) interest in",
+    "sent1": "Ela nem dá bola pra ele, mas ele insiste.",
+    "sent1_en": "She doesn't even pay attention to him, but he keeps insisting.",
+    "sent2": "Eu percebi que o novo estagiário tava dando bola pra minha amiga.",
+    "sent2_en": "I noticed the new intern was showing interest in my friend.",
+    "sent2_span": "dando bola pra",
+    "notes": "used both for romantic interest and general attention/consideration to someone.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "dar o fora",
+    "item_full": "",
+    "gloss": "to bail, take off suddenly",
+    "sent1": "Assim que a polícia chegou, a galera deu o fora.",
+    "sent1_en": "As soon as the police showed up, everyone bailed.",
+    "sent2": "Ele deu o fora da festa sem se despedir de ninguém.",
+    "sent2_en": "He took off from the party without saying goodbye to anyone.",
+    "sent2_span": "deu o fora",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar uma força",
+    "item_full": "",
+    "gloss": "to lend a hand, help out",
+    "sent1": "Você pode me dar uma força com essas caixas?",
+    "sent1_en": "Can you lend me a hand with these boxes?",
+    "sent2": "Os vizinhos deram uma força quando a casa alagou.",
+    "sent2_en": "The neighbors lent a hand when the house flooded.",
+    "sent2_span": "deram uma força",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar trabalho",
+    "item_full": "",
+    "gloss": "to be a hassle, take a lot of effort",
+    "sent1": "Esse projeto tá dando muito trabalho.",
+    "sent1_en": "This project is turning into a huge hassle.",
+    "sent2": "Criar dois cachorros dá bastante trabalho.",
+    "sent2_en": "Raising two dogs takes a lot of effort.",
+    "sent2_span": "dá bastante trabalho",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar zebra",
+    "item_full": "",
+    "gloss": "to backfire, go horribly wrong unexpectedly",
+    "sent1": "Se a gente não confirmar tudo antes, pode dar zebra.",
+    "sent1_en": "If we don't confirm everything beforehand, it could backfire badly.",
+    "sent2": "Deu zebra no jogo e o time favorito perdeu.",
+    "sent2_en": "It went sideways in the match and the favored team lost.",
+    "sent2_span": "Deu zebra",
+    "notes": "originally betting slang for an upset result; now general 'unexpected disaster'.",
+    "cuidado": "⚠️ No es 'dar cebra' en sentido literal. Significa que algo salió terriblemente mal o de forma inesperada.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "dar ruim",
+    "item_full": "",
+    "gloss": "to go badly, end in disaster",
+    "sent1": "Se ele continuar bebendo assim, vai dar ruim.",
+    "sent1_en": "If he keeps drinking like that, it's going to end badly.",
+    "sent2": "Deu ruim pra empresa depois do escândalo.",
+    "sent2_en": "Things went badly for the company after the scandal.",
+    "sent2_span": "Deu ruim",
+    "notes": "very colloquial, common in spoken slang and memes.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar uma de (bobo)",
+    "item_full": "",
+    "gloss": "to play dumb, act like a (fool)",
+    "sent1": "Não adianta dar uma de bobo, eu vi tudo.",
+    "sent1_en": "No use playing dumb, I saw everything.",
+    "sent2": "Ele deu uma de bobo quando perguntaram quem quebrou o vaso.",
+    "sent2_en": "He played dumb when they asked who broke the vase.",
+    "sent2_span": "deu uma de bobo",
+    "notes": "'dar uma de X' = act like X; the slot changes (esperto, coitado, durão, etc.).",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar as caras",
+    "item_full": "",
+    "gloss": "to show up, make an appearance",
+    "sent1": "Ele nunca dá as caras nas reuniões de família.",
+    "sent1_en": "He never shows up at family gatherings.",
+    "sent2": "Depois de sumir um ano, ela finalmente deu as caras na firma.",
+    "sent2_en": "After disappearing for a year, she finally showed up at the office.",
+    "sent2_span": "deu as caras",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar no pé",
+    "item_full": "",
+    "gloss": "to take off running, bolt",
+    "sent1": "Quando viu o dono chegando, o cachorro deu no pé.",
+    "sent1_en": "When it saw the owner arriving, the dog took off running.",
+    "sent2": "A gente deu no pé assim que ouviu o alarme.",
+    "sent2_en": "We bolted as soon as we heard the alarm.",
+    "sent2_span": "deu no pé",
+    "notes": "",
+    "cuidado": "⚠️ No es literal 'dar en el pie'. Significa salir corriendo o largarse rápido.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "dar um rolê",
+    "item_full": "",
+    "gloss": "to go for a stroll/hangout, go out",
+    "sent1": "Bora dar um rolê na praia hoje à tarde?",
+    "sent1_en": "Want to go for a stroll on the beach this afternoon?",
+    "sent2": "Eles deram um rolê pelo centro antes de voltar pra casa.",
+    "sent2_en": "They went for a hangout downtown before heading home.",
+    "sent2_span": "deram um rolê",
+    "notes": "'rolê' = a casual outing; very common among younger speakers.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar a real",
+    "item_full": "",
+    "gloss": "to be straight with someone, tell it like it is",
+    "sent1": "Fala sério, me dá a real sobre esse emprego.",
+    "sent1_en": "Seriously, be straight with me about this job.",
+    "sent2": "O treinador deu a real pro time depois da derrota.",
+    "sent2_en": "The coach told the team the hard truth after the loss.",
+    "sent2_span": "deu a real",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar conta (de algo)",
+    "item_full": "",
+    "gloss": "to manage, handle, cope with something",
+    "sent1": "Não sei se eu dou conta de tanto trabalho sozinho.",
+    "sent1_en": "I don't know if I can handle so much work alone.",
+    "sent2": "Ela deu conta de organizar a festa toda em dois dias.",
+    "sent2_en": "She managed to organize the whole party in two days.",
+    "sent2_span": "deu conta de",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar na telha",
+    "item_full": "",
+    "gloss": "to get a sudden urge/whim to do something",
+    "sent1": "Do nada, deu na telha dele pintar a casa inteira.",
+    "sent1_en": "Out of nowhere, he got the sudden urge to paint the whole house.",
+    "sent2": "Se der na telha, a gente pega a estrada esse fim de semana.",
+    "sent2_en": "If the whim strikes, we'll hit the road this weekend.",
+    "sent2_span": "der na telha",
+    "notes": "",
+    "cuidado": "⚠️ No tiene que ver con 'teja' literal. Significa que a alguien le da un antojo repentino de hacer algo.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "dar um perdido em alguém",
+    "item_full": "",
+    "gloss": "to ghost someone, blow someone off",
+    "sent1": "Ela deu um perdido nele depois do primeiro encontro.",
+    "sent1_en": "She ghosted him after the first date.",
+    "sent2": "Não dá um perdido nos seus amigos só porque tá namorando.",
+    "sent2_en": "Don't blow off your friends just because you're dating someone.",
+    "sent2_span": "dá um perdido",
+    "notes": "used for suddenly ignoring a friend or a romantic interest.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar um migué",
+    "item_full": "",
+    "gloss": "to make an excuse, weasel out of something",
+    "sent1": "Ele deu um migué pra não ir à reunião.",
+    "sent1_en": "He made an excuse to not go to the meeting.",
+    "sent2": "Não vem dar migué comigo, eu sei que você mentiu.",
+    "sent2_en": "Don't try to weasel out with me, I know you lied.",
+    "sent2_span": "dar migué",
+    "notes": "Slang for a flimsy excuse to dodge something; not a formal word.",
+    "cuidado": "",
+    "ear": "migué -> soa aberto no final: [miˈɡɛ], não confundir com 'Miguel'",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "dar uma mancada",
+    "item_full": "",
+    "gloss": "to mess up, make a blunder",
+    "sent1": "Eu dei uma mancada feia na entrevista de emprego.",
+    "sent1_en": "I made a bad blunder in the job interview.",
+    "sent2": "Ele deu uma mancada e esqueceu o aniversário dela.",
+    "sent2_en": "He messed up and forgot her birthday.",
+    "sent2_span": "deu uma mancada",
+    "notes": "'Mancada' = a blunder or slip-up; very common in casual speech.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "dar um tempo",
+    "item_full": "",
+    "gloss": "to take a break, cool off (often in a relationship)",
+    "sent1": "A gente resolveu dar um tempo no namoro.",
+    "sent1_en": "We decided to take a break from dating.",
+    "sent2": "Dá um tempo, cara, deixa eu pensar com calma.",
+    "sent2_en": "Give me a break, man, let me think it over calmly.",
+    "sent2_span": "Dá um tempo",
+    "notes": "Also used as an interjection meaning 'give me a break' / 'come on'.",
+    "cuidado": "⚠️ No es simplemente 'dar tiempo' a alguien; significa tomarse una pausa, muchas veces en una relación de pareja.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar um show",
+    "item_full": "",
+    "gloss": "to put on a great show, shine (or make a scene)",
+    "sent1": "Ela deu um show na festa cantando aquela música.",
+    "sent1_en": "She put on a show at the party singing that song.",
+    "sent2": "O time deu um show e ganhou de goleada.",
+    "sent2_en": "The team put on a show and won by a landslide.",
+    "sent2_span": "deu um show",
+    "notes": "Usually positive (shining brilliantly), but can also mean making an embarrassing scene depending on tone.",
+    "cuidado": "",
+    "ear": "show -> pronunciado à moda inglesa: [ʃow], não como 'chove'",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "dar pra trás",
+    "item_full": "",
+    "gloss": "to back out, chicken out",
+    "sent1": "Ele combinou de ajudar mas deu pra trás na última hora.",
+    "sent1_en": "He agreed to help but backed out at the last minute.",
+    "sent2": "Não vou dar pra trás agora, já prometi.",
+    "sent2_en": "I'm not going to back out now, I already promised.",
+    "sent2_span": "dar pra trás",
+    "notes": "Used for backing out of a commitment or promise.",
+    "cuidado": "⚠️ No significa moverse hacia atrás físicamente; significa echarse atrás o rajarse de un compromiso.",
+    "ear": "pra -> redução de 'para': [pɾa]",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar a fim de",
+    "item_full": "",
+    "gloss": "to be/get in the mood for something, or develop a crush on someone",
+    "sent1": "Fiquei a fim de sair pra balada hoje.",
+    "sent1_en": "I got in the mood to go out clubbing today.",
+    "sent2": "Acho que ela ficou a fim de você.",
+    "sent2_en": "I think she got a crush on you.",
+    "sent2_span": "ficou a fim de",
+    "notes": "'Ficar a fim de' = developing the mood/interest; 'estar a fim de' = already in that mood.",
+    "cuidado": "⚠️ 'A fim de' aquí no significa 'a fin de' (propósito); expresa tener ganas de algo o sentir atracción por alguien.",
+    "ear": "a fim de -> tudo grudado: [aˈfĩdʒi]",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar de boa",
+    "item_full": "",
+    "gloss": "to stay chill, take it easy",
+    "sent1": "Fica de boa, tudo vai dar certo.",
+    "sent1_en": "Stay chill, everything's going to work out.",
+    "sent2": "Depois do trabalho eu só quero ficar de boa em casa.",
+    "sent2_en": "After work I just want to relax at home.",
+    "sent2_span": "ficar de boa",
+    "notes": "Very common casual expression for staying calm/relaxed.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar por isso mesmo",
+    "item_full": "",
+    "gloss": "to end without consequences, blow over",
+    "sent1": "Ele quebrou o vaso mas ficou por isso mesmo.",
+    "sent1_en": "He broke the vase but nothing came of it.",
+    "sent2": "A briga foi feia só que ficou por isso mesmo.",
+    "sent2_en": "The fight was ugly but it just blew over.",
+    "sent2_span": "ficou por isso mesmo",
+    "notes": "Used when an incident has no further consequences or punishment.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar com (alguém)",
+    "item_full": "",
+    "gloss": "to hook up with, make out with someone",
+    "sent1": "Ela ficou com o amigo do meu irmão na festa.",
+    "sent1_en": "She hooked up with my brother's friend at the party.",
+    "sent2": "Eu não quero ficar com ninguém hoje, tô cansado.",
+    "sent2_en": "I don't want to hook up with anyone today, I'm tired.",
+    "sent2_span": "ficar com ninguém",
+    "notes": "Casual term for kissing/making out or a brief romantic fling, not about keeping something.",
+    "cuidado": "⚠️ No es 'quedarse con alguien' en el sentido de posesión; significa besarse o enrollarse con alguien.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar sabendo",
+    "item_full": "",
+    "gloss": "to find out, hear about something",
+    "sent1": "Eu fiquei sabendo que ela mudou de emprego.",
+    "sent1_en": "I found out that she changed jobs.",
+    "sent2": "Você já ficou sabendo da novidade?",
+    "sent2_en": "Have you already heard the news?",
+    "sent2_span": "ficou sabendo",
+    "notes": "Fixed construction meaning 'to find out/learn' informally, more common than 'saber' alone.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar na sua",
+    "item_full": "",
+    "gloss": "to mind your own business, keep to yourself",
+    "sent1": "Fica na sua e não se mete na briga dos outros.",
+    "sent1_en": "Mind your own business and don't get into other people's fights.",
+    "sent2": "Ele prefere ficar na sua o tempo todo, não fala com ninguém.",
+    "sent2_en": "He prefers to keep to himself all the time, he doesn't talk to anyone.",
+    "sent2_span": "ficar na sua",
+    "notes": "Informal way to say 'mind your own business' or 'keep to yourself'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar de olho",
+    "item_full": "",
+    "gloss": "to keep an eye on, watch out for",
+    "sent1": "Fica de olho na bolsa enquanto eu vou ao banheiro.",
+    "sent1_en": "Keep an eye on the bag while I go to the bathroom.",
+    "sent2": "A professora ficou de olho nos alunos durante a prova.",
+    "sent2_en": "The teacher kept an eye on the students during the test.",
+    "sent2_span": "ficou de olho",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R1",
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar de cara",
+    "item_full": "",
+    "gloss": "to be shocked or annoyed",
+    "sent1": "Eu fiquei de cara quando vi o preço da conta.",
+    "sent1_en": "I was shocked when I saw the price of the bill.",
+    "sent2": "Ele ficou de cara com a resposta grossa dela.",
+    "sent2_en": "He got annoyed by her rude reply.",
+    "sent2_span": "ficou de cara",
+    "notes": "Can mean pleasant shock or annoyance/anger, depending on context and tone.",
+    "cuidado": "⚠️ No significa simplemente 'quedar con cara'; significa quedarse pasmado o molesto.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar bolado",
+    "item_full": "",
+    "gloss": "to get annoyed, get pissed off",
+    "sent1": "Ele ficou bolado porque perdeu o jogo.",
+    "sent1_en": "He got pissed off because he lost the game.",
+    "sent2": "Não fica bolado, foi só uma brincadeira.",
+    "sent2_en": "Don't get mad, it was just a joke.",
+    "sent2_span": "fica bolado",
+    "notes": "Slang, heard mostly in spoken Brazilian Portuguese, not formal writing.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "ficar de fora",
+    "item_full": "",
+    "gloss": "to stay out of, not take part in",
+    "sent1": "Eu vou ficar de fora dessa discussão.",
+    "sent1_en": "I'm going to stay out of this argument.",
+    "sent2": "Ele ficou de fora do time por causa da lesão.",
+    "sent2_en": "He was left out of the team because of the injury.",
+    "sent2_span": "ficou de fora",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar por conta (de)",
+    "item_full": "",
+    "gloss": "to be left up to, be in charge of (or 'on the house')",
+    "sent1": "A organização da festa ficou por conta da minha irmã.",
+    "sent1_en": "The party organization was left up to my sister.",
+    "sent2": "O jantar hoje fica por conta da casa.",
+    "sent2_en": "Tonight's dinner is on the house.",
+    "sent2_span": "fica por conta",
+    "notes": "Used both for responsibility ('in charge of') and idiomatically 'on the house' for free things.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar em cima do muro",
+    "item_full": "",
+    "gloss": "to sit on the fence, be undecided",
+    "sent1": "Ele fica em cima do muro e não toma partido em nada.",
+    "sent1_en": "He sits on the fence and doesn't take sides on anything.",
+    "sent2": "Para de ficar em cima do muro e decide logo.",
+    "sent2_en": "Stop sitting on the fence and decide already.",
+    "sent2_span": "ficar em cima do muro",
+    "notes": "Literally 'to stay on top of the wall'; equivalent to sitting on the fence.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar de bem (com)",
+    "item_full": "",
+    "gloss": "to make up with, be on good terms with",
+    "sent1": "A gente ficou de bem depois da briga boba.",
+    "sent1_en": "We made up after the silly fight.",
+    "sent2": "Ela quer ficar de bem com o irmão de novo.",
+    "sent2_en": "She wants to be on good terms with her brother again.",
+    "sent2_span": "ficar de bem",
+    "notes": "Refers to reconciling after a conflict.",
+    "cuidado": "⚠️ 'Quedar bien con alguien' en español significa causar buena impresión; aquí 'ficar de bem com' significa hacer las paces o volver a llevarse bien tras una pelea.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar de mal (com)",
+    "item_full": "",
+    "gloss": "to fall out with, stop speaking to",
+    "sent1": "Eu fiquei de mal com ela depois daquela discussão.",
+    "sent1_en": "I fell out with her after that argument.",
+    "sent2": "Os dois ficaram de mal um com o outro.",
+    "sent2_en": "The two of them stopped speaking to each other.",
+    "sent2_span": "ficaram de mal",
+    "notes": "Describes an ongoing rift or silent treatment after a fight.",
+    "cuidado": "⚠️ 'Quedar mal con alguien' en español significa dar mala impresión; aquí 'ficar de mal com' significa dejar de hablarse o pelearse con alguien, no dar mala impresión.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar quieto",
+    "item_full": "",
+    "gloss": "to stay quiet, not interfere",
+    "sent1": "Fica quieto que a reunião já vai começar.",
+    "sent1_en": "Stay quiet, the meeting is about to start.",
+    "sent2": "Melhor ficar quieto e não se meter nessa confusão.",
+    "sent2_en": "Better to stay quiet and not get involved in this mess.",
+    "sent2_span": "ficar quieto",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ficar (tornar-se)",
+    "item_full": "",
+    "gloss": "to become, get (change of state)",
+    "sent1": "Ela ficou super brava quando perdeu o ônibus.",
+    "sent1_en": "She got really angry when she missed the bus.",
+    "sent2": "Depois da notícia, ele ficou muito quieto.",
+    "sent2_en": "After the news, he became very quiet.",
+    "sent2_span": "ficou muito quieto",
+    "notes": "Used with an adjective to mark a change of state (get/become), not physical permanence.",
+    "cuidado": "⚠️ 'Ficar' no siempre es 'quedarse' en el sentido de lugar. Con adjetivo indica cambio de estado, como 'ponerse': ficar bravo = ponerse bravo.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R1",
+      "R5",
+      "R6"
+    ]
+  },
+  {
+    "item": "pegar no pé",
+    "item_full": "",
+    "gloss": "to nag, bug, pester someone",
+    "sent1": "Para de pegar no meu pé com isso, cara.",
+    "sent1_en": "Stop bugging me about that, man.",
+    "sent2": "Minha mãe vive pegando no pé do meu irmão pra estudar.",
+    "sent2_en": "My mom is always nagging my brother to study.",
+    "sent2_span": "pegando no pé",
+    "notes": "Literally 'to grab someone's foot'; means to nag or bug someone repeatedly.",
+    "cuidado": "",
+    "ear": "final -r cai: pegar -> [peˈga]",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "pegar leve",
+    "item_full": "",
+    "gloss": "to go easy, take it easy",
+    "sent1": "Pega leve comigo, hoje foi um dia difícil.",
+    "sent1_en": "Go easy on me, today was a hard day.",
+    "sent2": "O treinador disse pra pegar leve nos primeiros dias.",
+    "sent2_en": "The coach said to take it easy for the first few days.",
+    "sent2_span": "pegar leve",
+    "notes": "Common as an imperative: 'pega leve' = 'take it easy', 'go easy on me'.",
+    "cuidado": "",
+    "ear": "final -r cai: pegar -> [peˈga]",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "pegar mal",
+    "item_full": "",
+    "gloss": "to look bad, come off badly",
+    "sent1": "Chegar atrasado na reunião pega mal, viu.",
+    "sent1_en": "Showing up late to the meeting looks bad, you know.",
+    "sent2": "Reclamar na frente dos outros pega muito mal.",
+    "sent2_en": "Complaining in front of others looks really bad.",
+    "sent2_span": "pega muito mal",
+    "notes": "Describes social perception — an action that looks bad or leaves a poor impression.",
+    "cuidado": "⚠️ No es golpear ni agarrar. 'Pegar mal' significa quedar mal o causar mala impresión.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "pegar fogo",
+    "item_full": "",
+    "gloss": "to catch fire; (fig.) to get heated",
+    "sent1": "A cozinha quase pegou fogo por causa do óleo.",
+    "sent1_en": "The kitchen almost caught fire because of the oil.",
+    "sent2": "O debate pegou fogo depois que ele falou aquilo.",
+    "sent2_en": "The debate got heated after he said that.",
+    "sent2_span": "pegou fogo",
+    "notes": "Literal (catch fire) and figurative (a situation getting heated/chaotic) senses both common.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "pegar carona",
+    "item_full": "",
+    "gloss": "to hitch a ride, get a ride",
+    "sent1": "Posso pegar carona com você até o centro?",
+    "sent1_en": "Can I catch a ride with you downtown?",
+    "sent2": "A gente sempre pega carona com o vizinho pro trabalho.",
+    "sent2_en": "We always catch a ride with our neighbor to work.",
+    "sent2_span": "pega carona",
+    "notes": "Standard way to say 'get/hitch a ride' in everyday Brazilian speech.",
+    "cuidado": "",
+    "ear": "final -r cai: pegar -> [peˈga]",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "pegar o jeito",
+    "item_full": "",
+    "gloss": "to get the hang of it",
+    "sent1": "Depois de um tempo, eu peguei o jeito da máquina.",
+    "sent1_en": "After a while, I got the hang of the machine.",
+    "sent2": "Ela ainda não pegou o jeito de dirigir na cidade.",
+    "sent2_en": "She still hasn't gotten the hang of driving in the city.",
+    "sent2_span": "pegou o jeito",
+    "notes": "Means to get the knack or hang of doing something.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "pegar no sono",
+    "item_full": "",
+    "gloss": "to fall (deeply) asleep",
+    "sent1": "Assim que deitei, peguei no sono na hora.",
+    "sent1_en": "As soon as I lay down, I fell asleep instantly.",
+    "sent2": "Ele pegou no sono no meio do filme.",
+    "sent2_en": "He fell asleep in the middle of the movie.",
+    "sent2_span": "pegou no sono",
+    "notes": "Describes falling into a deep sleep, stronger than just 'dormir'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "pegar pesado",
+    "item_full": "",
+    "gloss": "to go too hard, be too harsh",
+    "sent1": "O chefe pegou pesado com a equipe hoje.",
+    "sent1_en": "The boss was too harsh with the team today.",
+    "sent2": "Ele pegou muito pesado na hora de criticar o time.",
+    "sent2_en": "He was way too harsh when criticizing the team.",
+    "sent2_span": "pegou muito pesado",
+    "notes": "Used when someone is too harsh, strict, or intense with another person.",
+    "cuidado": "⚠️ No es sobre peso físico. Significa ser muy duro o exigente con alguien.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "pegar alguém de surpresa",
+    "item_full": "",
+    "gloss": "to catch someone off guard",
+    "sent1": "A pergunta me pegou de surpresa na entrevista.",
+    "sent1_en": "The question caught me off guard in the interview.",
+    "sent2": "Ela pegou o namorado de surpresa no aniversário dele.",
+    "sent2_en": "She caught her boyfriend off guard on his birthday.",
+    "sent2_span": "pegou o namorado de surpresa",
+    "notes": "Means to catch someone off guard; 'alguém' is replaced by the actual person.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "pegar uma cola",
+    "item_full": "",
+    "gloss": "to cheat with a cheat sheet (on a test)",
+    "sent1": "Ele pegou uma cola escondida na manga da camisa.",
+    "sent1_en": "He used a hidden cheat sheet up his sleeve.",
+    "sent2": "Ela quase pegou uma cola no exame de química.",
+    "sent2_en": "She almost cheated with a cheat sheet on the chemistry exam.",
+    "sent2_span": "pegou uma cola",
+    "notes": "'Cola' here means a cheat sheet, not glue; common student slang.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "pegar a visão",
+    "item_full": "",
+    "gloss": "to get the idea, catch someone's drift",
+    "sent1": "Você pegou a visão do que eu quis dizer?",
+    "sent1_en": "Did you get what I meant?",
+    "sent2": "Assim que ele explicou, todo mundo pegou a visão na hora.",
+    "sent2_en": "As soon as he explained, everyone got it right away.",
+    "sent2_span": "pegou a visão",
+    "notes": "Youth slang meaning to understand or catch someone's point.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "passar mal",
+    "item_full": "",
+    "gloss": "to feel sick, get sick",
+    "sent1": "Ela passou mal depois de comer aquele peixe.",
+    "sent1_en": "She got sick after eating that fish.",
+    "sent2": "Eu passei muito mal na viagem de ônibus.",
+    "sent2_en": "I felt really sick on the bus trip.",
+    "sent2_span": "passei muito mal",
+    "notes": "Common way to say 'to feel sick' or 'get sick', often from food or motion.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "passar dos limites",
+    "item_full": "",
+    "gloss": "to cross the line, go too far",
+    "sent1": "Aquela piada passou dos limites, cara.",
+    "sent1_en": "That joke crossed the line, man.",
+    "sent2": "Ele sempre passa dos limites quando bebe demais.",
+    "sent2_en": "He always goes too far when he drinks too much.",
+    "sent2_span": "passa dos limites",
+    "notes": "Means to cross the line or go too far in behavior.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "passar batido",
+    "item_full": "",
+    "gloss": "to go unnoticed, slip by",
+    "sent1": "O erro passou batido e ninguém percebeu.",
+    "sent1_en": "The mistake went unnoticed and nobody caught it.",
+    "sent2": "Esse detalhe pode passar batido se você não prestar atenção.",
+    "sent2_en": "This detail can slip by if you don't pay attention.",
+    "sent2_span": "passar batido",
+    "notes": "Means something goes unnoticed or slips by without being caught.",
+    "cuidado": "",
+    "ear": "final -r cai: passar -> [paˈsa]",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "passar a perna em",
+    "item_full": "",
+    "gloss": "to trick, cheat, con someone",
+    "sent1": "Aquele vendedor passou a perna em vários clientes.",
+    "sent1_en": "That salesman conned several customers.",
+    "sent2": "Cuidado pra ele não passar a perna em você também.",
+    "sent2_en": "Watch out, don't let him con you too.",
+    "sent2_span": "passar a perna em você",
+    "notes": "Idiom meaning to trick, cheat, or con someone.",
+    "cuidado": "⚠️ No tiene nada que ver con la pierna literal. Significa engañar o timar a alguien.",
+    "ear": "final -r cai: passar -> [paˈsa]",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "passar pano (para)",
+    "item_full": "",
+    "gloss": "to cover up for, turn a blind eye to",
+    "sent1": "Ninguém devia passar pano pra esse tipo de erro.",
+    "sent1_en": "Nobody should cover up for that kind of mistake.",
+    "sent2": "Ela sempre passa pano para as bagunças do irmão.",
+    "sent2_en": "She always covers up for her brother's messes.",
+    "sent2_span": "passa pano para",
+    "notes": "Means to cover up for someone or turn a blind eye to a mistake.",
+    "cuidado": "",
+    "ear": "final -r cai: passar -> [paˈsa]",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "passar a mão na cabeça (de)",
+    "item_full": "",
+    "gloss": "to let someone off easy, go soft on someone",
+    "sent1": "O juiz não devia passar a mão na cabeça de criminoso.",
+    "sent1_en": "The judge shouldn't go soft on criminals.",
+    "sent2": "Os pais passam a mão na cabeça do caçula direto.",
+    "sent2_en": "The parents always let the youngest one off easy.",
+    "sent2_span": "passam a mão na cabeça do caçula",
+    "notes": "Means to let someone off easy or go soft on their mistakes.",
+    "cuidado": "",
+    "ear": "final -r cai: passar -> [paˈsa]",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "passar vergonha",
+    "item_full": "",
+    "gloss": "to be embarrassed, make a fool of oneself",
+    "sent1": "Eu passei vergonha na frente de todo mundo ontem.",
+    "sent1_en": "I embarrassed myself in front of everyone yesterday.",
+    "sent2": "Ele vai passar vergonha se continuar falando bobagem assim.",
+    "sent2_en": "He's going to embarrass himself if he keeps talking nonsense like that.",
+    "sent2_span": "passar vergonha",
+    "notes": "Means to be embarrassed or make a fool of oneself in public.",
+    "cuidado": "",
+    "ear": "final -r cai: passar -> [paˈsa]",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "passar a limpo",
+    "item_full": "",
+    "gloss": "to clean up, clarify, sort out",
+    "sent1": "Preciso passar esse rascunho a limpo antes de entregar.",
+    "sent1_en": "I need to clean up this draft before turning it in.",
+    "sent2": "A gente precisa passar essa história a limpo antes que vire fofoca.",
+    "sent2_en": "We need to sort this story out before it turns into gossip.",
+    "sent2_span": "passar essa história a limpo",
+    "notes": "Means to clean up a draft, or to clarify/sort out a confusing situation.",
+    "cuidado": "",
+    "ear": "final -r cai: passar -> [paˈsa]",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "passar o rodo",
+    "item_full": "",
+    "gloss": "to wipe the floor with (an opponent), win big",
+    "sent1": "O time passou o rodo no adversário ontem.",
+    "sent1_en": "The team wiped the floor with the opponent yesterday.",
+    "sent2": "Ela passou o rodo na prova de matemática.",
+    "sent2_en": "She totally aced the math test.",
+    "sent2_span": "passou o rodo",
+    "notes": "Literally 'to run the squeegee/mop' - figurative for total domination in a competition or contest.",
+    "cuidado": "",
+    "ear": "final -o -> u: rodo -> [ˈʁɔdu]",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "deixa pra lá",
+    "item_full": "deixa para lá",
+    "gloss": "let it go, don't worry about it",
+    "sent1": "Deixa pra lá, não vale a pena brigar por isso.",
+    "sent1_en": "Let it go, it's not worth fighting over.",
+    "sent2": "Ah, deixa pra lá, amanhã a gente resolve isso.",
+    "sent2_en": "Ah, let it go, we'll sort it out tomorrow.",
+    "sent2_span": "deixa pra lá",
+    "notes": "Very common filler to dismiss a topic or wave off a small annoyance.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R4"
+    ]
+  },
+  {
+    "item": "deixar na mão",
+    "item_full": "",
+    "gloss": "to leave someone hanging, let someone down",
+    "sent1": "Ele deixou os amigos na mão na hora do aperto.",
+    "sent1_en": "He left his friends hanging when things got tough.",
+    "sent2": "Não deixa a gente na mão, hein, preciso de você amanhã.",
+    "sent2_en": "Don't leave us hanging, okay, I need you tomorrow.",
+    "sent2_span": "deixa a gente na mão",
+    "notes": "Used for failing to show up or come through for someone who was counting on you.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "deixar rolar",
+    "item_full": "",
+    "gloss": "to let it happen, go with the flow",
+    "sent1": "Deixa rolar, vai que dá certo.",
+    "sent1_en": "Let it happen, maybe it'll work out.",
+    "sent2": "Melhor deixar rolar do que forçar a situação.",
+    "sent2_en": "Better to let things flow than force the situation.",
+    "sent2_span": "deixar rolar",
+    "notes": "Relaxed, non-controlling attitude toward events or a budding situation.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "deixa comigo",
+    "item_full": "",
+    "gloss": "leave it to me, I've got this",
+    "sent1": "Deixa comigo que eu resolvo isso rapidinho.",
+    "sent1_en": "Leave it to me, I'll sort this out quickly.",
+    "sent2": "Se precisar de ajuda com a mudança, deixa comigo.",
+    "sent2_en": "If you need help with the move, leave it to me.",
+    "sent2_span": "deixa comigo",
+    "notes": "Reassures someone that you'll handle a task or problem.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "deixar a desejar",
+    "item_full": "",
+    "gloss": "to fall short, leave something to be desired",
+    "sent1": "O atendimento do restaurante deixou a desejar ontem.",
+    "sent1_en": "The restaurant's service fell short yesterday.",
+    "sent2": "A qualidade do produto deixa muito a desejar.",
+    "sent2_en": "The product's quality leaves a lot to be desired.",
+    "sent2_span": "deixa muito a desejar",
+    "notes": "Neutral-to-mild criticism, softer than saying something is simply bad.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ir fundo",
+    "item_full": "",
+    "gloss": "to go all in, dig deep, go for it fully",
+    "sent1": "Ela foi fundo na pesquisa antes de decidir.",
+    "sent1_en": "She went deep into the research before deciding.",
+    "sent2": "Se vai fazer, vai fundo, não adianta meio termo.",
+    "sent2_en": "If you're gonna do it, go all in, there's no point in half measures.",
+    "sent2_span": "vai fundo",
+    "notes": "Encourages full commitment or thoroughness rather than doing something halfway.",
+    "cuidado": "",
+    "ear": "final -o -> u: fundo -> [ˈfũdu]",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ir com tudo",
+    "item_full": "",
+    "gloss": "to go all out, give it everything",
+    "sent1": "Ele foi com tudo na entrevista de emprego.",
+    "sent1_en": "He went all out on the job interview.",
+    "sent2": "Vamos com tudo nessa final, galera!",
+    "sent2_en": "Let's go all out in this final, guys!",
+    "sent2_span": "vamos com tudo",
+    "notes": "High-energy encouragement, common in sports and competitive contexts.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "ir na fé",
+    "item_full": "",
+    "gloss": "to go on faith, trust it and go for it",
+    "sent1": "Não sei se vai dar certo, mas vou na fé mesmo assim.",
+    "sent1_en": "I don't know if it'll work, but I'm going on faith anyway.",
+    "sent2": "A gente foi na fé e comprou o carro sem revisar.",
+    "sent2_en": "We just went on faith and bought the car without inspecting it.",
+    "sent2_span": "foi na fé",
+    "notes": "Trusting a decision without full certainty or verification beforehand.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "ir embora",
+    "item_full": "",
+    "gloss": "to leave, go away",
+    "sent1": "Já vou embora, tá ficando tarde.",
+    "sent1_en": "I'm leaving now, it's getting late.",
+    "sent2": "Ela foi embora sem se despedir de ninguém.",
+    "sent2_en": "She left without saying goodbye to anyone.",
+    "sent2_span": "foi embora",
+    "notes": "The everyday way to say 'leave/go away', much more common than 'sair' in this sense.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "não ir com a cara de alguém",
+    "item_full": "",
+    "gloss": "to not take a liking to someone, dislike on sight",
+    "sent1": "Eu não fui com a cara dele desde o primeiro dia.",
+    "sent1_en": "I didn't take a liking to him from day one.",
+    "sent2": "Ela não vai com a cara da nova gerente, nem sei por quê.",
+    "sent2_en": "She doesn't like the new manager, not even sure why.",
+    "sent2_span": "não vai com a cara da",
+    "notes": "Instant, often unexplained dislike toward a person based on first impression.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "levar um fora",
+    "item_full": "",
+    "gloss": "to get rejected, get shot down (romantically)",
+    "sent1": "Ele levou um fora daquela menina no bar.",
+    "sent1_en": "He got shot down by that girl at the bar.",
+    "sent2": "Já levei um fora daquele jeito, foi constrangedor.",
+    "sent2_en": "I got rejected like that once, it was awkward.",
+    "sent2_span": "levei um fora",
+    "notes": "Almost always about romantic rejection, from a direct 'no' to being brushed off.",
+    "cuidado": "⚠️ 'fora' aquí no es 'afuera' - en esta expresión significa un rechazo, un plantón.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "levar na esportiva",
+    "item_full": "",
+    "gloss": "to take it in stride, be a good sport about it",
+    "sent1": "Perdeu o jogo, mas levou na esportiva.",
+    "sent1_en": "He lost the game, but took it in stride.",
+    "sent2": "Levei na esportiva quando não fui escolhido pro time.",
+    "sent2_en": "I took it in stride when I wasn't picked for the team.",
+    "sent2_span": "levei na esportiva",
+    "notes": "Reacting to a loss or setback gracefully, without complaining.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "levar a sério",
+    "item_full": "",
+    "gloss": "to take seriously",
+    "sent1": "Você precisa levar isso a sério, é importante.",
+    "sent1_en": "You need to take this seriously, it's important.",
+    "sent2": "Ninguém levou o aviso a sério até ser tarde demais.",
+    "sent2_en": "Nobody took the warning seriously until it was too late.",
+    "sent2_span": "levou o aviso a sério",
+    "notes": "",
+    "cuidado": "",
+    "ear": "sério -> [ˈsɛɾju], o final soa como u",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "levar na cabeça",
+    "item_full": "",
+    "gloss": "to end up taking the hit, lose out",
+    "sent1": "Se der errado, quem vai levar na cabeça sou eu.",
+    "sent1_en": "If it goes wrong, I'm the one who'll take the hit.",
+    "sent2": "A empresa levou na cabeça com a crise e teve que fechar.",
+    "sent2_en": "The company took a hit from the crisis and had to close.",
+    "sent2_span": "levou na cabeça",
+    "notes": "About suffering the consequences or coming out worse off, not literally about heads.",
+    "cuidado": "⚠️ No es literal 'llevar en la cabeza'. Significa salir perjudicado o cargar con las consecuencias.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "levar fé (em)",
+    "item_full": "",
+    "gloss": "to trust in, believe in (colloquial)",
+    "sent1": "Levo fé em você, vai dar tudo certo.",
+    "sent1_en": "I have faith in you, it'll all work out.",
+    "sent2": "A galera não levava fé no time, mas ele foi campeão.",
+    "sent2_en": "People didn't believe in the team, but it became champion.",
+    "sent2_span": "levava fé no time",
+    "notes": "Casual way to express confidence or trust in someone/something's chances.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "botar pra quebrar",
+    "item_full": "botar para quebrar",
+    "gloss": "to go all out, crush it, do amazing",
+    "sent1": "Ela botou pra quebrar na apresentação de hoje.",
+    "sent1_en": "She crushed it in today's presentation.",
+    "sent2": "Bota pra quebrar nessa prova, você estudou bastante!",
+    "sent2_en": "Crush it in this exam, you studied a lot!",
+    "sent2_span": "bota pra quebrar",
+    "notes": "Enthusiastic encouragement to perform at your absolute best.",
+    "cuidado": "⚠️ 'botar' aquí es 'poner/lanzarse a', no 'botar' (tirar) como en español.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "botar a boca no trombone",
+    "item_full": "",
+    "gloss": "to speak out publicly, blow the whistle",
+    "sent1": "Ela botou a boca no trombone e contou tudo pra imprensa.",
+    "sent1_en": "She blew the whistle and told the press everything.",
+    "sent2": "Se continuar assim, vou botar a boca no trombone.",
+    "sent2_en": "If it keeps up like this, I'm going to speak out publicly.",
+    "sent2_span": "botar a boca no trombone",
+    "notes": "Making a complaint or a secret loudly and publicly known.",
+    "cuidado": "⚠️ 'botar' aquí es 'poner', no 'botar' (tirar) como en español.",
+    "ear": "trombone -> [tɾõˈbɔni], om nasal + e final soa como i",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "botar minhoca na cabeça",
+    "item_full": "",
+    "gloss": "to put weird ideas in someone's head, make paranoid",
+    "sent1": "Para de botar minhoca na cabeça dele com essas histórias.",
+    "sent1_en": "Stop putting weird ideas in his head with those stories.",
+    "sent2": "Ela vive botando minhoca na cabeça da irmã sem motivo.",
+    "sent2_en": "She's always putting paranoid ideas in her sister's head for no reason.",
+    "sent2_span": "botando minhoca na cabeça",
+    "notes": "About planting unfounded suspicions or worries in someone's mind.",
+    "cuidado": "⚠️ 'botar' aquí es 'poner', no 'botar' (tirar) como en español.",
+    "ear": "nh = nasal palatal, como la ñ: minhoca -> [miˈɲɔka]",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "botar a mão no fogo (por alguém)",
+    "item_full": "",
+    "gloss": "to vouch for someone, swear by someone",
+    "sent1": "Eu boto a mão no fogo por ela, é gente boa.",
+    "sent1_en": "I'd vouch for her, she's a good person.",
+    "sent2": "Ele botou a mão no fogo pelo amigo na frente de todo mundo.",
+    "sent2_en": "He vouched for his friend in front of everyone.",
+    "sent2_span": "botou a mão no fogo pelo",
+    "notes": "Expressing strong personal trust in someone's character or honesty.",
+    "cuidado": "⚠️ 'botar' aquí es 'poner', no 'botar' (tirar) como en español.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "jogar fora",
+    "item_full": "",
+    "gloss": "to throw away",
+    "sent1": "Ele jogou fora a comida que sobrou.",
+    "sent1_en": "He threw away the leftover food.",
+    "sent2": "Joga fora esse saco de lixo, por favor.",
+    "sent2_en": "Throw away that trash bag, please.",
+    "sent2_span": "Joga fora",
+    "notes": "Literally 'to throw outside'; means to discard something.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "jogar conversa fora",
+    "item_full": "",
+    "gloss": "to chat, shoot the breeze",
+    "sent1": "A gente ficou jogando conversa fora até tarde.",
+    "sent1_en": "We ended up chatting until late.",
+    "sent2": "Vamos jogar conversa fora enquanto espera o ônibus?",
+    "sent2_en": "Shall we chat while waiting for the bus?",
+    "sent2_span": "jogar conversa fora",
+    "notes": "Literally 'to throw conversation out'; means casual, aimless chatting.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "tomar conta (de)",
+    "item_full": "",
+    "gloss": "to look after, take care of",
+    "sent1": "Minha irmã tomou conta do meu cachorro esse fim de semana.",
+    "sent1_en": "My sister looked after my dog this weekend.",
+    "sent2": "Quem vai tomar conta das crianças hoje à noite?",
+    "sent2_en": "Who's going to look after the kids tonight?",
+    "sent2_span": "tomar conta das crianças",
+    "notes": "Followed by 'de' + the person or thing being cared for.",
+    "cuidado": "⚠️ No es 'tomar cuenta' de algo (contabilizar); significa cuidar de alguien.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "tomar um susto",
+    "item_full": "",
+    "gloss": "to get a scare, be startled",
+    "sent1": "Eu tomei um susto quando o carro buzinou do nada.",
+    "sent1_en": "I got scared when the car honked out of nowhere.",
+    "sent2": "Ela tomou um susto enorme com o barulho da porta.",
+    "sent2_en": "She got a huge scare from the noise of the door.",
+    "sent2_span": "tomou um susto enorme",
+    "notes": "Literally 'to take a fright'.",
+    "cuidado": "⚠️ En español se dice 'llevarse un susto', no 'tomar'; en portugués es 'tomar um susto'.",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "tomar uma",
+    "item_full": "",
+    "gloss": "to have a drink",
+    "sent1": "Bora tomar uma depois do trabalho?",
+    "sent1_en": "Want to grab a drink after work?",
+    "sent2": "Ele foi tomar uma com os amigos no bar.",
+    "sent2_en": "He went to have a drink with friends at the bar.",
+    "sent2_span": "tomar uma",
+    "notes": "'Uma' implies a drink (beer, shot) left unsaid; a common casual invite.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5"
+    ]
+  },
+  {
+    "item": "tomar jeito",
+    "item_full": "",
+    "gloss": "to shape up, mend one's ways",
+    "sent1": "Ele precisa tomar jeito antes que perca o emprego.",
+    "sent1_en": "He needs to shape up before he loses his job.",
+    "sent2": "Vê se toma jeito e para de chegar atrasado.",
+    "sent2_en": "Try to shape up and stop showing up late.",
+    "sent2_span": "toma jeito",
+    "notes": "Often used as a scolding imperative: 'toma jeito!'",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "chunk",
+    "rules": [
+      "R5",
+      "R1"
+    ]
+  },
+  {
+    "item": "a gente vai",
+    "item_full": "",
+    "gloss": "we go, we're going",
+    "sent1": "A gente vai pra praia amanhã de manhã.",
+    "sent1_en": "We're going to the beach tomorrow morning.",
+    "sent2": "Se chover, a gente vai ficar em casa mesmo.",
+    "sent2_en": "If it rains, we'll just stay home.",
+    "sent2_span": "a gente vai",
+    "notes": "'A gente' takes a 3rd-person-singular verb, never 'vamos' after it.",
+    "cuidado": "⚠️ 'A gente' equivale a 'nosotros' pero el verbo va en 3ª persona singular, no como en español.",
+    "ear": "",
+    "stratum": "reducao",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "a gente tá cansado",
+    "item_full": "a gente está cansado",
+    "gloss": "we're tired",
+    "sent1": "A gente tá cansado depois dessa viagem toda.",
+    "sent1_en": "We're tired after this whole trip.",
+    "sent2": "Depois do jogo a gente tá cansado demais pra sair.",
+    "sent2_en": "After the game we're too tired to go out.",
+    "sent2_span": "a gente tá cansado demais",
+    "notes": "The adjective stays masculine singular ('cansado'), agreeing with 'a gente' as grammatically singular, even for a mixed or plural group.",
+    "cuidado": "⚠️ El adjetivo concuerda en singular ('cansado'), no en plural, porque 'a gente' es gramaticalmente singular.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "vamo embora / bora",
+    "item_full": "vamos embora",
+    "gloss": "let's go, c'mon",
+    "sent1": "Vamo embora, o show já vai começar.",
+    "sent1_en": "Let's go, the show's about to start.",
+    "sent2": "Bora, já tá tarde e a gente precisa ir.",
+    "sent2_en": "C'mon, it's already late and we need to go.",
+    "sent2_span": "Bora",
+    "notes": "'Bora' is a short clip of 'embora'; both mean 'let's go' or 'get going'.",
+    "cuidado": "",
+    "ear": "vamo embora -> [vamoeˈmbɔɾa], often clipped to just 'bora'",
+    "stratum": "estrutura",
+    "rules": [
+      "R1",
+      "R3"
+    ]
+  },
+  {
+    "item": "tá ligado",
+    "item_full": "está ligado",
+    "gloss": "you know?, get it? (slang comprehension check)",
+    "sent1": "Ele é meio estranho, mas é gente boa, tá ligado?",
+    "sent1_en": "He's a bit weird, but he's a good guy, you know?",
+    "sent2": "Isso aqui é sério, tá ligado, não é brincadeira.",
+    "sent2_en": "This here is serious, you know, it's not a joke.",
+    "sent2_span": "tá ligado",
+    "notes": "Slang filler/tag question, common among younger speakers; literally 'is connected'.",
+    "cuidado": "⚠️ No significa 'está conectado' literalmente en este uso; es una muletilla tipo '¿me entiendes?'.",
+    "ear": "",
+    "stratum": "marcador",
+    "rules": [
+      "R1",
+      "R3",
+      "R4",
+      "R5"
+    ]
+  },
+  {
+    "item": "a gente (pronome geral)",
+    "item_full": "",
+    "gloss": "we, people (in general), one",
+    "sent1": "Aqui a gente não costuma sair tarde da noite.",
+    "sent1_en": "Around here people don't usually go out late at night.",
+    "sent2": "No trabalho a gente tem que chegar cedo sempre.",
+    "sent2_en": "At work you always have to arrive early.",
+    "sent2_span": "a gente",
+    "notes": "Impersonal/general use, similar to English generic 'you' or 'people'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R1",
+      "R6"
+    ]
+  },
+  {
+    "item": "tem muita gente aqui",
+    "item_full": "",
+    "gloss": "there are a lot of people here",
+    "sent1": "Nossa, tem muita gente aqui hoje na festa.",
+    "sent1_en": "Wow, there are a lot of people here at the party today.",
+    "sent2": "Não vou entrar, tem muita gente aqui na fila.",
+    "sent2_en": "I'm not going in, there are a lot of people here in line.",
+    "sent2_span": "tem muita gente aqui na fila",
+    "notes": "'Tem' (from 'ter') replaces 'há' for 'there is/are' in spoken Brazilian Portuguese.",
+    "cuidado": "⚠️ En español no se usa 'tener' para 'hay'; en el portugués hablado 'tem' reemplaza a 'há'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "não tem ninguém",
+    "item_full": "",
+    "gloss": "there's nobody, no one's here",
+    "sent1": "Bati na porta mas não tem ninguém em casa.",
+    "sent1_en": "I knocked on the door but there's nobody home.",
+    "sent2": "Olha lá dentro, acho que não tem ninguém na sala.",
+    "sent2_en": "Look inside, I think there's nobody in the room.",
+    "sent2_span": "não tem ninguém na sala",
+    "notes": "'Tem' + 'ninguém' is the spoken alternative to 'não há ninguém'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "tem alguém aí?",
+    "item_full": "",
+    "gloss": "is anyone there?",
+    "sent1": "Tem alguém aí? Eu ouvi um barulho estranho.",
+    "sent1_en": "Is anyone there? I heard a strange noise.",
+    "sent2": "Ela bateu na porta e perguntou: tem alguém aí?",
+    "sent2_en": "She knocked on the door and asked, is anyone there?",
+    "sent2_span": "tem alguém aí",
+    "notes": "Common phrase to check for someone's presence, e.g. at a door or on the phone.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "não tem jeito",
+    "item_full": "",
+    "gloss": "there's no way, nothing can be done",
+    "sent1": "Já tentei de tudo, não tem jeito, vai ter que comprar outro.",
+    "sent1_en": "I already tried everything, there's no way, we'll have to buy another one.",
+    "sent2": "Ele é teimoso assim mesmo, não tem jeito.",
+    "sent2_en": "He's just stubborn like that, there's no fixing it.",
+    "sent2_span": "não tem jeito",
+    "notes": "Expresses resignation about a situation or a person's unchangeable trait.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6",
+      "R5"
+    ]
+  },
+  {
+    "item": "cabô / acabou (em fala)",
+    "item_full": "acabou",
+    "gloss": "it's over, all done, finished",
+    "sent1": "Cabô o café, precisa comprar mais.",
+    "sent1_en": "The coffee's finished, we need to buy more.",
+    "sent2": "Corre que o filme já cabô e todo mundo tá saindo.",
+    "sent2_en": "Hurry, the movie's already over and everyone's leaving.",
+    "sent2_span": "cabô",
+    "notes": "'Cabô' is the colloquial spoken clip of 'acabou' (it ended/finished).",
+    "cuidado": "",
+    "ear": "acabou -> cabô: initial syllable drops in fast speech",
+    "stratum": "estrutura",
+    "rules": [
+      "R3"
+    ]
+  },
+  {
+    "item": "quando eu for",
+    "item_full": "",
+    "gloss": "when I go",
+    "sent1": "Quando eu for pro mercado, eu compro pão.",
+    "sent1_en": "When I go to the market, I'll buy bread.",
+    "sent2": "Te aviso quando eu for embora daqui.",
+    "sent2_en": "I'll let you know when I leave here.",
+    "sent2_span": "quando eu for embora",
+    "notes": "Future subjunctive of 'ir', used after 'quando' for future actions.",
+    "cuidado": "⚠️ No es 'cuando yo voy' (presente); se usa el futuro de subjuntivo, 'for'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "se eu tiver tempo",
+    "item_full": "",
+    "gloss": "if I have time",
+    "sent1": "Se eu tiver tempo, eu passo aí mais tarde.",
+    "sent1_en": "If I have time, I'll stop by later.",
+    "sent2": "A gente vai no cinema se eu tiver tempo à noite.",
+    "sent2_en": "We'll go to the movies if I have time tonight.",
+    "sent2_span": "se eu tiver tempo à noite",
+    "notes": "Future subjunctive of 'ter', used for hypothetical future conditions.",
+    "cuidado": "⚠️ En español sería 'si tengo tiempo' (presente); en portugués se usa el futuro de subjuntivo 'tiver'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "assim que ele chegar",
+    "item_full": "",
+    "gloss": "as soon as he arrives",
+    "sent1": "Assim que ele chegar, a gente já sai pro jantar.",
+    "sent1_en": "As soon as he arrives, we'll head out to dinner.",
+    "sent2": "Me liga assim que ele chegar em casa.",
+    "sent2_en": "Call me as soon as he gets home.",
+    "sent2_span": "assim que ele chegar em casa",
+    "notes": "Future subjunctive after 'assim que' for future sequential actions.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "enquanto puder",
+    "item_full": "",
+    "gloss": "while/as long as (one) can",
+    "sent1": "Vou estudar português enquanto puder, viu?",
+    "sent1_en": "I'm going to study Portuguese while I can, you know?",
+    "sent2": "Ela disse que vai trabalhar aqui enquanto puder.",
+    "sent2_en": "She said she'll work here as long as she can.",
+    "sent2_span": "enquanto puder",
+    "notes": "Future subjunctive of 'poder', used after 'enquanto' for open-ended future situations.",
+    "cuidado": "",
+    "ear": "final -r softens/drops in casual speech: puder -> [puˈdeh]",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "se quiser",
+    "item_full": "",
+    "gloss": "if you want / if he/she wants",
+    "sent1": "Você pode ficar aqui se quiser.",
+    "sent1_en": "You can stay here if you want.",
+    "sent2": "Ele pode vir também se quiser.",
+    "sent2_en": "He can come too if he wants.",
+    "sent2_span": "se quiser",
+    "notes": "Future subjunctive of 'querer' after 'se'; subject stays implicit and is read from context.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "quando der",
+    "item_full": "",
+    "gloss": "when there's time / when it works out",
+    "sent1": "A gente se fala quando der, tá bom?",
+    "sent1_en": "We'll talk when there's time, okay?",
+    "sent2": "Ela vai passar aqui quando der.",
+    "sent2_en": "She'll stop by when she gets the chance.",
+    "sent2_span": "quando der",
+    "notes": "Impersonal future-subjunctive use of 'dar' meaning 'when it becomes possible'.",
+    "cuidado": "⚠️ No es 'cuando dé' de regalar algo; es un uso impersonal que significa 'cuando sea posible'.",
+    "ear": "final -r softens/drops in casual speech: der -> [dɛh]",
+    "stratum": "estrutura",
+    "rules": [
+      "R6",
+      "R5"
+    ]
+  },
+  {
+    "item": "se precisar",
+    "item_full": "",
+    "gloss": "if you need (to)",
+    "sent1": "Me liga se precisar de alguma coisa.",
+    "sent1_en": "Call me if you need anything.",
+    "sent2": "Ele vai te ajudar se precisar.",
+    "sent2_en": "He'll help you if you need it.",
+    "sent2_span": "se precisar",
+    "notes": "Future subjunctive of 'precisar' after 'se', for an open future condition.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "o que você quiser",
+    "item_full": "",
+    "gloss": "whatever you want",
+    "sent1": "Pede o que você quiser, eu pago.",
+    "sent1_en": "Order whatever you want, I'll pay.",
+    "sent2": "A gente pode assistir o que você quiser hoje.",
+    "sent2_en": "We can watch whatever you want today.",
+    "sent2_span": "o que você quiser",
+    "notes": "Future subjunctive after the indefinite relative 'o que'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "se Deus quiser",
+    "item_full": "",
+    "gloss": "God willing",
+    "sent1": "A gente se vê semana que vem, se Deus quiser.",
+    "sent1_en": "We'll see each other next week, God willing.",
+    "sent2": "Ano que vem eu formo, se Deus quiser.",
+    "sent2_en": "Next year I graduate, God willing.",
+    "sent2_span": "se Deus quiser",
+    "notes": "Fixed expression of hope, said constantly in casual speech regardless of how religious the speaker is.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "quando ela vier",
+    "item_full": "",
+    "gloss": "when she comes",
+    "sent1": "Quando ela vier, a gente conversa melhor.",
+    "sent1_en": "When she comes, we'll talk better.",
+    "sent2": "Vou avisar quando ela vier pra festa.",
+    "sent2_en": "I'll let you know when she comes to the party.",
+    "sent2_span": "quando ela vier",
+    "notes": "Future subjunctive of 'vir' ('vier'), used for events that haven't happened yet.",
+    "cuidado": "⚠️ No es como el imperfecto de subjuntivo español 'viniera'; 'vier' es futuro de subjuntivo, para algo que todavía no pasó.",
+    "ear": "final -r softens/drops in casual speech: vier -> [vjɛh]",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "se der certo",
+    "item_full": "",
+    "gloss": "if it works out",
+    "sent1": "Se der certo, a gente muda de cidade ano que vem.",
+    "sent1_en": "If it works out, we'll move to a new city next year.",
+    "sent2": "Vamos tentar, e se der certo, ótimo.",
+    "sent2_en": "Let's try, and if it works out, great.",
+    "sent2_span": "se der certo",
+    "notes": "Impersonal 'dar certo' = to work out/succeed; future subjunctive after 'se'.",
+    "cuidado": "⚠️ No es 'dar cierto'; 'dar certo' significa 'funcionar, salir bien'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6",
+      "R5"
+    ]
+  },
+  {
+    "item": "para nós fazermos",
+    "item_full": "",
+    "gloss": "for us to do/make",
+    "sent1": "Ela separou os ingredientes para nós fazermos o bolo.",
+    "sent1_en": "She set aside the ingredients for us to make the cake.",
+    "sent2": "Marcaram uma reunião para nós fazermos o relatório juntos.",
+    "sent2_en": "They scheduled a meeting for us to do the report together.",
+    "sent2_span": "para nós fazermos",
+    "notes": "Personal infinitive: 'fazermos' agrees with 'nós' on its own, no separate subjunctive clause needed.",
+    "cuidado": "⚠️ El español no tiene infinitivo personal; usa 'para que hagamos'. El portugués solo conjuga el infinitivo: 'fazermos'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "é importante vocês virem",
+    "item_full": "",
+    "gloss": "it's important that you all come",
+    "sent1": "É importante vocês virem cedo amanhã.",
+    "sent1_en": "It's important that you all come early tomorrow.",
+    "sent2": "Ele disse que é importante vocês virem na reunião.",
+    "sent2_en": "He said it's important that you all come to the meeting.",
+    "sent2_span": "é importante vocês virem",
+    "notes": "Personal infinitive 'virem' replaces a subjunctive clause; very common in spoken BR.",
+    "cuidado": "⚠️ El español necesita subjuntivo 'que vengan'; el portugués usa infinitivo personal 'virem', sin 'que'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "antes de eles chegarem",
+    "item_full": "",
+    "gloss": "before they arrive",
+    "sent1": "A gente precisa arrumar tudo antes de eles chegarem.",
+    "sent1_en": "We need to tidy everything up before they arrive.",
+    "sent2": "Vamos sair antes de eles chegarem em casa.",
+    "sent2_en": "Let's leave before they get home.",
+    "sent2_span": "antes de eles chegarem",
+    "notes": "Personal infinitive after 'antes de'; no subjunctive clause needed.",
+    "cuidado": "⚠️ En español se usa 'antes de que + subjuntivo'; en portugués basta 'antes de + infinitivo personal', sin 'que'.",
+    "ear": "-em nasal diphthong ending: chegarem -> [ʃeɡaˈɾẽj]",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "ao sairmos",
+    "item_full": "",
+    "gloss": "as/when we leave (left)",
+    "sent1": "Ao sairmos do cinema, começou a chover.",
+    "sent1_en": "As we left the movies, it started raining.",
+    "sent2": "Ao sairmos de casa, esquecemos a chave.",
+    "sent2_en": "As we left the house, we forgot the key.",
+    "sent2_span": "ao sairmos",
+    "notes": "Personal infinitive with 'ao' expressing a simultaneous action, like Spanish 'al + infinitivo'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "sem eles saberem",
+    "item_full": "",
+    "gloss": "without them knowing",
+    "sent1": "A gente saiu de fininho sem eles saberem.",
+    "sent1_en": "We snuck out without them knowing.",
+    "sent2": "Ele mudou os planos sem eles saberem de nada.",
+    "sent2_en": "He changed the plans without them knowing anything.",
+    "sent2_span": "sem eles saberem",
+    "notes": "Personal infinitive after 'sem'; replaces Spanish's 'sin que + subjuntivo'.",
+    "cuidado": "⚠️ El español necesita 'sin que + subjuntivo'; el portugués usa 'sem + infinitivo personal', sin 'que'.",
+    "ear": "-em nasal diphthong ending: saberem -> [sabeˈɾẽj]",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "depois de comermos",
+    "item_full": "",
+    "gloss": "after we eat/ate",
+    "sent1": "Depois de comermos, a gente assiste um filme.",
+    "sent1_en": "After we eat, we'll watch a movie.",
+    "sent2": "Depois de comermos na casa dela, fomos passear.",
+    "sent2_en": "After we ate at her place, we went for a walk.",
+    "sent2_span": "depois de comermos",
+    "notes": "Personal infinitive after 'depois de'; works for future or past depending on context.",
+    "cuidado": "⚠️ El español necesita 'después de que + subjuntivo'; el portugués usa 'depois de + infinitivo personal', sin 'que'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "ficar (permanecer)",
+    "item_full": "",
+    "gloss": "to stay, remain (in a place)",
+    "sent1": "Vou ficar em casa esse fim de semana.",
+    "sent1_en": "I'm going to stay home this weekend.",
+    "sent2": "Ela vai ficar no Rio até sexta.",
+    "sent2_en": "She's going to stay in Rio until Friday.",
+    "sent2_span": "vai ficar",
+    "notes": "One of several senses of 'ficar'; here it means to stay/remain, not 'to become' or 'to be located'.",
+    "cuidado": "⚠️ 'Ficar' aquí no es reflexivo como 'quedarse'; se usa sin 'se': 'fico' (no 'me fico').",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R1"
+    ]
+  },
+  {
+    "item": "ficar (localizar-se)",
+    "item_full": "",
+    "gloss": "to be (located)",
+    "sent1": "O mercado fica bem pertinho daqui.",
+    "sent1_en": "The market is really close to here.",
+    "sent2": "Onde fica a estação de metrô mais próxima?",
+    "sent2_en": "Where's the nearest subway station?",
+    "sent2_span": "fica",
+    "notes": "Used to say where something is located, similar to Spanish 'quedar'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R1"
+    ]
+  },
+  {
+    "item": "estar com fome",
+    "item_full": "",
+    "gloss": "to be hungry",
+    "sent1": "Já tô com fome, vamos almoçar?",
+    "sent1_en": "I'm already hungry, should we get lunch?",
+    "sent2": "Ele tava com fome e comeu tudo rapidinho.",
+    "sent2_en": "He was hungry and ate everything really fast.",
+    "sent2_span": "tava com fome",
+    "notes": "'Estar com fome', not 'ter fome', is the everyday spoken form; 'tô'/'tava' are reduced forms of 'estar'.",
+    "cuidado": "⚠️ No es 'tener hambre' con tener; en portugués se usa 'estar com fome', con estar.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "estar com sede",
+    "item_full": "",
+    "gloss": "to be thirsty",
+    "sent1": "Depois da corrida eu tava com muita sede.",
+    "sent1_en": "After the run I was really thirsty.",
+    "sent2": "Você tá com sede? Tem água na geladeira.",
+    "sent2_en": "Are you thirsty? There's water in the fridge.",
+    "sent2_span": "tá com sede",
+    "notes": "'Estar com sede', not 'ter sede'; 'tá' and 'tava' are spoken reductions of 'está'/'estava'.",
+    "cuidado": "⚠️ No es 'tener sed' con tener; se usa 'estar com sede'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "estar com sono",
+    "item_full": "",
+    "gloss": "to be sleepy",
+    "sent1": "Já tô com sono, vou dormir cedo hoje.",
+    "sent1_en": "I'm already sleepy, I'm going to bed early today.",
+    "sent2": "As crianças tavam com sono depois da viagem.",
+    "sent2_en": "The kids were sleepy after the trip.",
+    "sent2_span": "tavam com sono",
+    "notes": "'Estar com sono', not 'ter sono'; 'tavam' is the reduced spoken plural of 'estavam'.",
+    "cuidado": "⚠️ No es 'tener sueño' con tener; se usa 'estar com sono'.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "estar com medo",
+    "item_full": "",
+    "gloss": "to be scared, afraid",
+    "sent1": "Eu tô com medo de barata dentro de casa.",
+    "sent1_en": "I'm scared of cockroaches in the house.",
+    "sent2": "Ela fica com medo toda vez que escuta trovão.",
+    "sent2_en": "She gets scared every time she hears thunder.",
+    "sent2_span": "fica com medo",
+    "notes": "'estar com' + noun expresses a temporary state, unlike Spanish 'tener' + noun.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "estar com pressa",
+    "item_full": "",
+    "gloss": "to be in a hurry",
+    "sent1": "Desculpa, eu tô com pressa agora, depois te ligo.",
+    "sent1_en": "Sorry, I'm in a hurry right now, I'll call you later.",
+    "sent2": "Ele sempre fica com pressa de manhã pra pegar o ônibus.",
+    "sent2_en": "He's always in a hurry in the morning to catch the bus.",
+    "sent2_span": "fica com pressa",
+    "notes": "'com pressa' = in a hurry; built with estar/ficar, not ter.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "estar com razão",
+    "item_full": "",
+    "gloss": "to be right, correct",
+    "sent1": "Calma, eu acho que você tá com razão dessa vez.",
+    "sent1_en": "Calm down, I think you're right this time.",
+    "sent2": "No final das contas, ela sempre fica com razão nas discussões.",
+    "sent2_en": "In the end, she always ends up being right in arguments.",
+    "sent2_span": "fica com razão",
+    "notes": "Uses estar/ficar + com razão, never 'ser com razão'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "estar com raiva",
+    "item_full": "",
+    "gloss": "to be angry",
+    "sent1": "Ele tá com raiva porque perdeu o jogo de novo.",
+    "sent1_en": "He's angry because he lost the game again.",
+    "sent2": "Minha mãe fica com raiva quando eu chego atrasado.",
+    "sent2_en": "My mom gets angry when I arrive late.",
+    "sent2_span": "fica com raiva",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "estar com saudade(s)",
+    "item_full": "",
+    "gloss": "to miss (someone/something)",
+    "sent1": "Eu tô com saudade da minha família lá de casa.",
+    "sent1_en": "I miss my family back home.",
+    "sent2": "Ela ficou com saudades do namorado assim que ele viajou.",
+    "sent2_en": "She started missing her boyfriend as soon as he traveled.",
+    "sent2_span": "ficou com saudades",
+    "notes": "'saudade' is a noun; the structure is literally 'to be with longing', no single Spanish verb matches it exactly.",
+    "cuidado": "⚠️ No es 'soledad'. 'Saudade' significa añoranza o extrañar a alguien/algo; son palabras parecidas pero de significado distinto.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6",
+      "R1"
+    ]
+  },
+  {
+    "item": "estar com calor/frio",
+    "item_full": "",
+    "gloss": "to be hot/cold (feeling temperature)",
+    "sent1": "Abre a janela, eu tô com calor aqui dentro.",
+    "sent1_en": "Open the window, I'm hot in here.",
+    "sent2": "As crianças ficaram com frio esperando o ônibus na chuva.",
+    "sent2_en": "The kids got cold waiting for the bus in the rain.",
+    "sent2_span": "ficaram com frio",
+    "notes": "Same estar/ficar + com pattern as Spanish tener calor/frío, but the verb is different (estar, not ter).",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "me dá",
+    "item_full": "",
+    "gloss": "give me",
+    "sent1": "Me dá um copo d'água, por favor?",
+    "sent1_en": "Give me a glass of water, please?",
+    "sent2": "Ah, me dá um desconto aí, vai.",
+    "sent2_en": "Ah, give me a discount, come on.",
+    "sent2_span": "me dá um desconto",
+    "notes": "Clitic 'me' goes before the verb in spoken BR requests, unlike the written norm 'dá-me'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "me diz",
+    "item_full": "",
+    "gloss": "tell me",
+    "sent1": "Me diz a verdade, você comeu o bolo?",
+    "sent1_en": "Tell me the truth, did you eat the cake?",
+    "sent2": "Vai, me diz onde você tava ontem à noite.",
+    "sent2_en": "Come on, tell me where you were last night.",
+    "sent2_span": "me diz onde",
+    "notes": "Same clitic-first pattern as 'me dá'; common in casual questions.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "me ajuda",
+    "item_full": "",
+    "gloss": "help me",
+    "sent1": "Me ajuda a carregar essas caixas, por favor.",
+    "sent1_en": "Help me carry these boxes, please.",
+    "sent2": "Alguém me ajuda aqui, essa mala não fecha de jeito nenhum.",
+    "sent2_en": "Someone help me here, this suitcase just won't close.",
+    "sent2_span": "me ajuda aqui",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "me liga",
+    "item_full": "",
+    "gloss": "call me",
+    "sent1": "Me liga quando você chegar em casa, tá?",
+    "sent1_en": "Call me when you get home, okay?",
+    "sent2": "Assim que souber de alguma novidade, me liga imediatamente, tá bom?",
+    "sent2_en": "As soon as you know something new, call me right away, okay?",
+    "sent2_span": "me liga",
+    "notes": "",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "me deixa",
+    "item_full": "",
+    "gloss": "let me / leave me (alone)",
+    "sent1": "Me deixa em paz, eu já disse que não quero ir.",
+    "sent1_en": "Leave me alone, I already said I don't want to go.",
+    "sent2": "Ah, me deixa terminar de contar a história antes de interromper.",
+    "sent2_en": "Come on, let me finish telling the story before you interrupt.",
+    "sent2_span": "me deixa terminar",
+    "notes": "'me deixa' can mean either 'leave me alone' or 'let me (do something)', depending on context.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R6"
+    ]
+  },
+  {
+    "item": "né (pergunta de confirmação)",
+    "item_full": "não é",
+    "gloss": "right?, isn't it? (tag question)",
+    "sent1": "Você vem pra festa amanhã, né?",
+    "sent1_en": "You're coming to the party tomorrow, right?",
+    "sent2": "Faz um calor danado hoje, né, não aguento mais.",
+    "sent2_en": "It's crazy hot today, right, I can't take it anymore.",
+    "sent2_span": "hoje, né",
+    "notes": "'né' tags a statement to invite agreement or confirmation; it comes from 'não é'.",
+    "cuidado": "",
+    "ear": "'né' is the fused, reduced form of 'não é', said as one short syllable.",
+    "stratum": "estrutura",
+    "rules": [
+      "R4"
+    ]
+  },
+  {
+    "item": "vai que",
+    "item_full": "",
+    "gloss": "what if, just in case",
+    "sent1": "Leva o guarda-chuva, vai que chove mais tarde.",
+    "sent1_en": "Take the umbrella, what if it rains later.",
+    "sent2": "Anota meu número aí, vai que você precisa de ajuda depois.",
+    "sent2_en": "Write down my number, just in case you need help later.",
+    "sent2_span": "vai que",
+    "notes": "'vai que' introduces a hypothetical or cautionary scenario, roughly 'what if...'.",
+    "cuidado": "⚠️ No es el verbo 'ir' literal. 'Vai que' funciona como un conector fijo que introduce una posibilidad, no una acción de ir.",
+    "ear": "",
+    "stratum": "estrutura",
+    "rules": [
+      "R5",
+      "R6"
+    ]
+  },
+  {
+    "item": "sei lá se",
+    "item_full": "",
+    "gloss": "I have no idea if, who knows if",
+    "sent1": "Sei lá se ele vai aparecer na reunião hoje.",
+    "sent1_en": "I have no idea if he's going to show up at the meeting today.",
+    "sent2": "Sei lá se dá tempo de terminar isso até sexta.",
+    "sent2_en": "Who knows if there's enough time to finish this by Friday.",
+    "sent2_span": "Sei lá se",
+    "notes": "'sei lá' = 'I dunno, who knows', combined with 'se' for uncertain conditionals.",
+    "cuidado": "",
+    "ear": "'sei lá' is often said fast, almost like one word: 'seilá'.",
+    "stratum": "estrutura",
+    "rules": [
+      "R4",
+      "R5"
+    ]
+  },
+  {
+    "item": "acordar",
+    "item_full": "",
+    "gloss": "to wake up",
+    "sent1": "Eu preciso acordar cedo amanhã pra pegar o voo.",
+    "sent1_en": "I need to wake up early tomorrow to catch the flight.",
+    "sent2": "Ela sempre acorda com o despertador tocando três vezes.",
+    "sent2_en": "She always wakes up with the alarm going off three times.",
+    "sent2_span": "acorda",
+    "notes": "Not related to Spanish 'acordar' (to agree on something); here it means 'despertar(se)'.",
+    "cuidado": "⚠️ NO significa 'acordar' en el sentido de 'ponerse de acuerdo'. Significa 'despertar(se)', salir del sueño.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "ainda",
+    "item_full": "",
+    "gloss": "still, yet",
+    "sent1": "Ele ainda não chegou, será que aconteceu alguma coisa?",
+    "sent1_en": "He still hasn't arrived, I wonder if something happened.",
+    "sent2": "Nossa, você ainda mora naquele apartamento pequeno?",
+    "sent2_en": "Wow, do you still live in that small apartment?",
+    "sent2_span": "você ainda mora",
+    "notes": "'ainda' = 'still/yet'; also appears in 'ainda que' = 'even if'.",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "anedota",
+    "item_full": "",
+    "gloss": "joke, funny story",
+    "sent1": "Ele sempre conta uma anedota engraçada depois do jantar.",
+    "sent1_en": "He always tells a funny joke after dinner.",
+    "sent2": "Essa anedota que ela contou lá no trabalho fez todo mundo rir.",
+    "sent2_en": "That joke she told at work made everyone laugh.",
+    "sent2_span": "Essa anedota que",
+    "notes": "",
+    "cuidado": "⚠️ NO significa 'anécdota' (relato de un suceso real). 'Anedota' en portugués es un chiste, una historia graciosa.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "apelido",
+    "item_full": "",
+    "gloss": "nickname",
+    "sent1": "Meu apelido na escola era Formiga, por causa da altura.",
+    "sent1_en": "My nickname at school was 'Ant', because of my height.",
+    "sent2": "Todo mundo aqui tem um apelido, menos eu.",
+    "sent2_en": "Everyone here has a nickname, except me.",
+    "sent2_span": "tem um apelido",
+    "notes": "",
+    "cuidado": "⚠️ NO significa 'apellido' (nombre de familia). 'Apelido' es un sobrenombre o mote.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "apenas",
+    "item_full": "",
+    "gloss": "only, just",
+    "sent1": "Eu apenas queria saber se você tava bem.",
+    "sent1_en": "I just wanted to know if you were okay.",
+    "sent2": "Faltam apenas dois dias pra viagem começar.",
+    "sent2_en": "There are only two days left until the trip starts.",
+    "sent2_span": "Faltam apenas dois",
+    "notes": "",
+    "cuidado": "⚠️ NO significa 'apenas' en el sentido de 'casi no' o 'con dificultad' (como en 'apenas pude'). En portugués es simplemente 'sólo, solamente', sin ese matiz de dificultad.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "aula",
+    "item_full": "",
+    "gloss": "class, lesson",
+    "sent1": "A aula de matemática começa às oito.",
+    "sent1_en": "Math class starts at eight.",
+    "sent2": "Eu faltei na aula ontem porque tava doente.",
+    "sent2_en": "I missed class yesterday because I was sick.",
+    "sent2_span": "aula",
+    "notes": "Feminine noun; 'ter aula' = to have class.",
+    "cuidado": "⚠️ NO es el español 'aula' (=salón de clase). En portugués 'aula' significa la clase/lección en sí, no el lugar.",
+    "ear": "au -> diptongo [aw]: aula -> [ˈawlɐ]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "açougue",
+    "item_full": "",
+    "gloss": "butcher shop",
+    "sent1": "Eu preciso ir no açougue comprar carne pro almoço.",
+    "sent1_en": "I need to go to the butcher shop to buy meat for lunch.",
+    "sent2": "O açougue perto de casa fecha às seis da tarde.",
+    "sent2_en": "The butcher shop near my house closes at six in the evening.",
+    "sent2_span": "açougue",
+    "notes": "Masculine noun; a dedicated butcher's shop, distinct from a supermarket meat counter.",
+    "cuidado": "",
+    "ear": "ç -> 's', gue -> [gi]: açougue -> [aˈsowgi]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "balcão",
+    "item_full": "",
+    "gloss": "counter, front desk",
+    "sent1": "Ela deixou o pacote lá no balcão da loja.",
+    "sent1_en": "She left the package there at the store counter.",
+    "sent2": "Pergunta pro balcão se já chegou minha encomenda.",
+    "sent2_en": "Ask at the counter if my package has arrived yet.",
+    "sent2_span": "balcão",
+    "notes": "Also used for reception/check-in desks: 'balcão do hotel'.",
+    "cuidado": "⚠️ NO es el español 'balcón' (=sacada/varanda). 'Balcão' es el mostrador de una tienda o recepción.",
+    "ear": "nasal ão: balcão -> [bawˈkɐ̃w]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "constipado",
+    "item_full": "",
+    "gloss": "have a cold, stuffy",
+    "sent1": "Ele não foi trabalhar porque tá constipado.",
+    "sent1_en": "He didn't go to work because he has a cold.",
+    "sent2": "Fica em casa que você tá constipado, pode piorar.",
+    "sent2_en": "Stay home, you have a cold, it could get worse.",
+    "sent2_span": "tá constipado",
+    "notes": "Colloquial synonym of 'resfriado'; almost always used with 'estar/tá'.",
+    "cuidado": "⚠️ NO significa 'estreñido' (trampa por el inglés 'constipated'). En portugués es tener resfriado/catarro, igual que en español 'estar constipado'.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "barata",
+    "item_full": "",
+    "gloss": "cockroach",
+    "sent1": "Tinha uma barata enorme andando na cozinha ontem.",
+    "sent1_en": "There was a huge cockroach walking in the kitchen yesterday.",
+    "sent2": "Ela gritou quando viu a barata perto da pia.",
+    "sent2_en": "She screamed when she saw the cockroach near the sink.",
+    "sent2_span": "a barata",
+    "notes": "Feminine noun; same spelling as the adjective 'barato/barata' (cheap), but unrelated.",
+    "cuidado": "⚠️ NO es 'barata' de barato (=económica). En portugués 'barata' es el insecto cucaracha.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "bater",
+    "item_full": "",
+    "gloss": "to hit, knock; to crash",
+    "sent1": "Alguém tá batendo na porta, vai lá ver quem é.",
+    "sent1_en": "Someone's knocking on the door, go see who it is.",
+    "sent2": "Ele bateu o carro na esquina ontem à noite.",
+    "sent2_en": "He crashed the car at the corner last night.",
+    "sent2_span": "bateu o carro",
+    "notes": "Very versatile verb: bater na porta (knock), bater o carro (crash), bater papo (chat).",
+    "cuidado": "",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "bilhão",
+    "item_full": "",
+    "gloss": "billion (10⁹)",
+    "sent1": "A empresa vale mais de um bilhão de dólares.",
+    "sent1_en": "The company is worth more than a billion dollars.",
+    "sent2": "O governo gastou dois bilhões nessa obra.",
+    "sent2_en": "The government spent two billion on that construction project.",
+    "sent2_span": "dois bilhões",
+    "notes": "Plural 'bilhões'; short-scale number, matching English 'billion', not Spanish 'billón'.",
+    "cuidado": "⚠️ 'Bilhão' = 10⁹ (mil millones), NO 10¹² como el español 'billón'. Es escala corta, como en inglés.",
+    "ear": "lh -> palatal, nasal ão: bilhão -> [biˈʎɐ̃w]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "borracha",
+    "item_full": "",
+    "gloss": "eraser; rubber",
+    "sent1": "Cadê minha borracha, alguém pegou emprestada?",
+    "sent1_en": "Where's my eraser, did someone borrow it?",
+    "sent2": "Esse pneu é feito de borracha bem resistente.",
+    "sent2_en": "This tire is made of very tough rubber.",
+    "sent2_span": "borracha",
+    "notes": "Also refers to rubber material in general (tires, bands).",
+    "cuidado": "⚠️ NO es 'borracha' de borracho (=ebria). En portugués 'borracha' es la goma de borrar o el caucho.",
+    "ear": "ch -> 'sh': borracha -> [boˈʁaʃɐ]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "borracharia",
+    "item_full": "",
+    "gloss": "tire repair shop",
+    "sent1": "Furou o pneu, precisa levar na borracharia agora.",
+    "sent1_en": "The tire went flat, we need to take it to the tire shop now.",
+    "sent2": "A borracharia aqui perto conserta pneu rapidinho.",
+    "sent2_en": "The tire shop nearby fixes tires really quickly.",
+    "sent2_span": "borracharia",
+    "notes": "From 'borracha' (rubber/tire), not related to 'borrachera' (drunkenness).",
+    "cuidado": "⚠️ No tiene relación con 'borrachera'. 'Borracharia' es el taller donde reparan/venden neumáticos.",
+    "ear": "ch -> 'sh': borracharia -> [boʁaʃaˈɾiɐ]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "borracheiro",
+    "item_full": "",
+    "gloss": "tire repairman",
+    "sent1": "O borracheiro trocou meu pneu furado rapidinho.",
+    "sent1_en": "The tire repairman changed my flat tire quickly.",
+    "sent2": "Chama o borracheiro, o pneu esvaziou de novo.",
+    "sent2_en": "Call the tire repairman, the tire went flat again.",
+    "sent2_span": "o borracheiro",
+    "notes": "Occupational noun from 'borracha' (rubber/tire), unrelated to 'borracho' (drunk).",
+    "cuidado": "⚠️ No significa 'borracho' (=ebrio). 'Borracheiro' es la persona que repara neumáticos.",
+    "ear": "ch -> 'sh': borracheiro -> [boʁaʃejɾu]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "botar",
+    "item_full": "",
+    "gloss": "to put, place",
+    "sent1": "Bota o prato ali na mesa, por favor.",
+    "sent1_en": "Put the plate there on the table, please.",
+    "sent2": "Ela botou a chave dentro da bolsa e esqueceu.",
+    "sent2_en": "She put the key inside her bag and forgot.",
+    "sent2_span": "botou a chave",
+    "notes": "Colloquial synonym of 'colocar/pôr', very common in speech.",
+    "cuidado": "⚠️ NO es 'botar' de tirar/desechar. En portugués 'botar' significa poner/colocar.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "brincar",
+    "item_full": "",
+    "gloss": "to play; to joke",
+    "sent1": "As crianças adoram brincar no parquinho depois da escola.",
+    "sent1_en": "The kids love playing at the playground after school.",
+    "sent2": "Para de brincar comigo, eu falei sério.",
+    "sent2_en": "Stop joking with me, I was being serious.",
+    "sent2_span": "brincar",
+    "notes": "Also 'brincadeira' = joke/joking around, the related noun.",
+    "cuidado": "⚠️ NO es 'brincar' de saltar. En portugués 'brincar' significa jugar (niños) o bromear, no saltar.",
+    "ear": "in -> nasal: brincar -> [bɾĩˈkaʁ]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "cachorro",
+    "item_full": "",
+    "gloss": "dog",
+    "sent1": "Meu cachorro late toda vez que toca a campainha.",
+    "sent1_en": "My dog barks every time the doorbell rings.",
+    "sent2": "A gente adotou um cachorro lá do abrigo semana passada.",
+    "sent2_en": "We adopted a dog from the shelter last week.",
+    "sent2_span": "um cachorro",
+    "notes": "Main BR word for 'dog' of any age; 'cão' is more formal/written.",
+    "cuidado": "⚠️ En español 'cachorro' es solo cría/cachorrito. En portugués brasileño es la palabra normal para 'perro', de cualquier edad.",
+    "ear": "ch -> 'sh', rr gutural, o final -> u: cachorro -> [kaˈʃoʁu]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "camareiro",
+    "item_full": "",
+    "gloss": "hotel room attendant",
+    "sent1": "O camareiro trocou as toalhas do nosso quarto de manhã.",
+    "sent1_en": "The room attendant changed our towels in the morning.",
+    "sent2": "Deixa uma gorjeta pro camareiro quando sair do hotel.",
+    "sent2_en": "Leave a tip for the room attendant when you leave the hotel.",
+    "sent2_span": "pro camareiro",
+    "notes": "Feminine form 'camareira'; a restaurant waiter is 'garçom', not 'camareiro'.",
+    "cuidado": "⚠️ NO es 'camarero' de restaurante (=garçom). 'Camareiro' es quien arruma los cuartos de hotel.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "catarro",
+    "item_full": "",
+    "gloss": "phlegm, mucus",
+    "sent1": "Ele tá com muito catarro por causa da gripe.",
+    "sent1_en": "He has a lot of phlegm because of the flu.",
+    "sent2": "Tossi a noite toda tentando tirar o catarro.",
+    "sent2_en": "I coughed all night trying to clear the phlegm.",
+    "sent2_span": "o catarro",
+    "notes": "Refers to the mucus/phlegm substance itself, not the illness.",
+    "cuidado": "⚠️ En español 'catarro' es el resfriado (la enfermedad). En portugués 'catarro' es solo la mucosidad/flema, no la enfermedad.",
+    "ear": "rr gutural, o final -> u: catarro -> [kaˈtaʁu]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "cena",
+    "item_full": "",
+    "gloss": "scene",
+    "sent1": "Essa cena do filme me deixou arrepiado.",
+    "sent1_en": "That scene in the movie gave me chills.",
+    "sent2": "A cena final da série foi surpreendente demais.",
+    "sent2_en": "The final scene of the show was way too surprising.",
+    "sent2_span": "cena",
+    "notes": "'Jantar' is the BR word for dinner; 'cena' never means a meal.",
+    "cuidado": "⚠️ NO es 'cena' de comer (=jantar). En portugués 'cena' significa escena (de película, teatro).",
+    "ear": "c antes de e = 's': cena -> [ˈsenɐ]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "cigarro",
+    "item_full": "",
+    "gloss": "cigarette",
+    "sent1": "Ele parou de fumar cigarro depois do susto no médico.",
+    "sent1_en": "He quit smoking cigarettes after the scare at the doctor's.",
+    "sent2": "Me empresta um cigarro aí, só um trago.",
+    "sent2_en": "Lend me a cigarette, just one drag.",
+    "sent2_span": "um cigarro",
+    "notes": "Near-cognate with Spanish 'cigarrillo'; stress falls on the second syllable.",
+    "cuidado": "",
+    "ear": "rr gutural, o final -> u: cigarro -> [siˈgaʁu]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "criança",
+    "item_full": "",
+    "gloss": "child, kid",
+    "sent1": "Essa criança não para quieta nem um minuto.",
+    "sent1_en": "This kid doesn't sit still even for a minute.",
+    "sent2": "Toda criança merece brincar e ser feliz.",
+    "sent2_en": "Every child deserves to play and be happy.",
+    "sent2_span": "criança",
+    "notes": "Common-gender noun (o/a criança); refers to the child itself.",
+    "cuidado": "⚠️ No es 'crianza' (=upbringing/educación). 'Criança' es el sustantivo para 'niño/niña', la persona.",
+    "ear": "ç -> 's', nasal final: criança -> [kɾiˈɐ̃sɐ]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "doce",
+    "item_full": "",
+    "gloss": "sweet, candy; dessert",
+    "sent1": "Depois do almoço a gente sempre come um doce.",
+    "sent1_en": "After lunch we always eat something sweet.",
+    "sent2": "Ela fez um doce de leite maravilhoso pra festa.",
+    "sent2_en": "She made a wonderful dulce de leche for the party.",
+    "sent2_span": "doce de leite",
+    "notes": "Works both as adjective (sweet) and noun (a sweet/dessert).",
+    "cuidado": "",
+    "ear": "c antes de e = 's': doce -> [ˈdosi]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "embaraçado",
+    "item_full": "",
+    "gloss": "embarrassed; tangled",
+    "sent1": "Fiquei todo embaraçado quando ela elogiou na frente de todo mundo.",
+    "sent1_en": "I got so embarrassed when she complimented me in front of everyone.",
+    "sent2": "O fio do fone ficou todo embaraçado dentro da mochila.",
+    "sent2_en": "The headphone cord got all tangled inside the backpack.",
+    "sent2_span": "todo embaraçado",
+    "notes": "Also means 'tangled' (wires, hair); nothing to do with pregnancy.",
+    "cuidado": "⚠️ NO es 'embarazada' (=grávida). 'Embaraçado' significa avergonzado o enredado, sin relación con el embarazo.",
+    "ear": "ç -> 's': embaraçado -> [ẽbaʁaˈsadu]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "escova",
+    "item_full": "",
+    "gloss": "brush (hairbrush/toothbrush)",
+    "sent1": "Você viu a escova de dente que eu deixei aqui?",
+    "sent1_en": "Did you see the toothbrush I left here?",
+    "sent2": "Ela comprou uma escova nova pro cabelo ontem.",
+    "sent2_en": "She bought a new hairbrush yesterday.",
+    "sent2_span": "escova",
+    "notes": "Used for hairbrush, toothbrush, etc.",
+    "cuidado": "⚠️ No es 'escoba' (que barre el suelo). 'Escova' es 'cepillo' (de dientes, de pelo).",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "escritório",
+    "item_full": "",
+    "gloss": "office (workplace)",
+    "sent1": "Eu trabalho num escritório bem pertinho de casa.",
+    "sent1_en": "I work in an office really close to home.",
+    "sent2": "Ela ficou até tarde no escritório terminando o relatório.",
+    "sent2_en": "She stayed late at the office finishing the report.",
+    "sent2_span": "escritório",
+    "notes": "Means office/workplace, not the piece of furniture.",
+    "cuidado": "⚠️ No es 'escritorio' (el mueble para escribir). 'Escritório' es la oficina, el lugar de trabajo.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "esquisito",
+    "item_full": "",
+    "gloss": "weird, strange",
+    "sent1": "Que barulho esquisito é esse vindo da cozinha?",
+    "sent1_en": "What's that weird noise coming from the kitchen?",
+    "sent2": "Ele ficou meio esquisito depois que eu contei a novidade.",
+    "sent2_en": "He got a bit weird after I told him the news.",
+    "sent2_span": "esquisito",
+    "notes": "",
+    "cuidado": "⚠️ NO es el español 'exquisito' (delicioso). 'Esquisito' significa raro, extraño.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "filhote",
+    "item_full": "",
+    "gloss": "baby animal, pup, cub",
+    "sent1": "Nosso cachorro teve quatro filhotes semana passada.",
+    "sent1_en": "Our dog had four puppies last week.",
+    "sent2": "O filhote de gato ainda não abriu os olhos.",
+    "sent2_en": "The kitten hasn't opened its eyes yet.",
+    "sent2_span": "filhote",
+    "notes": "Comes from 'filho' but refers only to animal offspring.",
+    "cuidado": "⚠️ Viene de 'filho' (hijo), pero 'filhote' se usa para crías de animales, no para bebés humanos.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "galho",
+    "item_full": "",
+    "gloss": "branch (of a tree)",
+    "sent1": "Um galho caiu bem em cima do carro ontem.",
+    "sent1_en": "A branch fell right on top of the car yesterday.",
+    "sent2": "Ela pendurou a rede entre dois galhos grossos.",
+    "sent2_en": "She hung the hammock between two thick branches.",
+    "sent2_span": "dois galhos grossos",
+    "notes": "",
+    "cuidado": "⚠️ Suena parecido a 'gallo' (el ave), pero 'galho' significa rama de árbol.",
+    "ear": "lh -> [ʎ]: galho -> [ˈgaʎu]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "garçom",
+    "item_full": "",
+    "gloss": "waiter",
+    "sent1": "Chamei o garçom pra pedir mais uma cerveja.",
+    "sent1_en": "I called the waiter to order another beer.",
+    "sent2": "O garçom esqueceu de trazer os talheres pra gente.",
+    "sent2_en": "The waiter forgot to bring us the silverware.",
+    "sent2_span": "garçom",
+    "notes": "From French 'garçon'; feminine form is 'garçonete'.",
+    "cuidado": "",
+    "ear": "final -om nasal: garçom -> [gaʁˈsõ]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "jornal",
+    "item_full": "",
+    "gloss": "newspaper",
+    "sent1": "Meu avô lê o jornal todo santo dia de manhã.",
+    "sent1_en": "My grandfather reads the newspaper every single morning.",
+    "sent2": "Saiu uma notícia importante no jornal de hoje.",
+    "sent2_en": "An important piece of news came out in today's newspaper.",
+    "sent2_span": "jornal",
+    "notes": "",
+    "cuidado": "⚠️ En español 'jornal' es el salario de un día de trabajo. En portugués 'jornal' es el periódico.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "ladrilho",
+    "item_full": "",
+    "gloss": "floor tile",
+    "sent1": "Cuidado que o ladrilho do banheiro tá meio solto.",
+    "sent1_en": "Careful, the bathroom tile is a bit loose.",
+    "sent2": "Trocamos o ladrilho da cozinha inteira no mês passado.",
+    "sent2_en": "We replaced the tile of the entire kitchen last month.",
+    "sent2_span": "ladrilho",
+    "notes": "",
+    "cuidado": "⚠️ Se parece a 'ladrillo' (bloque para construir paredes), pero 'ladrilho' es una baldosa/azulejo de piso.",
+    "ear": "lh -> [ʎ]: ladrilho -> [laˈdɾiʎu]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "largo",
+    "item_full": "",
+    "gloss": "wide, broad",
+    "sent1": "O corredor da escola é bem largo, cabe todo mundo.",
+    "sent1_en": "The school hallway is quite wide, everyone fits.",
+    "sent2": "Fizeram a calçada mais larga pra caber as bicicletas.",
+    "sent2_en": "They made the sidewalk wider to fit the bikes.",
+    "sent2_span": "larga",
+    "notes": "Agrees in gender/number: largo/larga/largos/largas.",
+    "cuidado": "⚠️ NO significa 'largo' (longitud, eso es 'comprido'). 'Largo' en portugués significa ancho.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "mala",
+    "item_full": "",
+    "gloss": "suitcase, luggage",
+    "sent1": "Já fiz a mala pra viagem de amanhã.",
+    "sent1_en": "I already packed my suitcase for tomorrow's trip.",
+    "sent2": "Esqueci a mala no aeroporto e tive que voltar.",
+    "sent2_en": "I forgot my suitcase at the airport and had to go back.",
+    "sent2_span": "mala",
+    "notes": "",
+    "cuidado": "⚠️ NO es el femenino de 'malo'. 'Mala' en portugués es la maleta/equipaje.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "ninguém",
+    "item_full": "",
+    "gloss": "nobody, no one",
+    "sent1": "Ninguém apareceu na festa que eu marquei.",
+    "sent1_en": "Nobody showed up at the party I set up.",
+    "sent2": "Bati na porta e ninguém atendeu.",
+    "sent2_en": "I knocked on the door and nobody answered.",
+    "sent2_span": "e ninguém atendeu",
+    "notes": "",
+    "cuidado": "",
+    "ear": "nasal ending: ninguém -> [nĩˈgẽj̃]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "ninho",
+    "item_full": "",
+    "gloss": "nest",
+    "sent1": "O passarinho fez um ninho bem em cima da porta.",
+    "sent1_en": "The little bird made a nest right above the door.",
+    "sent2": "Achei um ninho vazio caído no quintal.",
+    "sent2_en": "I found an empty nest fallen in the backyard.",
+    "sent2_span": "ninho",
+    "notes": "",
+    "cuidado": "⚠️ Se parece a 'niño' (chico), pero 'ninho' significa nido, de pájaros.",
+    "ear": "nh -> [ɲ]: ninho -> [ˈniɲu]",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "novela",
+    "item_full": "",
+    "gloss": "soap opera (TV)",
+    "sent1": "Minha avó não perde um capítulo da novela das nove.",
+    "sent1_en": "My grandma doesn't miss a single episode of the nine o'clock soap opera.",
+    "sent2": "Todo mundo comenta o final da novela no trabalho.",
+    "sent2_en": "Everyone talks about the soap opera's ending at work.",
+    "sent2_span": "novela",
+    "notes": "",
+    "cuidado": "⚠️ NO es una novela (libro). 'Novela' en portugués es la telenovela.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "oficina",
+    "item_full": "",
+    "gloss": "repair shop, workshop (esp. auto)",
+    "sent1": "Levei o carro na oficina pra trocar o óleo.",
+    "sent1_en": "I took the car to the shop to change the oil.",
+    "sent2": "O carro ficou três dias na oficina esperando peça.",
+    "sent2_en": "The car stayed three days at the shop waiting for a part.",
+    "sent2_span": "oficina",
+    "notes": "",
+    "cuidado": "⚠️ NO es 'oficina' (lugar de trabajo, eso es 'escritório'). 'Oficina' en portugués es el taller mecánico.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "padre",
+    "item_full": "",
+    "gloss": "priest",
+    "sent1": "O padre da nossa igreja é bem jovem ainda.",
+    "sent1_en": "The priest at our church is still quite young.",
+    "sent2": "Fomos conversar com o padre antes do casamento.",
+    "sent2_en": "We went to talk to the priest before the wedding.",
+    "sent2_span": "padre",
+    "notes": "",
+    "cuidado": "⚠️ NO significa 'papá'. 'Padre' en portugués es el sacerdote/cura; 'papá' es 'pai'.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "palco",
+    "item_full": "",
+    "gloss": "stage (performance)",
+    "sent1": "A banda subiu no palco e todo mundo gritou.",
+    "sent1_en": "The band went up on stage and everyone screamed.",
+    "sent2": "Ela ficou nervosa esperando pra entrar no palco.",
+    "sent2_en": "She got nervous waiting to go on stage.",
+    "sent2_span": "palco",
+    "notes": "",
+    "cuidado": "⚠️ En español 'palco' es el balcón del teatro (asientos). En portugués 'palco' es el escenario.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "pegar",
+    "item_full": "",
+    "gloss": "to grab, take, catch",
+    "sent1": "Pode pegar aquele copo pra mim, por favor?",
+    "sent1_en": "Can you grab that glass for me, please?",
+    "sent2": "Eu vou pegar o ônibus das sete pra chegar cedo.",
+    "sent2_en": "I'm going to catch the seven o'clock bus to arrive early.",
+    "sent2_span": "pegar",
+    "notes": "Also used for catching illness ('pegar uma gripe') or transport ('pegar o ônibus').",
+    "cuidado": "⚠️ NO significa pegar (adherir) ni golpear. 'Pegar' en portugués es agarrar, tomar, coger.",
+    "ear": "",
+    "stratum": "falso-amigo",
+    "rules": [
+      "R2"
+    ]
+  },
+  {
+    "item": "pelo",
+    "item_full": "",
+    "gloss": "through/by the (contraction of 'por' + 'o')",
+    "sent1": "Fui caminhando pelo parque de manhã cedo.",
+    "sent1_en": "I went walking through the park early in the morning.",
+    "sent2": "Ele passou pelo mesmo caminho de sempre.",
+    "sent2_en": "He went by the same path as always.",
+    "sent2_span": "pelo",
+    "notes": "Contraction of preposition 'por' + article 'o'. Same spelling as 'pelo' meaning hair/fur, different word.",
+    "cuidado": "⚠️ Idéntico a 'pelo' (cabello) en español, pero aquí es la contracción de 'por' + 'el' (a través de, por el).",
+    "ear": "",
+    "stratum": "reducao",
+    "rules": [
+      "R2",
+      "R3"
+    ]
+  }
+]
