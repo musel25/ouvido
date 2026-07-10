@@ -81,19 +81,26 @@ def _handle_filter_candidates(args: argparse.Namespace) -> int:
 def _handle_validate_notes(args) -> int:
     """Validate every authored note batch. Nothing invalid reaches Anki.
 
+    Accepts --notes as an alias for --in, so it matches every other note-consuming
+    subcommand.
+
     Per-note failures and cross-deck duplicate items are both logged; the log
     file is written even when empty, so "no failures" is an artifact rather
     than an absence.
     """
-    import os
 
     from ouvido.schema import ValidationError, note_from_dict, validate_deck, validate_note
 
+    in_path = args.in_path or args.notes_path
+    if not in_path:
+        print("validate-notes needs --in (or --notes)")
+        return 2
+
     failures: list[dict] = []
     notes = []
-    filenames = sorted(f for f in os.listdir(args.in_path) if f.endswith(".json"))
+    filenames = sorted(f for f in os.listdir(in_path) if f.endswith(".json"))
     for fn in filenames:
-        for row in read_json(os.path.join(args.in_path, fn)):
+        for row in read_json(os.path.join(in_path, fn)):
             try:
                 note = note_from_dict(row)
                 validate_note(note)
@@ -121,15 +128,12 @@ def _handle_apply_verdicts(args) -> int:
 
     An unjudged note never ships: silence is not approval.
     """
-    import os
 
     from ouvido.verify import Verdict, ships
 
     verdicts_by_item = read_json(args.verdicts_path)
 
-    notes: list[dict] = []
-    for fn in sorted(f for f in os.listdir(args.notes_path) if f.endswith(".json")):
-        notes.extend(read_json(os.path.join(args.notes_path, fn)))
+    notes = _load_notes(args.notes_path)
 
     shipped: list[dict] = []
     rejected: list[dict] = []
@@ -165,7 +169,6 @@ def _handle_attest(args) -> int:
     Spoken-only forms (R3/R4) are skipped: a subtitle corpus writes `falando`,
     never `falano`.
     """
-    import os
     import re
 
     from ouvido.candidates import NO_ATTESTATION_RULES
@@ -174,9 +177,7 @@ def _handle_attest(args) -> int:
     freqs = load_subtlex(args.freqs_path)
     token = re.compile(r"[^\W\d_]+", re.UNICODE)
 
-    notes: list[dict] = []
-    for fn in sorted(f for f in os.listdir(args.notes_path) if f.endswith(".json")):
-        notes.extend(read_json(os.path.join(args.notes_path, fn)))
+    notes = _load_notes(args.notes_path)
 
     flagged: list[dict] = []
     checked = 0
@@ -202,7 +203,6 @@ def _handle_attest(args) -> int:
 
 def _load_notes(notes_path: str) -> list[dict]:
     """Accept either a directory of batch files or a single JSON array file."""
-    import os
 
     if os.path.isdir(notes_path):
         out: list[dict] = []
@@ -213,11 +213,16 @@ def _load_notes(notes_path: str) -> list[dict]:
 
 
 def _handle_synth(args) -> int:
-    """Synthesize every clip. Resumable: existing non-empty files are skipped."""
-    import asyncio
-    import os
+    """Synthesize every clip. Resumable: existing non-empty files are skipped.
 
-    from ouvido.media import clips_for, synth
+    Failures are written to --log with the underlying exception, not just a path:
+    a systemic failure (bad voice, network outage, full disk) must be diagnosable
+    from the log alone, because this runs unattended.
+    """
+    import asyncio
+
+    import ouvido.media as media_mod
+    from ouvido.media import clips_for
     from ouvido.schema import note_from_dict
 
     notes = [note_from_dict(r) for r in _load_notes(args.notes_path)]
@@ -233,30 +238,34 @@ def _handle_synth(args) -> int:
 
     print(f"{len(notes)} notes -> {3 * len(notes)} clips; {len(todo)} to synthesize")
 
-    async def run() -> list[str]:
+    async def run() -> list[dict]:
         sem = asyncio.Semaphore(6)
-        failed: list[str] = []
+        failed: list[dict] = []
 
         async def one(text: str, voice: str, dest: str) -> None:
+            last = ""
             async with sem:
                 for attempt in range(4):
                     try:
-                        await synth(text, voice, dest)
+                        await media_mod.synth(text, voice, dest)
                         if os.path.getsize(dest) > 2000:
                             return
-                    except Exception:  # noqa: BLE001 - retried, then reported
-                        pass
+                        last = "clip smaller than 2000 bytes"
+                    except Exception as e:  # noqa: BLE001 - retried, then logged with cause
+                        last = f"{type(e).__name__}: {e}"
                     await asyncio.sleep(2 * (attempt + 1))
-                failed.append(dest)
+            failed.append({"file": os.path.basename(dest), "text": text,
+                           "voice": voice, "error": last})
 
         await asyncio.gather(*(one(t, v, d) for t, v, d in todo))
         return failed
 
     failed = asyncio.run(run()) if todo else []
+    write_jsonl(args.log_path or os.path.join(args.media_path, "synth_failures.jsonl"), failed)
     if failed:
-        print(f"FAILED to synthesize {len(failed)} clips")
-        for f in failed[:10]:
-            print("  ", f)
+        print(f"FAILED to synthesize {len(failed)} clips; see the log")
+        for f in failed[:5]:
+            print(f"   {f['file']}: {f['error']}")
         return 1
     print("all clips present")
     return 0
@@ -269,7 +278,6 @@ def _handle_asr_gate(args) -> int:
     unnatural prosody -- Whisper normalises orthography, so `Cê tá` comes back
     as `Você está` whether or not the reduction was spoken.
     """
-    import os
 
     from ouvido.asr import check_clip, transcribe
     from ouvido.media import clips_for
@@ -299,7 +307,6 @@ def _handle_asr_gate(args) -> int:
 
 def _handle_push_media(args) -> int:
     """Upload every clip through AnkiConnect. Never write into collection.media directly."""
-    import os
 
     from ouvido.anki import Anki
 
@@ -343,7 +350,6 @@ def _handle_push_notes(args) -> int:
 
 def _handle_sample(args) -> int:
     """Render N notes as standalone HTML so the cards can be reviewed in a browser."""
-    import os
     import shutil
 
     from ouvido.gap import render_gap

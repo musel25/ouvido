@@ -81,7 +81,8 @@ EOF
 uv run python -m ouvido.cli apply-verdicts --notes data/notes --verdicts data/verdicts.json \
     --out data/notes_verified.json --log data/logs/rejected_notes.jsonl
 
-uv run python -m ouvido.cli synth    --notes data/notes_verified.json --media out/media
+uv run python -m ouvido.cli synth    --notes data/notes_verified.json --media out/media \
+    --log data/logs/synth_failures.jsonl
 uv run python -m ouvido.cli asr-gate --notes data/notes_verified.json --media out/media \
     --log data/logs/asr_failures.jsonl
 

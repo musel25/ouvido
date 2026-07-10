@@ -279,3 +279,56 @@ def test_attest_never_flags_spoken_only_forms(tmp_path):
     log = tmp_path / "u.jsonl"
     main(["attest", "--notes", str(d), "--freqs", _freqs_file(tmp_path), "--log", str(log)])
     assert log.read_text() == ""
+
+
+def test_synth_writes_a_failure_log_even_when_nothing_fails(tmp_path, monkeypatch):
+    """Every stage writes a rejection log, always. `synth` is the one stage whose
+    failures are per-file rather than per-note, and it was silently exempt."""
+    import ouvido.cli as cli
+
+    async def fake_synth(text, voice, dest):
+        with open(dest, "wb") as fh:
+            fh.write(b"\x00" * 3000)
+
+    monkeypatch.setattr("ouvido.media.synth", fake_synth)
+    notes = tmp_path / "n.json"
+    write_json(str(notes), [_note()])
+    media = tmp_path / "media"
+    log = tmp_path / "logs" / "synth_failures.jsonl"
+    rc = cli.main(["synth", "--notes", str(notes), "--media", str(media), "--log", str(log)])
+    assert rc == 0
+    assert log.exists() and log.read_text() == ""
+    assert len(list(media.glob("*.mp3"))) == 3
+
+
+def test_synth_logs_the_underlying_error_when_a_clip_fails(tmp_path, monkeypatch):
+    import ouvido.cli as cli
+
+    async def boom(text, voice, dest):
+        raise RuntimeError("edge-tts said no")
+
+    monkeypatch.setattr("ouvido.media.synth", boom)
+    monkeypatch.setattr("asyncio.sleep", _no_sleep)
+    notes = tmp_path / "n.json"
+    write_json(str(notes), [_note()])
+    log = tmp_path / "logs" / "synth_failures.jsonl"
+    rc = cli.main(["synth", "--notes", str(notes), "--media", str(tmp_path / "m"), "--log", str(log)])
+    assert rc == 1
+    rows = [json.loads(l) for l in log.read_text().strip().split("\n")]
+    assert len(rows) == 3
+    assert "edge-tts said no" in rows[0]["error"]      # the real cause, not just a path
+
+
+async def _no_sleep(*_a, **_k):
+    return None
+
+
+def test_apply_verdicts_accepts_a_single_notes_file(tmp_path):
+    """`--notes` must accept a file or a directory, like synth/asr-gate/push-notes."""
+    notes = tmp_path / "one.json"
+    write_json(str(notes), [_note(item="solo")])
+    v = tmp_path / "v.json"; write_json(str(v), {"solo": _verdicts("solo")})
+    out = tmp_path / "o.json"; log = tmp_path / "l.jsonl"
+    assert main(["apply-verdicts", "--notes", str(notes), "--verdicts", str(v),
+                 "--out", str(out), "--log", str(log)]) == 0
+    assert [n["item"] for n in read_json(str(out))] == ["solo"]
