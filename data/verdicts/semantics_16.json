@@ -1,0 +1,22 @@
+{
+  "nem vem": {"passed": true, "reason": ""},
+  "que isso": {"passed": true, "reason": ""},
+  "imagina": {"passed": true, "reason": ""},
+  "magina": {"passed": true, "reason": ""},
+  "fala sério": {"passed": true, "reason": ""},
+  "cê": {"passed": true, "reason": ""},
+  "cês": {"passed": true, "reason": ""},
+  "tá": {"passed": true, "reason": ""},
+  "tô": {"passed": true, "reason": ""},
+  "tava": {"passed": true, "reason": ""},
+  "tavam": {"passed": true, "reason": ""},
+  "tão": {"passed": true, "reason": ""},
+  "num": {"passed": true, "reason": ""},
+  "numa": {"passed": true, "reason": ""},
+  "pra": {"passed": true, "reason": ""},
+  "pro": {"passed": true, "reason": ""},
+  "pra mim": {"passed": false, "reason": "The 'notes' and 'cuidado' claim 'pra mim' is informally used 'as subject' where standard grammar requires 'eu' (citing 'pra mim tá bom'), but neither the card's own cited example nor sent2 ('Pra mim, esse plano não vai dar certo') actually illustrates that phenomenon — in both, 'pra mim' is a fronted dative/opinion-marker ('to me' / 'in my opinion'), with 'esse plano' or an implicit 'isso' as the real subject, not 'mim'. The genuine BP colloquialism (using 'mim' instead of 'eu' as subject of an infinitive, e.g. 'pra mim chegar lá vai ser difícil') requires a following infinitive, which is absent from every example given. The cuidado's blanket claim that Spanish 'para mí' 'nunca es sujeto de oración' while Portuguese 'sí puede usarse así' is therefore not demonstrated and is misleading as written, since the opinion-marker sense shown ('Para mí, este plan no va a funcionar') is perfectly normal, identical-structure Spanish too."},
+  "vamo": {"passed": true, "reason": ""},
+  "bora": {"passed": true, "reason": ""},
+  "tá bom": {"passed": true, "reason": ""}
+}

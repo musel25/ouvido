@@ -1,0 +1,22 @@
+{
+  "copo": {"passed": true, "reason": ""},
+  "cadeira": {"passed": false, "reason": "sent2_span 'cadeira da cozinha' blanks the noun plus its only distinguishing modifier ('da cozinha'), leaving 'A ___ tá quebrada.' — nothing but 'something is broken' remains, which fits any household object equally well as 'chair'; not recoverable."},
+  "pasta": {"passed": true, "reason": ""},
+  "bolso": {"passed": false, "reason": "sent2_span 'caiu do bolso' blanks the entire predicate, leaving 'Cadê minha carteira? Acho que ___.' — no lexical trace of 'fell' or 'pocket' remains, so a listener cannot recover 'bolso' specifically over any other explanation for a missing wallet (car, home, lost, etc.)."},
+  "esperto": {"passed": true, "reason": ""},
+  "trair": {"passed": true, "reason": ""},
+  "férias": {"passed": true, "reason": ""},
+  "comprido": {"passed": true, "reason": ""},
+  "bagunça": {"passed": true, "reason": ""},
+  "caprichar": {"passed": true, "reason": ""},
+  "chato": {"passed": true, "reason": ""},
+  "legal": {"passed": true, "reason": ""},
+  "valeu": {"passed": true, "reason": ""},
+  "grana": {"passed": true, "reason": ""},
+  "rolê": {"passed": true, "reason": ""},
+  "bagulho": {"passed": true, "reason": ""},
+  "treta": {"passed": true, "reason": ""},
+  "mano": {"passed": false, "reason": "sent2_span 'Mano, essa prova' bleeds into the next clause and swallows 'essa prova' (the subject of 'foi difícil'), which has nothing to do with the item; this is a longer/misaligned phrase, not the item's surface form, and leaves 'foi difícil demais' with zero cue for either the vocative or the missing subject."},
+  "galera": {"passed": true, "reason": ""},
+  "moleque": {"passed": true, "reason": ""}
+}

@@ -1,0 +1,22 @@
+{
+  "papo": {"passed": true, "reason": ""},
+  "trampo": {"passed": true, "reason": ""},
+  "rango": {"passed": true, "reason": ""},
+  "birita": {"passed": true, "reason": ""},
+  "resenha": {"passed": true, "reason": ""},
+  "chute (dar um chute)": {"passed": true, "reason": ""},
+  "mexer (mexer com alguém)": {"passed": true, "reason": ""},
+  "cutucar": {"passed": true, "reason": ""},
+  "derrubar": {"passed": true, "reason": ""},
+  "largar": {"passed": false, "reason": "The 'cuidado' claims rioplatense Spanish uses 'largar' in a more limited way than Portuguese. This is doubtful: rioplatense Spanish colloquially uses 'largar' very broadly and similarly to the Portuguese senses given here — 'largar el laburo' (quit the job), 'largar a la novia/al novio' (dump the partner), 'largá eso' (drop/let go of something) are all common. The claimed contrast with Portuguese usage is not verifiable and likely overstated/false."},
+  "jogar (jogar fora)": {"passed": true, "reason": ""},
+  "arrumar": {"passed": true, "reason": ""},
+  "consertar": {"passed": true, "reason": ""},
+  "beleza": {"passed": true, "reason": ""},
+  "bicho (pessoa)": {"passed": true, "reason": ""},
+  "cara (pessoa)": {"passed": true, "reason": ""},
+  "molecagem": {"passed": true, "reason": ""},
+  "sacanagem": {"passed": true, "reason": ""},
+  "sacana": {"passed": true, "reason": ""},
+  "vacilar": {"passed": true, "reason": ""}
+}

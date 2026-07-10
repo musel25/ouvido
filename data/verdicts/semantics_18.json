@@ -1,0 +1,16 @@
+{
+  "dela": {"passed": true, "reason": ""},
+  "nele": {"passed": true, "reason": ""},
+  "nela": {"passed": true, "reason": ""},
+  "desse": {"passed": true, "reason": ""},
+  "nesse": {"passed": true, "reason": ""},
+  "daquele": {"passed": true, "reason": ""},
+  "naquele": {"passed": true, "reason": ""},
+  "disso": {"passed": true, "reason": ""},
+  "nisso": {"passed": true, "reason": ""},
+  "vô": {"passed": false, "reason": "sent2/sent2_en mismatch: 'Amanhã vô lá em casa te ajudar' uses the fixed idiom 'lá em casa' which means 'at MY (the speaker's) house', not 'your place'. The literal sense is 'Tomorrow I'll go home to help you', which contradicts the given translation 'Tomorrow I'll come by your place to help you' — the direction of movement is reversed."},
+  "cê quer": {"passed": true, "reason": ""},
+  "memo": {"passed": true, "reason": "Verified: Spanish 'memo/-a' is a real colloquial adjective meaning 'tonto/bobo' (fool), so the cuidado claim is true and correctly contrasted with BR Portuguese 'memo' = colloquial 'mesmo' (intensifier)."},
+  "qui": {"passed": true, "reason": ""},
+  "cabô": {"passed": true, "reason": ""}
+}

@@ -1,0 +1,22 @@
+{
+  "película": {"passed": false, "reason": "sent2_span 'película do olho' blanks out the disambiguating noun 'olho' itself, leaving 'A ___ fica irritada com o vento' with no cue pointing to a thin film/membrane specifically — could be skin, eyes, face, allergies; not recoverable."},
+  "podre": {"passed": false, "reason": "sent2_span 'cheiro de podre' swallows 'cheiro' (the smell cue), leaving 'O ___ tomou conta da geladeira' — too generic (mess, mold, bugs, smell) to recover 'podre' specifically."},
+  "polvo": {"passed": true, "reason": ""},
+  "porra": {"passed": true, "reason": ""},
+  "pronto": {"passed": true, "reason": ""},
+  "punheta": {"passed": true, "reason": ""},
+  "pó": {"passed": true, "reason": ""},
+  "rato": {"passed": true, "reason": ""},
+  "reparar": {"passed": true, "reason": ""},
+  "ressaca": {"passed": true, "reason": ""},
+  "romance": {"passed": true, "reason": ""},
+  "saco": {"passed": true, "reason": ""},
+  "salsa": {"passed": true, "reason": ""},
+  "saltar": {"passed": true, "reason": ""},
+  "sobremesa": {"passed": true, "reason": ""},
+  "sobrenome": {"passed": true, "reason": ""},
+  "sótão": {"passed": true, "reason": ""},
+  "taco": {"passed": false, "reason": "sent2_span 'taco de golfe' blanks the only disambiguating word 'golfe', leaving 'O ___ dela é importado' — a generic possessive statement with zero cue toward a golf club or pool cue (could be any imported object)."},
+  "talher": {"passed": true, "reason": ""},
+  "taça": {"passed": true, "reason": ""}
+}

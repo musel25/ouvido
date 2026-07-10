@@ -1,0 +1,22 @@
+{
+  "papo": {"passed": true, "reason": ""},
+  "trampo": {"passed": true, "reason": ""},
+  "rango": {"passed": true, "reason": ""},
+  "birita": {"passed": true, "reason": ""},
+  "resenha": {"passed": true, "reason": ""},
+  "chute (dar um chute)": {"passed": true, "reason": ""},
+  "mexer (mexer com alguém)": {"passed": true, "reason": ""},
+  "cutucar": {"passed": true, "reason": ""},
+  "derrubar": {"passed": true, "reason": ""},
+  "largar": {"passed": false, "reason": "sent2_span 'largou o namorado' is a longer phrase than the item's surface form: item is the bare verb 'largar' with no parenthetical marking a multi-word target, yet the span pulls in the direct object 'o namorado' too. Removing it leaves 'Ela ___ depois da viagem.' which gives no cue to recover the object, only that something happened after the trip."},
+  "jogar (jogar fora)": {"passed": true, "reason": ""},
+  "arrumar": {"passed": false, "reason": "sent2_span 'arrumar um trampo' extends beyond the item's own surface form (item is just 'arrumar', no parenthetical licensing a multi-word phrase) by also swallowing the direct object 'um trampo' - which is itself another deck item ('trampo'), making the blank test two vocabulary items at once instead of just 'arrumar'."},
+  "consertar": {"passed": true, "reason": ""},
+  "beleza": {"passed": true, "reason": ""},
+  "bicho (pessoa)": {"passed": true, "reason": ""},
+  "cara (pessoa)": {"passed": true, "reason": ""},
+  "molecagem": {"passed": true, "reason": ""},
+  "sacanagem": {"passed": true, "reason": ""},
+  "sacana": {"passed": true, "reason": ""},
+  "vacilar": {"passed": true, "reason": ""}
+}

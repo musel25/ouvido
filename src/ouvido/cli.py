@@ -339,13 +339,16 @@ def _handle_push_notes(args) -> int:
             tags.append(f"fonte::{row['fonte']}")
         note_id = anki.add_note(args.deck, fields, tags)
         if note_id is None:
-            log.append({"item": note.item, "reason": "duplicate; addNote returned null"})
+            log.append({"item": note.item, "reason": "duplicate; already in the collection"})
         else:
             added += 1
             log.append({"item": note.item, "note_id": note_id})
     write_jsonl(args.log_path, log)
-    print(f"added {added}/{len(rows)} notes to deck {args.deck!r}")
-    return 0 if added == len(rows) else 1
+    skipped = len(rows) - added
+    print(f"added {added}, skipped {skipped} already present, of {len(rows)} notes "
+          f"in deck {args.deck!r}")
+    # A duplicate is not a failure: the build is idempotent by design.
+    return 0 if added + skipped == len(rows) else 1
 
 
 def _handle_sample(args) -> int:

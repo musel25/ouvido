@@ -3061,6 +3061,11 @@
  ],
  "película": [
   {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'película do olho' blanks out the disambiguating noun 'olho' itself, leaving 'A ___ fica irritada com o vento' with no cue pointing to a thin film/membrane specifically — could be skin, eyes, face, allergies; not recoverable."
+  },
+  {
    "lens": "naturalness",
    "passed": false,
    "reason": "Both example sentences use unnatural collocations. Brazilians don't say 'película de plástico' for cling wrap over food — the standard term is 'filme plástico' or 'papel filme'; 'película' is used for phone screen protectors, car window tinting, or photographic film, not kitchen wrap. Likewise 'a película do olho fica irritada com o vento' is a constructed-sounding anatomical phrase nobody actually says; a real speaker would just say 'o olho fica irritado com o vento'."
@@ -3072,6 +3077,11 @@
   }
  ],
  "podre": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'cheiro de podre' swallows 'cheiro' (the smell cue), leaving 'O ___ tomou conta da geladeira' — too generic (mess, mold, bugs, smell) to recover 'podre' specifically."
+  },
   {
    "lens": "naturalness",
    "passed": true,
@@ -3085,6 +3095,11 @@
  ],
  "polvo": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": true,
    "reason": ""
@@ -3096,6 +3111,11 @@
   }
  ],
  "porra": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
   {
    "lens": "naturalness",
    "passed": true,
@@ -3109,6 +3129,11 @@
  ],
  "pronto": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": true,
    "reason": ""
@@ -3120,6 +3145,11 @@
   }
  ],
  "punheta": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
   {
    "lens": "naturalness",
    "passed": true,
@@ -3133,6 +3163,11 @@
  ],
  "pó": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": false,
    "reason": "sent2 uses the reversed, non-standard word order 'pó de leite'. The natural Brazilian collocation is 'leite em pó' (powdered milk) — 'pó de leite' sounds backward and is not how a native speaker would say it."
@@ -3144,6 +3179,11 @@
   }
  ],
  "rato": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
   {
    "lens": "naturalness",
    "passed": true,
@@ -3157,6 +3197,11 @@
  ],
  "reparar": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": true,
    "reason": ""
@@ -3168,6 +3213,11 @@
   }
  ],
  "ressaca": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
   {
    "lens": "naturalness",
    "passed": true,
@@ -3181,6 +3231,11 @@
  ],
  "romance": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": true,
    "reason": ""
@@ -3192,6 +3247,11 @@
   }
  ],
  "saco": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
   {
    "lens": "naturalness",
    "passed": true,
@@ -3205,6 +3265,11 @@
  ],
  "salsa": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": true,
    "reason": ""
@@ -3216,6 +3281,11 @@
   }
  ],
  "saltar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
   {
    "lens": "naturalness",
    "passed": false,
@@ -3229,6 +3299,11 @@
  ],
  "sobremesa": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": true,
    "reason": ""
@@ -3240,6 +3315,11 @@
   }
  ],
  "sobrenome": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
   {
    "lens": "naturalness",
    "passed": true,
@@ -3253,6 +3333,11 @@
  ],
  "sótão": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": true,
    "reason": ""
@@ -3264,6 +3349,11 @@
   }
  ],
  "taco": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'taco de golfe' blanks the only disambiguating word 'golfe', leaving 'O ___ dela é importado' — a generic possessive statement with zero cue toward a golf club or pool cue (could be any imported object)."
+  },
   {
    "lens": "naturalness",
    "passed": true,
@@ -3277,6 +3367,11 @@
  ],
  "talher": [
   {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
    "lens": "naturalness",
    "passed": true,
    "reason": ""
@@ -3288,6 +3383,2969 @@
   }
  ],
  "taça": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tijolo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tirar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "trilhão": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "turma": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "vaso": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "vassoura": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'A vassoura nova' blanks the entire subject, leaving only 'tá atrás da porta' (is behind the door) — no semantic cue survives to recover that the missing word is a broom; the remainder fits almost any noun phrase."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "venta": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "xingar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "todavia": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'todavia foi' bundles the connective with the unrelated main verb 'foi' (from 'foi trabalhar' = went to work). Blanking both leaves 'Ele tava cansado, ___ trabalhar', which is ungrammatical/unrecoverable; the span should be just 'todavia', leaving 'Ele tava cansado, ___ foi trabalhar' which is clean and recoverable via the contrastive comma structure."
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent2 mixes a reduced spoken verb form ('tava') with 'todavia', which the deck's own notes admit is 'mostly formal/written register' rarely used in casual speech ('people usually just say mas or só que'). No real Brazilian says 'Ele tava cansado, todavia foi trabalhar' out loud — the literary conjunction clashes with the colloquial contraction in the same breath. Sent1 is equally stiff/written-register, undermining a deck whose whole point is spoken naturalness."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "assistir": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "acreditar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "puxar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ligar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "procurar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "propina": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "roxo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sino": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "presunto": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'Comprei presunto fatiado' blanks the verb and adjective along with the item, leaving only 'no mercado' (at the market). That remainder gives no cue at all about what was bought — could be any product — so the blank is not recoverable, and the span is far longer than the item's surface form ('presunto')."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "latido": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'O latido ficou' blanks subject and verb together, leaving only 'mais forte de noite' (got louder at night). That fits almost any noun (barulho, vento, chuva, medo...), so there is no cue recoverable to 'latido' specifically."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "molho": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "copo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cadeira": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'cadeira da cozinha' blanks the noun plus its only distinguishing modifier ('da cozinha'), leaving 'A ___ tá quebrada.' — nothing but 'something is broken' remains, which fits any household object equally well as 'chair'; not recoverable."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pasta": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bolso": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'caiu do bolso' blanks the entire predicate, leaving 'Cadê minha carteira? Acho que ___.' — no lexical trace of 'fell' or 'pocket' remains, so a listener cannot recover 'bolso' specifically over any other explanation for a missing wallet (car, home, lost, etc.)."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "esperto": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "trair": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "férias": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "comprido": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bagunça": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "caprichar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "chato": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "legal": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "valeu": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "grana": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "rolê": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bagulho": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "treta": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "mano": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'Mano, essa prova' bleeds into the next clause and swallows 'essa prova' (the subject of 'foi difícil'), which has nothing to do with the item; this is a longer/misaligned phrase, not the item's surface form, and leaves 'foi difícil demais' with zero cue for either the vocative or the missing subject."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "galera": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "moleque": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "garoto": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cadê": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "embora (ir embora)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "jeito": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "jeitinho": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "esquentar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "atrapalhar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bagunçar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "fofoca": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "saudade": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "teimoso": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "puxa-saco": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "encher o saco": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "mala (pessoa mala)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "zoar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "curtir": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "topar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sacar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ferrar (estar ferrado)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bater papo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "papo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "trampo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "rango": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "birita": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "resenha": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "chute (dar um chute)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "mexer (mexer com alguém)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cutucar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "derrubar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "largar": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'largou o namorado' is a longer phrase than the item's surface form: item is the bare verb 'largar' with no parenthetical marking a multi-word target, yet the span pulls in the direct object 'o namorado' too. Removing it leaves 'Ela ___ depois da viagem.' which gives no cue to recover the object, only that something happened after the trip."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": false,
+   "reason": "The 'cuidado' claims rioplatense Spanish uses 'largar' in a more limited way than Portuguese. This is doubtful: rioplatense Spanish colloquially uses 'largar' very broadly and similarly to the Portuguese senses given here — 'largar el laburo' (quit the job), 'largar a la novia/al novio' (dump the partner), 'largá eso' (drop/let go of something) are all common. The claimed contrast with Portuguese usage is not verifiable and likely overstated/false."
+  }
+ ],
+ "jogar (jogar fora)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "arrumar": [
+  {
+   "lens": "mechanics",
+   "passed": false,
+   "reason": "sent2_span 'arrumar um trampo' extends beyond the item's own surface form (item is just 'arrumar', no parenthetical licensing a multi-word phrase) by also swallowing the direct object 'um trampo' - which is itself another deck item ('trampo'), making the blank test two vocabulary items at once instead of just 'arrumar'."
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "consertar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "beleza": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bicho (pessoa)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cara (pessoa)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "molecagem": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sacanagem": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sacana": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "vacilar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dar bola": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ficar (ficar com alguém)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "rolar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "embromar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "enrolar": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "malandro": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "né": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "aí": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "então": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tipo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent1 'Ele é tipo muito estressado com o trabalho ultimamente' clashes 'é' (permanent trait, ser) with 'ultimamente' (implies a recent/temporary state) — a real Brazilian describing a recent stressed patch says 'tá' or 'anda' tipo estressado, not 'é'."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "assim": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sabe": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pois é": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ó": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "olha": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cara": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sei lá": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pô": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "poxa": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "nossa": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "eita": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "uai": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "opa": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "falou": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "sacou": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "putz": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ué": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ah tá": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "hein": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "viu": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tudo bem": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "é que": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "no caso": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "quer dizer": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "ou seja": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tipo assim": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "e aí": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "de boa": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "meu Deus": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "vixe": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "nem vem": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "que isso": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "imagina": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "magina": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "fala sério": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cê": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cês": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tá": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tô": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tava": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tavam": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tão": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "num": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "numa": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pra": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pro": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pra mim": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": false,
+   "reason": "The 'notes' and 'cuidado' claim 'pra mim' is informally used 'as subject' where standard grammar requires 'eu' (citing 'pra mim tá bom'), but neither the card's own cited example nor sent2 ('Pra mim, esse plano não vai dar certo') actually illustrates that phenomenon — in both, 'pra mim' is a fronted dative/opinion-marker ('to me' / 'in my opinion'), with 'esse plano' or an implicit 'isso' as the real subject, not 'mim'. The genuine BP colloquialism (using 'mim' instead of 'eu' as subject of an infinitive, e.g. 'pra mim chegar lá vai ser difícil') requires a following infinitive, which is absent from every example given. The cuidado's blanket claim that Spanish 'para mí' 'nunca es sujeto de oración' while Portuguese 'sí puede usarse así' is therefore not demonstrated and is misleading as written, since the opinion-marker sense shown ('Para mí, este plan no va a funcionar') is perfectly normal, identical-structure Spanish too."
+  }
+ ],
+ "vamo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "bora": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tá bom": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "deixa eu": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "falano": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "fazeno": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "comeno": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "indo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "falá": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "comê": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dormi": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cê vai": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cê tá": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tô indo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "tá vendo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "no": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "na": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "nos (contração)": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "nas": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "do": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "da": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "pela": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent1 'A gente foi pela praia até o final da tarde' mixes the route-preposition 'pela' (going along/through) with a duration phrase ('até o final da tarde'); a real Brazilian describing spending the afternoon at the beach would say 'A gente ficou na praia até o final da tarde' or 'A gente foi pra praia de manhã e ficou até a tarde' — 'foi pela praia...até' reads as constructed to showcase the word, not natural spoken usage."
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dele": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "dela": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "nele": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "nela": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "desse": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "nesse": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "daquele": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "naquele": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "disso": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "nisso": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "vô": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": false,
+   "reason": "sent2 'Amanhã vô lá em casa te ajudar' is semantically inconsistent: 'lá em casa' is the fixed deictic expression for the SPEAKER's own home ('at my place'), not the listener's. A Brazilian offering to go help someone at THEIR place would say 'vou aí (na tua casa) te ajudar' or 'passo aí pra te ajudar', not 'lá em casa'. As written, the sentence literally reads 'Tomorrow I'll go to my house to help you,' which doesn't parse the way sent2_en claims ('I'll come by your place')."
+  },
+  {
+   "lens": "semantics",
+   "passed": false,
+   "reason": "sent2/sent2_en mismatch: 'Amanhã vô lá em casa te ajudar' uses the fixed idiom 'lá em casa' which means 'at MY (the speaker's) house', not 'your place'. The literal sense is 'Tomorrow I'll go home to help you', which contradicts the given translation 'Tomorrow I'll come by your place to help you' — the direction of movement is reversed."
+  }
+ ],
+ "cê quer": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "memo": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": "Verified: Spanish 'memo/-a' is a real colloquial adjective meaning 'tonto/bobo' (fool), so the cuidado claim is true and correctly contrasted with BR Portuguese 'memo' = colloquial 'mesmo' (intensifier)."
+  }
+ ],
+ "qui": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "naturalness",
+   "passed": true,
+   "reason": ""
+  },
+  {
+   "lens": "semantics",
+   "passed": true,
+   "reason": ""
+  }
+ ],
+ "cabô": [
+  {
+   "lens": "mechanics",
+   "passed": true,
+   "reason": ""
+  },
   {
    "lens": "naturalness",
    "passed": true,

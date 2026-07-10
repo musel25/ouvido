@@ -1,0 +1,114 @@
+[
+ {
+  "lens": "naturalness",
+  "batch": "10"
+ },
+ {
+  "lens": "naturalness",
+  "batch": "11"
+ },
+ {
+  "lens": "naturalness",
+  "batch": "12"
+ },
+ {
+  "lens": "naturalness",
+  "batch": "13"
+ },
+ {
+  "lens": "naturalness",
+  "batch": "14"
+ },
+ {
+  "lens": "naturalness",
+  "batch": "15"
+ },
+ {
+  "lens": "naturalness",
+  "batch": "16"
+ },
+ {
+  "lens": "naturalness",
+  "batch": "17"
+ },
+ {
+  "lens": "naturalness",
+  "batch": "18"
+ },
+ {
+  "lens": "semantics",
+  "batch": "10"
+ },
+ {
+  "lens": "semantics",
+  "batch": "11"
+ },
+ {
+  "lens": "semantics",
+  "batch": "12"
+ },
+ {
+  "lens": "semantics",
+  "batch": "13"
+ },
+ {
+  "lens": "semantics",
+  "batch": "14"
+ },
+ {
+  "lens": "semantics",
+  "batch": "15"
+ },
+ {
+  "lens": "semantics",
+  "batch": "16"
+ },
+ {
+  "lens": "semantics",
+  "batch": "17"
+ },
+ {
+  "lens": "semantics",
+  "batch": "18"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "09"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "10"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "11"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "12"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "13"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "14"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "15"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "16"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "17"
+ },
+ {
+  "lens": "mechanics",
+  "batch": "18"
+ }
+]

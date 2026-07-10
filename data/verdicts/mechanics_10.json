@@ -1,0 +1,22 @@
+{
+  "tijolo": {"passed": true, "reason": ""},
+  "tirar": {"passed": true, "reason": ""},
+  "trilhão": {"passed": true, "reason": ""},
+  "turma": {"passed": true, "reason": ""},
+  "vaso": {"passed": true, "reason": ""},
+  "vassoura": {"passed": false, "reason": "sent2_span 'A vassoura nova' blanks the entire subject, leaving only 'tá atrás da porta' (is behind the door) — no semantic cue survives to recover that the missing word is a broom; the remainder fits almost any noun phrase."},
+  "venta": {"passed": true, "reason": ""},
+  "xingar": {"passed": true, "reason": ""},
+  "todavia": {"passed": false, "reason": "sent2_span 'todavia foi' bundles the connective with the unrelated main verb 'foi' (from 'foi trabalhar' = went to work). Blanking both leaves 'Ele tava cansado, ___ trabalhar', which is ungrammatical/unrecoverable; the span should be just 'todavia', leaving 'Ele tava cansado, ___ foi trabalhar' which is clean and recoverable via the contrastive comma structure."},
+  "assistir": {"passed": true, "reason": ""},
+  "acreditar": {"passed": true, "reason": ""},
+  "puxar": {"passed": true, "reason": ""},
+  "ligar": {"passed": true, "reason": ""},
+  "procurar": {"passed": true, "reason": ""},
+  "propina": {"passed": true, "reason": ""},
+  "roxo": {"passed": true, "reason": ""},
+  "sino": {"passed": true, "reason": ""},
+  "presunto": {"passed": false, "reason": "sent2_span 'Comprei presunto fatiado' blanks the verb and adjective along with the item, leaving only 'no mercado' (at the market). That remainder gives no cue at all about what was bought — could be any product — so the blank is not recoverable, and the span is far longer than the item's surface form ('presunto')."},
+  "latido": {"passed": false, "reason": "sent2_span 'O latido ficou' blanks subject and verb together, leaving only 'mais forte de noite' (got louder at night). That fits almost any noun (barulho, vento, chuva, medo...), so there is no cue recoverable to 'latido' specifically."},
+  "molho": {"passed": true, "reason": ""}
+}

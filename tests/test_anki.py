@@ -83,3 +83,19 @@ def test_suspend(server):
     REPLY.clear(); REPLY.update({"result": True, "error": None})
     assert Anki(server).suspend([1, 2, 3]) is True
     assert RECEIVED[0]["params"]["cards"] == [1, 2, 3]
+
+
+def test_add_note_returns_none_on_duplicate_instead_of_raising(server):
+    """AnkiConnect RAISES on a duplicate; it does not return null.
+
+    Real message: 'cannot create note because it is a duplicate'. push-notes must
+    stay idempotent, so add_note absorbs exactly this error and reports it as None.
+    """
+    REPLY.clear(); REPLY.update({"result": None, "error": "cannot create note because it is a duplicate"})
+    assert Anki(server).add_note("Ouvido", {"Item": "dar um jeito"}, []) is None
+
+
+def test_add_note_still_raises_on_any_other_error(server):
+    REPLY.clear(); REPLY.update({"result": None, "error": "deck was not found: Nope"})
+    with pytest.raises(AnkiError, match="deck was not found"):
+        Anki(server).add_note("Nope", {"Item": "x"}, [])

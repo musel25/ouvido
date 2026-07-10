@@ -1,0 +1,22 @@
+{
+  "dar bola": {"passed": true, "reason": ""},
+  "ficar (ficar com alguém)": {"passed": true, "reason": ""},
+  "rolar": {"passed": true, "reason": ""},
+  "embromar": {"passed": true, "reason": ""},
+  "enrolar": {"passed": true, "reason": ""},
+  "malandro": {"passed": true, "reason": ""},
+  "né": {"passed": true, "reason": ""},
+  "aí": {"passed": true, "reason": ""},
+  "então": {"passed": true, "reason": ""},
+  "tipo": {"passed": false, "reason": "sent1 'Ele é tipo muito estressado com o trabalho ultimamente' clashes 'é' (permanent trait, ser) with 'ultimamente' (implies a recent/temporary state) — a real Brazilian describing a recent stressed patch says 'tá' or 'anda' tipo estressado, not 'é'."},
+  "assim": {"passed": true, "reason": ""},
+  "sabe": {"passed": true, "reason": ""},
+  "pois é": {"passed": true, "reason": ""},
+  "ó": {"passed": true, "reason": ""},
+  "olha": {"passed": true, "reason": ""},
+  "cara": {"passed": true, "reason": ""},
+  "sei lá": {"passed": true, "reason": ""},
+  "pô": {"passed": true, "reason": ""},
+  "poxa": {"passed": true, "reason": ""},
+  "nossa": {"passed": true, "reason": ""}
+}

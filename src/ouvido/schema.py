@@ -1,6 +1,7 @@
 """Note model and the validation rules that gate every pipeline stage."""
 from __future__ import annotations
 
+import dataclasses
 import re
 from dataclasses import dataclass
 
@@ -105,4 +106,10 @@ def validate_deck(notes: list[Note]) -> None:
 
 
 def note_from_dict(d: dict) -> Note:
-    return Note(**d)
+    """Build a Note from a row, ignoring build metadata such as `fonte`.
+
+    Rows that reach Anki carry tag/provenance keys that are not note content;
+    passing them straight to the dataclass raises TypeError.
+    """
+    known = {f.name for f in dataclasses.fields(Note)}
+    return Note(**{k: v for k, v in d.items() if k in known})

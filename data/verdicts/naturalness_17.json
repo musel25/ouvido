@@ -1,0 +1,22 @@
+{
+  "deixa eu": {"passed": true, "reason": ""},
+  "falano": {"passed": true, "reason": ""},
+  "fazeno": {"passed": true, "reason": ""},
+  "comeno": {"passed": true, "reason": ""},
+  "indo": {"passed": true, "reason": ""},
+  "falá": {"passed": true, "reason": ""},
+  "comê": {"passed": true, "reason": ""},
+  "dormi": {"passed": true, "reason": ""},
+  "cê vai": {"passed": true, "reason": ""},
+  "cê tá": {"passed": true, "reason": ""},
+  "tô indo": {"passed": true, "reason": ""},
+  "tá vendo": {"passed": true, "reason": ""},
+  "no": {"passed": true, "reason": ""},
+  "na": {"passed": true, "reason": ""},
+  "nos (contração)": {"passed": true, "reason": ""},
+  "nas": {"passed": true, "reason": ""},
+  "do": {"passed": true, "reason": ""},
+  "da": {"passed": true, "reason": ""},
+  "pela": {"passed": false, "reason": "sent1 'A gente foi pela praia até o final da tarde' mixes the route-preposition 'pela' (going along/through) with a duration phrase ('até o final da tarde'); a real Brazilian describing spending the afternoon at the beach would say 'A gente ficou na praia até o final da tarde' or 'A gente foi pra praia de manhã e ficou até a tarde' — 'foi pela praia...até' reads as constructed to showcase the word, not natural spoken usage."},
+  "dele": {"passed": true, "reason": ""}
+}

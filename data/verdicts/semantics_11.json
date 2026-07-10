@@ -1,0 +1,22 @@
+{
+  "copo": {"passed": true, "reason": ""},
+  "cadeira": {"passed": true, "reason": ""},
+  "pasta": {"passed": true, "reason": ""},
+  "bolso": {"passed": true, "reason": ""},
+  "esperto": {"passed": true, "reason": ""},
+  "trair": {"passed": true, "reason": ""},
+  "férias": {"passed": true, "reason": ""},
+  "comprido": {"passed": true, "reason": ""},
+  "bagunça": {"passed": true, "reason": ""},
+  "caprichar": {"passed": true, "reason": ""},
+  "chato": {"passed": true, "reason": ""},
+  "legal": {"passed": true, "reason": ""},
+  "valeu": {"passed": true, "reason": ""},
+  "grana": {"passed": true, "reason": ""},
+  "rolê": {"passed": true, "reason": ""},
+  "bagulho": {"passed": true, "reason": ""},
+  "treta": {"passed": true, "reason": ""},
+  "mano": {"passed": true, "reason": ""},
+  "galera": {"passed": true, "reason": ""},
+  "moleque": {"passed": true, "reason": ""}
+}

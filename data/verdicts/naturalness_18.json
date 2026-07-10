@@ -1,0 +1,16 @@
+{
+  "dela": {"passed": true, "reason": ""},
+  "nele": {"passed": true, "reason": ""},
+  "nela": {"passed": true, "reason": ""},
+  "desse": {"passed": true, "reason": ""},
+  "nesse": {"passed": true, "reason": ""},
+  "daquele": {"passed": true, "reason": ""},
+  "naquele": {"passed": true, "reason": ""},
+  "disso": {"passed": true, "reason": ""},
+  "nisso": {"passed": true, "reason": ""},
+  "vô": {"passed": false, "reason": "sent2 'Amanhã vô lá em casa te ajudar' is semantically inconsistent: 'lá em casa' is the fixed deictic expression for the SPEAKER's own home ('at my place'), not the listener's. A Brazilian offering to go help someone at THEIR place would say 'vou aí (na tua casa) te ajudar' or 'passo aí pra te ajudar', not 'lá em casa'. As written, the sentence literally reads 'Tomorrow I'll go to my house to help you,' which doesn't parse the way sent2_en claims ('I'll come by your place')."},
+  "cê quer": {"passed": true, "reason": ""},
+  "memo": {"passed": true, "reason": ""},
+  "qui": {"passed": true, "reason": ""},
+  "cabô": {"passed": true, "reason": ""}
+}

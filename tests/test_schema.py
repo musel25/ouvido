@@ -79,3 +79,19 @@ def test_parenthetical_disambiguator_does_not_count_toward_item_length():
                        sent1="Ela ficou brava.",
                        sent2="A conta ficou cara demais.",
                        sent2_span="ficou cara"))
+
+
+def test_note_from_dict_ignores_build_metadata():
+    """Rows carry build-time keys (`fonte`) that are tags, not note content.
+
+    Without this, push-notes dies with
+    TypeError: Note.__init__() got an unexpected keyword argument 'fonte'
+    """
+    from ouvido.schema import note_from_dict
+    row = dict(item="mala", gloss="suitcase", sent1="Cadê a mala?", sent1_en="Where's the suitcase?",
+               sent2="Perdi a mala no aeroporto.", sent2_en="I lost the suitcase at the airport.",
+               sent2_span="mala", stratum="falso-amigo", rules=["R2"],
+               fonte="pois-nao", unexpected_key=123)
+    note = note_from_dict(row)
+    assert note.item == "mala"
+    assert not hasattr(note, "fonte")
