@@ -57,7 +57,7 @@ Requires `uv`, and Anki running with the AnkiConnect add-on (there is no headles
 
 ```bash
 ./scripts/fetch_subtlex.sh
-uv run pytest                                     # 102 tests
+uv run pytest                                     # 105 tests
 
 uv run python -m ouvido.cli filter-candidates --in data/candidates --freqs data/subtlex/subtlex.tsv \
     --out data/candidates_kept.json --log data/logs/rejected_candidates.jsonl
